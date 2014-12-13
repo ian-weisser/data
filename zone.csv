@@ -1405,7 +1405,10 @@ MD003,Washington,Washington,39.6037,-77.8142
 MD004,Frederick,Frederick,39.4722,-77.3981
 MD005,Carroll,Carroll,39.5631,-77.0227
 MD006,Northern Baltimore,Baltimore,39.5444,-76.6677
+MD007,Harford,Harford,39.6395,-76.1605
 MD008,Cecil,Cecil,39.5749,-75.9384
+MD009,Montgomery,Montgomery,39.1363,-77.2041
+MD010,Howard,Howard,39.251,-76.9315
 MD011,Southern Baltimore,Baltimore City,39.3312,-76.6096
 MD012,Kent,Kent,39.2574,-76.0362
 MD013,Prince Georges,Prince Georges,38.8313,-76.8436
@@ -1423,12 +1426,6 @@ MD024,Inland Worcester,Worcester,38.2142,-75.3833
 MD025,Maryland Beaches,Worcester,38.251,-75.1598
 MD501,Extreme Western Allegany,Allegany,39.6015,-78.9284
 MD502,Central and Eastern Allegany,Allegany,39.6304,-78.597
-MD503,Northwest Montgomery,Montgomery,39.194918,-77.323307
-MD504,Central and Southeast Montgomery,Montgomery,39.091668,-77.113417
-MD505,Northwest Howard,Howard,39.323435,-77.059672
-MD506,Central and Southeast Howard,Howard,39.225938,-76.887214
-MD507,Northwest Harford,Harford,39.625777,-76.398535
-MD508,Southeast Harford,Harford,39.6395,-76.398535
 ME001,Northwest Aroostook,Aroostook,46.948,-69.1077
 ME002,Northeast Aroostook,Aroostook,46.7264,-68.2182
 ME003,Northern Somerset,Somerset,46.2366,-69.9716
@@ -3242,7 +3239,7 @@ VA022,Roanoke,City of Salem,37.2714,-80.052
 VA023,Botetourt,Botetourt,37.5571,-79.8123
 VA024,Rockbridge,City of Lexington,37.8136,-79.4465
 VA025,Augusta,City of Waynesboro,38.163,-79.1289
-VA026,Rockingham,Rockingham,38.5106,-78.8757
+VA026,Rockingham,City of Harrisonburg,38.5106,-78.8757
 VA027,Shenandoah,Shenandoah,38.8585,-78.5704
 VA028,Frederick,City of Winchester,39.2039,-78.2606
 VA029,Page,Page,38.62,-78.4841
@@ -3257,6 +3254,7 @@ VA037,Albemarle,City of Charlottesville,38.0231,-78.5555
 VA038,Greene,Greene,38.2977,-78.4669
 VA039,Madison,Madison,38.4137,-78.2792
 VA040,Rappahannock,Rappahannock,38.6845,-78.1593
+VA042,Loudoun,Loudoun,39.0907,-77.6357
 VA043,Henry,City of Martinsville,36.6828,-79.8736
 VA044,Pittsylvania,City of Danville,36.8111,-79.3976
 VA045,Campbell,City of Lynchburg,37.2231,-79.1048
@@ -3319,10 +3317,6 @@ VA501,Northern Fauquier,Fauquier,38.854,-77.8851
 VA502,Southern Fauquier,Fauquier,38.5953,-77.7154
 VA503,Western Highland,Highland,38.4256,-79.6618
 VA504,Eastern Highland,Highland,38.3315,-79.523
-VA505,Western Loudoun,Loudoun,39.133683,-77.696269
-VA506,Eastern Loudoun,Loudoun,39.00517,-77.51508
-VA507,Northern Virginia Blue Ridge,Greene,38.527223,-78.432274
-VA508,Central Virginia Blue Ridge,Amherst,37.988891,-78.94694
 VI001,St.Thomas...St. John.. and Adjacent Islands,Saint Thomas,18.3429,-64.8564
 VI002,St Croix,Saint Croix,17.7333,-64.7677
 VT001,Grand Isle,Grand Isle,44.7968,-73.2948
