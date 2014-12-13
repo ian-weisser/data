@@ -3504,7 +3504,6 @@ WV041,Tucker,Tucker,39.1136,-79.565
 WV042,Mercer,Mercer,37.4055,-81.1114
 WV043,Summers,Summers,37.6559,-80.8586
 WV044,Monroe,Monroe,37.5604,-80.5505
-WV045,Greenbrier,Greenbrier,37.9469,-80.4529
 WV046,Pocahontas,Pocahontas,38.3318,-80.0077
 WV047,Randolph,Randolph,38.7747,-79.8758
 WV050,Hampshire,Hampshire,39.3171,-78.6142
@@ -3518,6 +3517,8 @@ WV503,Western Mineral,Mineral,39.3868,-79.1158
 WV504,Eastern Mineral,Mineral,39.4239,-78.8872
 WV505,Western Pendleton,Pendleton,38.7534,-79.4656
 WV506,Eastern Pendleton,Pendleton,38.6434,-79.2919
+WV507,Eastern Greenbrier,Greenbrier,38.643374,-79.291858
+WV508,Western Greenbrier,Greenbrier,37.946932,-80.452938
 WY001,Yellowstone National Park,Gallatin,44.5976,-110.5469
 WY002,Absaroka Mountains,Park,44.2172,-109.5521
 WY003,Cody Foothills,Park,44.4594,-109.0463
