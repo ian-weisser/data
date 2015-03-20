@@ -263,8 +263,7 @@ CA017,Southern Sacramento Valley,Placer,38.6268,-121.5625
 CA018,Carquinez Strait and Delta,Solano,38.1432,-121.7623
 CA019,Northern San Joaquin Valley,Calaveras,37.7581,-121.041
 CA030,Joshua Tree National Park,San Bernardino,33.945,-115.8926
-CA031,Lower Colorado River Valley CA,Riverside,33.3131,-114.6609
-CA032,Riverside County/Eastern Deserts,Riverside,33.7185,-115.2342
+CA031,Lower Colorado River Valley CA,Imperial,33.3131,-114.6609
 CA033,Imperial County,Imperial,33.0422,-115.4701
 CA034,San Luis Obispo County Central Coast,San Luis Obispo,35.327,-120.7407
 CA035,Santa Barbara County Central Coast,Santa Barbara,34.7217,-120.4263
@@ -274,7 +273,6 @@ CA038,Cuyama Valley,Santa Barbara,34.9422,-119.7374
 CA039,Santa Barbara County South Coast,Santa Barbara,34.4568,-119.9036
 CA040,Ventura County Coast,Ventura,34.2181,-119.1214
 CA041,Los Angeles County Coast including Downtown Los Angeles,Los Angeles,33.9281,-118.3004
-CA042,Orange County Coastal Areas,Orange,33.7028,-117.7899
 CA043,San Diego County Coastal Areas,San Diego,32.9783,-117.2367
 CA044,Ventura County Interior Valleys,Ventura,34.3941,-119.1198
 CA045,Ventura County Coastal Valleys,Ventura,34.2538,-118.8399
@@ -295,6 +293,7 @@ CA061,Coachella Valley,Riverside,33.7424,-116.3024
 CA062,San Diego County Deserts,San Diego,33.0511,-116.2536
 CA063,Mountains Southwestern Shasta County to Northern Lake County,Tehama,39.8175,-122.7565
 CA064,Clear Lake/Southern Lake County,Lake,38.9962,-122.6644
+CA065,San Gorgonio Pass Near Banning,Riverside,33.7185,-115.2342
 CA066,Northeast Foothills/Sacramento Valley,Tehama,40.1117,-121.7566
 CA067,Motherlode,Yuba,38.6192,-120.7698
 CA068,Western Plumas County/Lassen Park,Plumas,40.1971,-121.3501
@@ -349,6 +348,8 @@ CA529,Northern Monterey Bay,Santa Cruz,36.9757,-121.9005
 CA530,Southern Monterey Bay and Big Sur Coast,Monterey,36.6165,-121.7566
 CA547,Los Angeles County San Fernando Valley,Los Angeles,34.2043,-118.4799
 CA548,Los Angeles County San Gabriel Valley,Los Angeles,34.0657,-117.9738
+CA552,Orange County Coastal,Orange,33.7028,-117.7899
+CA554,Orange County Inland,Orange,,
 CO001,Lower Yampa River Basin,Rio Blanco,40.444,-108.6994
 CO002,Central Yampa River Basin,Routt,40.4046,-107.9134
 CO003,Roan and Tavaputs Plateaus,Rio Blanco,39.5758,-108.4377
@@ -475,8 +476,8 @@ FL020,Hamilton,Hamilton,30.4964,-82.9478
 FL021,Suwannee,Suwannee,30.1956,-82.9915
 FL022,Columbia,Columbia,30.2243,-82.6215
 FL023,Baker,Baker,30.331,-82.2846
-FL024,Nassau,Nassau,30.6095,-81.8085
-FL025,Duval,Duval,30.3302,-81.674
+FL024,Inland Nassau,Nassau,30.6095,-81.8085
+FL025,Inland Duval,Duval,30.3302,-81.674
 FL026,Liberty,Liberty,30.2414,-84.8829
 FL027,Inland Wakulla,Wakulla,30.2017,-84.4474
 FL028,Inland Taylor,Taylor,30.0954,-83.5767
@@ -527,6 +528,8 @@ FL112,Coastal Bay,Bay,30.2213,-85.6654
 FL114,Coastal Gulf,Gulf,29.8173,-85.2726
 FL115,Coastal Franklin,Franklin,29.8382,-84.7899
 FL118,Coastal Jefferson,Jefferson,30.1477,-84.0221
+FL124,Coastal Nassau,Nassau,30.6095,-81.8085
+FL125,Coastal Duval,Duval,30.3302,-81.674
 FL127,Coastal Wakulla,Wakulla,30.0968,-84.3009
 FL128,Coastal Taylor,Taylor,29.9259,-83.6703
 FL134,Coastal Dixie,Dixie,29.4924,-83.2251
@@ -1405,10 +1408,7 @@ MD003,Washington,Washington,39.6037,-77.8142
 MD004,Frederick,Frederick,39.4722,-77.3981
 MD005,Carroll,Carroll,39.5631,-77.0227
 MD006,Northern Baltimore,Baltimore,39.5444,-76.6677
-MD007,Harford,Harford,39.6395,-76.1605
 MD008,Cecil,Cecil,39.5749,-75.9384
-MD009,Montgomery,Montgomery,39.1363,-77.2041
-MD010,Howard,Howard,39.251,-76.9315
 MD011,Southern Baltimore,Baltimore City,39.3312,-76.6096
 MD012,Kent,Kent,39.2574,-76.0362
 MD013,Prince Georges,Prince Georges,38.8313,-76.8436
@@ -1426,6 +1426,12 @@ MD024,Inland Worcester,Worcester,38.2142,-75.3833
 MD025,Maryland Beaches,Worcester,38.251,-75.1598
 MD501,Extreme Western Allegany,Allegany,39.6015,-78.9284
 MD502,Central and Eastern Allegany,Allegany,39.6304,-78.597
+MD503,Northwest Montgomery,Montgomery,39.194918,-77.323307
+MD504,Central and Southeast Montgomery,Montgomery,39.091668,-77.113417
+MD505,Northwest Howard,Howard,39.323435,-77.059672
+MD506,Central and Southeast Howard,Howard,39.225938,-76.887214
+MD507,Northwest Harford,Harford,39.625777,-76.398535
+MD508,Southeast Harford,Harford,39.6395,-76.398535
 ME001,Northwest Aroostook,Aroostook,46.948,-69.1077
 ME002,Northeast Aroostook,Aroostook,46.7264,-68.2182
 ME003,Northern Somerset,Somerset,46.2366,-69.9716
@@ -3239,7 +3245,7 @@ VA022,Roanoke,City of Salem,37.2714,-80.052
 VA023,Botetourt,Botetourt,37.5571,-79.8123
 VA024,Rockbridge,City of Lexington,37.8136,-79.4465
 VA025,Augusta,City of Waynesboro,38.163,-79.1289
-VA026,Rockingham,City of Harrisonburg,38.5106,-78.8757
+VA026,Rockingham,Rockingham,38.5106,-78.8757
 VA027,Shenandoah,Shenandoah,38.8585,-78.5704
 VA028,Frederick,City of Winchester,39.2039,-78.2606
 VA029,Page,Page,38.62,-78.4841
@@ -3254,7 +3260,6 @@ VA037,Albemarle,City of Charlottesville,38.0231,-78.5555
 VA038,Greene,Greene,38.2977,-78.4669
 VA039,Madison,Madison,38.4137,-78.2792
 VA040,Rappahannock,Rappahannock,38.6845,-78.1593
-VA042,Loudoun,Loudoun,39.0907,-77.6357
 VA043,Henry,City of Martinsville,36.6828,-79.8736
 VA044,Pittsylvania,City of Danville,36.8111,-79.3976
 VA045,Campbell,City of Lynchburg,37.2231,-79.1048
@@ -3282,11 +3287,7 @@ VA066,Lunenburg,Lunenburg,36.9462,-78.2406
 VA067,Nottoway,Nottoway,37.1431,-78.0512
 VA068,Amelia,Amelia,37.336,-77.9761
 VA069,Powhatan,Powhatan,37.5502,-77.9152
-VA070,Chesterfield,City of Colonial Heights,37.3765,-77.5835
-VA071,Henrico,City of Richmond,37.5362,-77.42
-VA072,King William,King William,37.7067,-77.0884
-VA073,King and Queen,King and Queen,37.7179,-76.8946
-VA074,Essex,Essex,37.8958,-76.808
+VA070,Eastern Chesterfield (Including Col. Heights),City of Colonial Heights,37.3765,-77.5835
 VA075,Westmoreland,Westmoreland,38.1366,-76.7253
 VA076,Richmond,Richmond,37.9429,-76.7249
 VA077,Northumberland,Northumberland,37.8863,-76.4228
@@ -3306,7 +3307,6 @@ VA090,James City,City of Williamsburg,37.3264,-76.7745
 VA091,York,City of Poquoson,37.2242,-76.5383
 VA092,Southampton,City of Franklin,36.7199,-77.1038
 VA093,Isle of Wight,Isle of Wight,36.9067,-76.7091
-VA094,Newport News/Hampton,City of Newport News,37.077,-76.5058
 VA095,Norfolk/Portsmouth,City of Portsmouth,36.8752,-76.2937
 VA096,Suffolk,City of Suffolk,36.8935,-76.4749
 VA097,Chesapeake,City of Chesapeake,36.6778,-76.3024
@@ -3317,6 +3317,21 @@ VA501,Northern Fauquier,Fauquier,38.854,-77.8851
 VA502,Southern Fauquier,Fauquier,38.5953,-77.7154
 VA503,Western Highland,Highland,38.4256,-79.6618
 VA504,Eastern Highland,Highland,38.3315,-79.523
+VA505,Western Loudoun,Loudoun,39.133683,-77.696269
+VA506,Eastern Loudoun,Loudoun,39.00517,-77.51508
+VA507,Northern Virginia Blue Ridge,Greene,38.527223,-78.432274
+VA508,Central Virginia Blue Ridge,Amherst,37.988891,-78.94694
+VA513,Western Chesterfield,Chesterfield,37.3765,-77.5835
+VA515,Eastern Henrico (Including the City of Richmond),Henrico,37.5362,-77.42
+VA516,Eastern Henrico,City of Richmond,37.5362,-77.42
+VA517,Western King William,King William,37.7067,-77.0884
+VA518,Eastern King William,King William,37.7067,-77.0884
+VA519,Western King and Queen,King and Queen,37.7179,-76.8946
+VA520,Eastern King and Queen,King and Queen,37.7179,-76.8946
+VA521,Western Essex,Essex,37.8958,-76.808
+VA522,Easterb Essex,Essex,37.9426,-76.9518
+VA524,Newport News/Hampton,City of Newport News,37.077,-76.5058
+VA525,Hampton/Poquoson,City of Hampton,37.0534,-76.3673
 VI001,St.Thomas...St. John.. and Adjacent Islands,Saint Thomas,18.3429,-64.8564
 VI002,St Croix,Saint Croix,17.7333,-64.7677
 VT001,Grand Isle,Grand Isle,44.7968,-73.2948
