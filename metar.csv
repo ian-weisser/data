@@ -1,174 +1,84 @@
 Name,Location,Latitude,Longitude
 AGGH,Honiara / Henderson,-9.416,160.05
-AGGL,Santa Cruz,-10.7,165.8
-AGGM,Munda,-8.333,157.266
 ANAU,Nauru Airport,-0.533,166.916
-AYMD,Madang,-5.216,145.783
 AYMO,Manus Island/Momote,-2.061,147.424
 AYPY,Moresby,-9.433,147.216
 AYWK,Wewak,-3.566,143.633
-BGAM,Tasiilaq,65.6,-37.633
-BGAS,Angisoq,59.983,-45.2
-BGAT,Aputiteeq,67.783,-32.3
 BGBW,Narsarsuaq,61.166,-45.416
 BGCO,Constable Pynt,70.75,-22.65
-BGDB,Daneborg,74.3,-20.216
-BGDH,Danmarkshavn,76.766,-18.666
-BGEM,Egedesminde,68.7,-52.75
-BGFH,Frederikshaab,62.0,-49.666
-BGGD,Groennedal,61.233,-48.1
 BGGH,Godthaab / Nuuk,64.166,-51.75
-BGHB,Holsteinsborg,66.916,-53.666
-BGJH,Julianehaab,60.716,-46.05
 BGJN,Jacobshavn Lufthavn,69.233,-51.066
 BGKK,Kulusuk Lufthavn,65.583,-37.15
-BGKT,Cape Tobin Automated Reporting Station,70.416,-21.966
-BGPC,Prins Christian Sund,60.05,-43.166
-BGSC,Scoresbysund,70.483,-21.95
 BGSF,Sdr Stroemfjord,67.016,-50.7
 BGTL,Thule A. B.,76.533,-68.75
 BIAR,Akureyri,65.683,-18.083
 BIEG,Egilsstadir,65.283,-14.4
-BIGR,Grimsey,66.533,-18.016
 BIHN,Akurnes,64.3,-15.216
 BIKF,Keflavikurflugvollur,63.966,-22.6
-BIRG,Raufarhofn,66.45,-15.95
 BIRK,Reykjavik,64.133,-21.9
-BIST,Stykkisholmur,65.083,-22.733
 BIVM,Vestmannaeyjar,63.4,-20.283
 BIVO,Skjaldthingsstadir,65.7,-14.816
-BIX1,"Biloxi, Keesler Air Force Base, Navu",30.401,-88.917
-BIX2,"Biloxi, Keesler Air Force Base, Navu",30.409,-88.918
-BIX3,"Biloxi, Keesler Air Force Base, Navu",30.410,-88.919
-CTPP,Camp Canargus,18.566,-72.316
-CWAC,Nitinat Lake Meteorological Aeronautical Presentation System,48.666,-124.833
-CWAD,Cape Mudge Light House,50.0,-125.2
 CWAE,Whistler,50.133,-122.95
 CWAF,Ile Rouge Meteorological Aeronautical Presentation System,48.083,-69.55
-CWAG,"La Scie, Nfld.",49.916,-55.666
-CWAH,"Amherst, N. S.",45.85,-64.266
 CWAJ,Erieau Meteorological Aeronautical Presentation System,42.25,-81.9
-CWAN,Amphitrite Point,48.916,-125.55
 CWAQ,Coronach Spc,49.05,-105.483
 CWAR,"Argentia, Nfld",47.3,-54.0
-CWAS,Pam Rocks,49.483,-123.3
-CWAU,Dryad Point Light House,52.183,-128.116
 CWAV,Sundre,51.766,-114.683
-CWAX,"St. Anthony, Nfld.",51.366,-55.633
 CWBA,"Banff, Alta.",51.183,-115.566
 CWBE,Killarney Meteorological Aeronautical Presentation System,45.966,-81.483
-CWBF,Burgeo Automated Reporting Station,47.616,-57.633
-CWBG,Big Creek,51.25,-123.083
-CWBI,"Britt, Ont.",45.8,-80.533
-CWBJ,Inner Whalebacks,61.916,-113.733
 CWBK,Caribou Point Meteorological Aeronautical Presentation System,45.766,-62.683
-CWBL,Bachelors Island Automated Reporting Station,51.75,-99.9
-CWBM,Beaverlodge,55.2,-119.4
 CWBO,Brooks Automatic Weather Reporting System,50.55,-111.85
-CWBR,"B, R",66.033,-91.833
 CWBT,"Longue Point De Mingan, Que.",50.266,-64.233
 CWBV,"Beaven Island, N. S.",44.816,-62.333
 CWBY,"Port Menier, Que.",49.833,-64.3
 CWBZ,St Anicet,45.116,-74.283
 CWCA,"Cartwright, Nfld.",53.7,-57.033
-CWCB,Nanakwa Shoals,53.816,-128.833
-CWCD,Saskatoon Kernen,52.15,-106.55
 CWCF,"Berens River CS , Man.",52.35,-97.033
-CWCH,Atikokan Automated Reporting Station,48.75,-91.616
 CWCI,"Caribou Island, Ont.",47.333,-85.833
 CWCJ,Pukaskwa,48.6,-86.3
 CWCL,"Clinton, B. C.",51.15,-121.5
-CWCM,Carberry Mcdc,49.9,-99.35
-CWCN,Malloch Dome Automatic Weather Reporting System,78.216,-101.05
 CWCO,Collingwood Automatic Weather Reporting System,44.5,-80.216
-CWCQ,Chatham Automatic Weather Reporting System,47.0,-65.466
-CWCS,Cote-Ste-Cath Mot,45.416,-73.566
 CWCT,Coronation Automated Reporting Station,52.066,-111.466
-CWCU,"Barrie, Ont.",44.383,-79.783
-CWCV,"Nootka Lightstation, B. C.",49.6,-126.616
-CWCX,Clut Lake Automated Reporting Station,66.0,-117.766
-CWCZ,"Addenbrooke Island Light, B. C.",51.6,-127.866
 CWDA,Englee Meteorological Aeronautical Presentation System,50.716,-56.116
-CWDB,Burwash Automatic Weather Reporting System,61.366,-139.05
 CWDC,"Uranium City, Sask.",59.566,-108.483
-CWDD,"Belle River, Ont.",42.3,-82.7
-CWDE,Lac Benoit,51.55,-71.116
-CWDF,Oliphant \ Ont,44.733,-81.283
-CWDH,"Daniel's Harbour, Nfld",50.233,-57.583
-CWDI,"Badger, Nfld",48.966,-56.066
 CWDJ,Regina University,50.4,-104.583
 CWDK,Claresholm Automatic Weather Reporting System,50.016,-113.633
 CWDL,Dease Lake B. C.,58.416,-130.0
 CWDM,"Chevery, Que.",50.466,-59.633
-CWDN,Wasaga Beach Automatic Weather Reporting System,44.516,-80.016
 CWDO,Twillingate Meteorological Aeronautical Presentation System,49.683,-54.8
-CWDP,Manouane-Est Automated Reporting Station,50.666,-70.533
 CWDQ,La Tuque,47.416,-72.8
-CWDS,"St. Lawrence, Nfld.",46.916,-55.383
 CWDT,Chute Des Passes,49.9,-71.25
-CWDU,Cop Upper,51.083,-114.216
 CWDV,"Upsala, Ont.",49.033,-90.466
 CWDZ,Drumheller East,51.433,-112.666
-CWEA,Pinawa Automatic Weather Reporting System,50.183,-96.066
 CWEB,"Estevan Point, B. C.",49.383,-126.55
-CWEC,Welcome Island,48.366,-89.116
 CWEE,Chamouchouane Automatic Weather Reporting System,49.283,-73.35
 CWEF,Saint Paul Island Meteorological Aeronautical Presentation System,47.233,-60.133
-CWEG,Alberta Weather Centre,53.5,-113.5
 CWEH,"Eastend Cypress, Sask",49.433,-108.983
-CWEI,"Melita, Man",49.283,-100.983
-CWEJ,Bow Drill Iii,47.2,-55.1
 CWEK,Grey Islet Meteorological Aeronautical Presentation System,54.583,-130.7
 CWEL,Entrance Island Automatic Weather Reporting System,49.216,-123.8
-CWEM,Egg Island Light,51.25,-127.833
-CWEO,"Lac Eon, Que",51.866,-63.283
 CWEP,"East Point, P. E. I",46.45,-61.966
 CWEQ,"Swan River, Man.",52.116,-101.233
 CWER,Ile D'Orleans Automated Reporting Station,47.0,-70.816
-CWES,Cape Scott Light,50.783,-128.433
-CWET,Egbert Meteorological Aeronautical Presentation System,44.233,-79.783
 CWEU,"Eureka, N. W. T.",79.983,-85.933
-CWEV,Ellice River Automated Reporting Station,67.7,-104.466
 CWEW,L'Assomption,45.816,-73.433
 CWEZ,Saturna Island Meteorological Aeronautical Presentation System,48.783,-123.05
 CWFD,"Cape Dyer, N. W. T.",66.583,-61.616
-CWFE,Elk Island National Park,53.683,-112.866
 CWFF,Melfort Automatic Weather Reporting System,52.816,-104.6
-CWFG,Sartine Island Meteorological Aeronautical Presentation System,50.816,-128.9
-CWFH,St. Shotts,46.716,-53.483
 CWFJ,Cardston Automated Reporting Station,49.2,-113.283
-CWFL,Fort Reliance,62.716,-109.166
-CWFM,Chatham Point Lighthouse,50.333,-125.433
-CWFN,Cree Lake Meteorological Aeronautical Presentation System,57.35,-107.133
-CWFP,Nain,56.55,-61.7
 CWFQ,Frelighsburg,45.05,-72.833
-CWFR,"Horsefly River, B. C.",52.283,-121.05
-CWFU,Little Macatina,52.233,-61.316
-CWFW,Baie Comeau,49.266,-68.15
-CWFX,Colville Lake,67.033,-126.083
-CWFY,Conne River,48.166,-55.483
-CWFZ,"Fort Reliance, N. W. T.",62.716,-109.183
 CWGB,Ballenas Island Automatic Weather Reporting System,49.35,-124.166
 CWGD,Goderich Automatic Weather Reporting System,43.766,-81.716
-CWGF,Garden River Automatic Weather Reporting System,58.683,-113.883
 CWGH,Grenadier Island,44.416,-75.85
-CWGJ,Montreal River Radar Site,47.233,-84.516
 CWGL,Lagoon City,44.533,-79.216
 CWGM,Waterton Park Gate,59.133,-113.8
-CWGN,"Gretna, Man.",49.033,-97.566
 CWGP,Pemberton Automatic Weather Reporting System,50.3,-122.733
-CWGQ,Roquemaure,48.633,-79.45
 CWGR,Iles-De-La-Madelein,47.416,-61.8
 CWGT,Sisters Island Automatic Weather Reporting System,49.483,-124.433
-CWGU,Gypsumville,51.666,-98.75
-CWGV,Carp Radar Site,45.316,-76.0
 CWGW,Sparwood Automatic Weather Reporting System,49.75,-114.9
 CWGX,"Gillam, Man.",56.366,-94.7
 CWGY,Esther 1,51.666,-110.2
 CWGZ,Grise Fiord Airport,76.416,-82.9
-CWHA,Highvale,53.45,-114.466
 CWHC,Vancouver Automatic Weather Reporting System,49.3,-123.116
-CWHE,Ellerslie,53.416,-113.2
 CWHH,Hunters Point Mar,53.033,-100.933
 CWHI,Three Hills,51.7,-113.216
 CWHL,Holland Rock Automatic Weather Reporting System,54.166,-130.366
@@ -177,172 +87,97 @@ CWHN,Jimmy Lake,54.916,-109.95
 CWHO,Hopedale Meteorological Aeronautical Presentation System,55.45,-60.233
 CWHP,Heath Point Meteorological Aeronautical Presentation System,49.083,-61.7
 CWHQ,"Deschambaults , Que.",46.683,-71.95
-CWHS,Bernard Harbour,68.783,-114.833
 CWHT,Haines Junction,60.766,-137.583
-CWHU,Star Brook,48.583,-57.233
 CWHV,Beauceville,46.2,-70.783
-CWHW,"Comfort Cove, Nfld.",49.266,-54.883
 CWHY,Mont-Orford,45.316,-72.25
 CWIA,"Saint Henri , Que.",48.65,-71.85
-CWIC,Isachsen Meteorological Aeronautical Presentation System,78.783,-103.55
 CWID,Fort Providence,61.316,-117.6
-CWIE,Indian River,64.383,-115.016
-CWIF,Quatsino Light Station,50.433,-128.033
 CWIG,"Ile Aux Grues, Que.",47.066,-70.533
 CWII,Victoria Beach,50.7,-96.566
 CWIJ,"Lupin, N. W. T.",65.766,-111.233
 CWIK,"Broadview, Sask.",50.383,-102.683
 CWIL,"Hat Island, N. W. T.",68.316,-100.083
-CWIM,Upsala Radar Site,49.033,-90.416
-CWIO,Iskut River,56.733,-131.666
 CWIP,"Pointe Noire , Que.",50.166,-66.433
 CWIQ,Primrose Lake,54.75,-110.05
-CWIR,Victoria Marine,48.366,-123.75
 CWIS,"Charlevoix CS , Que.",47.283,-70.633
 CWIT,Saint Clothilde Automated Reporting Station,45.166,-73.683
-CWIU,"Saint Gedeon, Que.",48.483,-71.783
 CWIW,Watrous East Automated Reporting Station,51.666,-105.4
 CWIX,Mistook Automated Reporting Station,48.766,-71.716
 CWIY,St Leonard Automatic Weather Reporting System,47.15,-67.816
 CWIZ,L'Acadie,45.3,-73.35
-CWJA,"Jasper, Alta.",52.883,-118.066
 CWJB,"Ste Foy CS , Que.",47.3,-71.266
 CWJC,Ennadai Lake Meteorological Aeronautical Presentation System,61.133,-100.9
 CWJD,"Grand Rapids, Man.",53.183,-99.266
-CWJG,Ivory Island Light,52.266,-128.416
 CWJH,Southend Automatic Weather Reporting System,56.333,-103.283
 CWJI,Assiniboia Airport Automated Reporting Station,49.733,-105.933
-CWJM,Upper Rideau Lake,44.7,-76.3
-CWJN,Herschel Island Automatic Weather Reporting System,69.566,-138.916
 CWJO,Jonquiere Automated Reporting Station,48.416,-71.216
-CWJP,Porter Lake,61.666,-108.416
 CWJR,Creston Automatic Weather Reporting System,49.083,-116.5
 CWJT,St Jovite Automatic Weather Reporting System,46.066,-74.533
 CWJU,"Langara, B. C.",54.25,-133.05
 CWJV,"Vernon, B. C.",50.233,-119.3
 CWJW,Jasper Warden Automated Reporting Station,52.933,-118.316
 CWJX,Leader Airport Automatic Weather Reporting System,50.9,-109.5
-CWJY,Yathkyed Lake Meteorological Aeronautical Presentation System,62.7,-98.3
-CWJZ,Dubawnt Lake Meteorological Aeronautical Presentation System,63.233,-101.766
 CWKD,"Bonnard 1, Que.",50.733,-71.016
-CWKE,Pelly Bay,68.433,-89.716
 CWKG,"Kejimkujik 1, N. S.",44.433,-65.2
 CWKH,Malahat Automatic Weather Reporting System,48.583,-123.583
-CWKI,Kitimat,54.05,-128.683
 CWKK,Katatota Island,49.716,-88.333
 CWKM,"Komakuk Beach, Y. T.",69.616,-140.2
 CWKO,"Rockglen, Sask.",49.166,-105.983
-CWKR,King Radar Site,43.966,-79.566
-CWKS,"Sikanni Chief, B. C.",57.25,-122.716
-CWKU,Whiskey Automated Reporting Station,81.033,-76.95
-CWKV,Hope Slide,49.283,-121.233
 CWKW,Cape Kakkiviak,59.983,-64.166
 CWKX,Dease Lake Coastal Station,58.416,-130.0
-CWLA,"Langara, B. C.",54.25,-133.133
 CWLB,"Lac La Biche, Alta.",54.766,-112.016
 CWLC,"Lucy Island, B. C.",54.3,-130.6
 CWLE,Lucky Lake Automatic Weather Reporting System,50.95,-107.15
-CWLF,Lansdowne House,52.233,-87.883
-CWLG,Little Chicago,67.2,-130.216
 CWLI,Liverpool Bay,69.6,-130.9
 CWLM,Victoria Automatic Weather Reporting System,48.416,-123.316
 CWLO,Shilo,49.783,-99.633
 CWLP,Herbert Island Meteorological Aeronautical Presentation System,50.933,-127.633
-CWLQ,Nipissing,46.316,-79.466
 CWLS,"Mount Forest, Ont.",43.983,-80.75
-CWLT,"Alert, N. W. T.",82.5,-62.333
 CWLU,"Lauzon, Que.",46.833,-71.166
-CWLV,Waskesiu Lake Automated Reporting Station,53.916,-106.066
 CWLX,"Longstaff Bluff, N. W. T.",68.883,-75.133
 CWLY,"Lytton, B. C.",50.233,-121.583
-CWLZ,Candle Lake,53.733,-105.266
-CWMA,Masset A,54.016,-132.116
-CWMD,Mould Bay Camp,76.233,-119.316
 CWME,Cathedral Point Meteorological Aeronautical Presentation System,52.183,-127.466
-CWMH,"Mary's Harbour, Nfld.",52.3,-55.833
-CWMI,"Miscou Island, N. B.",48.016,-64.5
 CWMJ,Maniwaki,46.283,-76.0
 CWMM,P. Meadows Coastal Station Automatic Weather Reporting System,49.2,-122.683
-CWMN,Mcgill Radar Site,45.416,-73.933
-CWMP,Powder Lake,61.05,-109.333
 CWMQ,Maplecreek Automatic Weather Reporting System,49.9,-109.466
-CWMR,Merry Island,49.466,-123.916
-CWMS,"Mcinnes Island, B. C.",52.266,-128.716
 CWMT,Lac La Martre,63.15,-117.266
-CWMU,Rampart River Automatic Weather Reporting System,65.95,-130.466
-CWMV,St Charles Creek,64.75,-124.216
-CWMW,"Maniwaki, Que.",46.383,-75.966
-CWMX,Mildred Lake,57.533,-111.566
 CWMZ,Western Island Meteorological Aeronautical Presentation System,45.033,-80.366
 CWNB,S. E. Shoal Meteorological Aeronautical Presentation System,41.833,-82.466
 CWNC,"Cobourg, Ont.",43.95,-78.166
 CWND,Pelly Island Automatic Weather Reporting System,69.633,-135.433
 CWNE,"North Point, Prince Edward Island",47.083,-64.0
 CWNH,"Riviere Du Loup, Que.",47.8,-69.55
-CWNI,Nipterk Base,69.616,-135.333
-CWNJ,"Green Island Light Station - Heliport, B. C.",54.566,-130.7
 CWNK,Carman U Of M,49.5,-98.033
 CWNL,Great Duck Island,45.633,-82.966
 CWNM,Nelson Automatic Weather Reporting System,49.5,-117.3
-CWNO,Satah River Automatic Weather Reporting System,66.866,-134.2
 CWNP,Nakusp Automatic Weather Reporting System,50.266,-117.816
 CWNQ,Nicolet Automatic Weather Reporting System,46.216,-72.65
-CWNR,Nakiska Ridgetop,50.95,-115.183
-CWNT,Turtle Mountain,49.583,-114.416
-CWNW,Haldane River Automatic Weather Reporting System,67.066,-121.1
-CWNX,Nechako River,53.683,-124.833
 CWNZ,"Nagagami, Ont.",49.75,-84.166
-CWOA,"Camsell River, N. W. T.",65.616,-118.116
 CWOB,Brevoort Island,63.333,-64.15
 CWOC,New Carlisle1,48.016,-65.333
 CWOD,Normandin,48.833,-72.55
 CWOE,Onefour Automatic Weather Reporting System,49.116,-110.466
-CWOH,Ste Agathe Des Mont,46.05,-74.283
-CWOI,Ivvavik Park Automatic Weather Reporting System,69.15,-140.15
-CWOK,Elbow Marine Aviation Reporting Station,51.133,-106.583
-CWOL,Sable Island Man,43.916,-59.916
-CWON,Dawson Automatic Weather Reporting System,64.05,-139.15
-CWOU,Primrose Lake 2,54.783,-110.066
 CWOY,Wynyard Marine Aviation Reporting Station,51.766,-104.216
-CWPA,Henderickson Automatic Weather Reporting System,53.783,-118.433
 CWPB,Beausoleil Island Automated Reporting Station,44.85,-79.866
 CWPC,Port Colborne Automated Reporting Station,42.866,-79.25
 CWPD,Parc Des Laurentid,47.566,-71.233
 CWPE,"Point Lepreau, N. B.",45.066,-66.466
 CWPF,"Esquimalt Harbour, B. C.",48.433,-123.433
-CWPH,"Inukjuak, Que",58.45,-78.116
-CWPI,Pine Island Meteorological Aeronautical Presentation System,50.983,-127.733
-CWPJ,Point Escuminac Meteorological Aeronautical Presentation System,47.066,-64.8
 CWPK,"Parent, Que.",47.916,-74.616
-CWPL,"Pickle Lake, Ont.",51.45,-90.2
 CWPO,"Pilot Mound, Man.",49.2,-98.9
 CWPQ,Montreal-Est,45.633,-70.55
 CWPR,Princeton Automatic Weather Reporting System,50.6,-120.516
 CWPS,Long Point Meteorological Aeronautical Presentation System,42.566,-80.05
-CWPU,"Puntzi Mountain, B. C.",52.116,-124.133
 CWPX,"Cape Peel West, N. W. T.",69.033,-107.816
-CWPY,Fort Chipewyan Automated Reporting Station,58.766,-111.133
 CWPZ,"Burns Lake CS , B. C.",54.383,-125.95
-CWQC,"Port Alberni, B. C.",49.25,-124.833
-CWQE,Toronto Headland,43.616,-79.35
-CWQF,Rabbit Kettle Automated Reporting Station,61.966,-127.216
-CWQG,Valcartier,46.9,-71.5
 CWQH,Lennoxville,45.366,-71.816
-CWQJ,Sedco 710,46.5,-48.5
 CWQK,Race Rocks Automatic Weather Reporting System,48.3,-123.533
-CWQL,Lethbridge Automated Reporting Station,49.7,-112.783
-CWQM,Cap Rouge,48.383,-70.533
 CWQO,"Ile Bicquette, Que.",48.415,-68.893
 CWQP,"Point Petre , Ont.",43.833,-77.15
-CWQQ,Lacombe Cda,52.45,-113.75
 CWQR,"Ile Aux Perroquets, Que.",50.223,-64.208
 CWQS,"Kindakun Rocks, B. C.",53.316,-132.75
 CWQV,Puinte Claveau,48.266,-70.116
-CWQW,Cape Whittle,50.166,-60.066
-CWQY,Hanbury River Automated Reporting Station,63.583,-105.15
-CWQZ,Quesnel Automatic Weather Reporting System,53.033,-122.533
 CWRA,"Cape Race, Nfld",46.65,-53.066
-CWRD,Red Earth,56.533,-115.266
 CWRF,Pelly Bay 1,69.433,-89.733
 CWRH,"Resolution Island, N. W. T.",61.583,-64.65
 CWRJ,"Rosetown East, Sask",51.566,-107.916
@@ -350,69 +185,36 @@ CWRK,Bancroft Automatic Weather Reporting System,45.066,-77.866
 CWRM,Rocky House Marine Aviation Reporting Station,52.433,-114.933
 CWRN,Hart Island Meteorological Aeronautical Presentation System,45.35,-60.983
 CWRO,Rose Spit Meteorological Aeronautical Presentation System,54.166,-131.666
-CWRP,Nicholson Peninsul,69.933,-128.966
-CWRQ,Trois Rivieres,46.383,-72.616
 CWRT,Crowsnest,49.633,-114.483
 CWRU,Solander Island Meteorological Aeronautical Presentation System,50.116,-127.933
-CWRV,Camrose,53.033,-112.816
-CWRW,Fourchu Head Meteorological Aeronautical Presentation System,45.716,-60.233
 CWRX,"Rowley Island, N. W. T.",69.066,-79.066
 CWRY,Milk River,49.133,-112.05
 CWRZ,"Cap D'Espoir , Que.",48.416,-64.316
 CWSA,"Sable Island, N. S.",43.933,-60.016
 CWSD,Summerside Automatic Weather Reporting System,46.433,-63.85
-CWSE,Edmonton Stony Plain Alta.,53.533,-114.1
 CWSF,Cap Madeleine Meteorological Aeronautical Presentation System,49.25,-65.333
 CWSG,"Cap Chat CS, Que.",49.116,-66.65
-CWSH,Sousa Crk Avt,58.583,-118.5
-CWSI,"Simcoe, Ont.",42.85,-80.266
 CWSK,"Squamish Airport, B. C",49.783,-123.166
 CWSL,Salmon Arm Automatic Weather Reporting System,50.7,-119.283
-CWSO,Exeter Radar Site,43.366,-81.383
 CWSP,Sheringham Automatic Weather Reporting System,48.383,-123.916
-CWSQ,Aulvik National Park,74.133,-119.983
 CWSR,"Spiritwood West, Sask",53.366,-107.55
 CWSS,"St. Stephen, N. B.",45.216,-67.25
 CWST,La Pocatiere,47.35,-70.033
-CWSV,Blue River Marine Aviation Reporting Station,52.1,-119.3
 CWSW,Sparwood / Elk Valley,49.75,-114.883
-CWSY,"Sachs Harbour, N. W. T.",72.0,-125.266
-CWSZ,Fisher Branch Marine Aviation Reporting Station,51.083,-97.55
 CWTA,Mc Tavish Automated Reporting Station,45.5,-73.583
-CWTB,"Border, Que.",55.333,-63.216
-CWTC,Ethelda Bay,53.05,-129.683
-CWTD,Robertson Lake Automated Reporting Station,65.1,-102.433
-CWTE,Trout Lake,60.433,-121.233
-CWTF,Beartooth Island,59.216,-109.7
 CWTG,"Pointe-Des-Monts , Que.",49.316,-67.383
-CWTH,Tetsa River,58.65,-124.233
-CWTI,"Triple Island Light, B. C.",54.3,-130.883
 CWTN,Cap Tourmente,47.066,-70.8
-CWTO,Toronto Aes Hq,43.783,-79.466
 CWTU,"Tukialik Bay, Nfld.",54.716,-58.35
 CWTY,Trois Rivieres,46.35,-72.516
-CWTZ,Toronto Island,43.633,-79.416
-CWUL,Quebec Fcst Office,45.5,-73.683
-CWUM,"Faro, Y. T.",62.233,-133.35
 CWUP,"Cape Hooper, N. W. T.",68.466,-66.8
-CWUR,"Truro, N. S.",45.366,-63.266
 CWUS,Summerland Automatic Weather Reporting System,49.566,-119.65
-CWUT,Shoal Lake Airport Automated Reporting Station,50.45,-100.6
-CWUU,Mackar Inlet,68.3,-85.666
 CWUW,"Dewar Lakes, N. W. T.",68.65,-71.166
 CWUX,"La Baie , Que.",48.3,-70.933
-CWUY,Rouyn,48.25,-79.033
-CWVA,"Bonavista, Nfld.",48.666,-53.116
-CWVB,Bonilla Island Light,53.5,-130.633
-CWVC,Swift Current Automatic Weather Reporting System,50.266,-107.733
 CWVD,Broughton Island,67.533,-63.783
-CWVE,Valleyfield,45.233,-74.1
 CWVF,"Sand Heads CS, B. C.",49.1,-123.3
 CWVH,"Storm Hills , N. W. T.",68.9,-133.933
 CWVI,Vegreville Automatic Weather Reporting System,53.616,-112.033
-CWVK,"Vernon, B. C.",50.233,-119.283
 CWVN,"Val Marie Southeast, Sask",49.066,-107.583
-CWVO,Vauxhall Cda,50.05,-112.133
 CWVP,Cypress Hills Park,49.65,-109.516
 CWVQ,Ste Anne De Bell 1,45.433,-73.933
 CWVT,"Buffalo Narrows, Sask.",55.833,-108.433
@@ -422,60 +224,36 @@ CWVY,Villeroy Radar Site,46.433,-71.933
 CWVZ,"Ile Charron, Que.",45.583,-73.5
 CWWA,W Vancouver Automatic Weather Reporting System,49.35,-123.183
 CWWB,Burlington Piers,43.3,-79.8
-CWWC,Collins Bay Automatic Weather Reporting System,58.183,-103.7
 CWWE,"Western Head, N. S.",43.983,-64.666
 CWWF,Weyburn Automatic Weather Reporting System,49.7,-103.8
 CWWK,White Rock Automatic Weather Reporting System,49.016,-122.783
 CWWL,Bonilla Island Meteorological Aeronautical Presentation System,53.5,-130.633
-CWWM,Grant Automatic Weather Reporting System,82.5,-65.083
-CWWN,Peawanuck Meteorological Aeronautical Presentation System,54.983,-85.433
-CWWO,Willow Creek,53.383,-118.333
-CWWP,"Wasagaming, Man.",50.65,-99.933
-CWWQ,Muncho Lake,58.916,-125.766
 CWWS,George Island Meteorological Aeronautical Presentation System,52.8,-97.616
 CWWU,Ingenika Point,56.8,-124.9
-CWWV,Killinek Meteorological Aeronautical Presentation System,60.416,-64.85
 CWWX,Cove Island Meteorological Aeronautical Presentation System,45.333,-81.733
 CWWZ,"Port Weller, Ont.",43.25,-79.216
 CWXA,Bow Valley,51.083,-115.066
 CWXC,"Onatchiway, Que.",48.883,-71.033
-CWXH,"Holberg, B. C.",50.633,-128.116
 CWXI,Ferolle Point Meteorological Aeronautical Presentation System,51.016,-57.1
-CWXJ,Bull Arm Automatic Weather Reporting System,47.816,-53.9
 CWXL,Bow Island,49.633,-111.45
-CWXM,Helmcken Island Meteorological Aeronautical Presentation System,50.4,-125.866
-CWXO,Rowan Gorilla Iii,43.883,-60.55
-CWXP,Pangnirtung,66.15,-65.733
 CWXR,"Croker River, N. W. T.",69.266,-119.216
-CWXV,Back River Meteorological Aeronautical Presentation System,66.083,-96.5
-CWXW,Alexis River Meteorological Aeronautical Presentation System,52.65,-56.866
-CWYB,N. Bay Weather Office,46.316,-79.45
-CWYE,Outlook Pfra,51.483,-107.05
-CWYG,Charlottetown,46.233,-63.133
-CWYH,Rae Lakes,64.116,-117.366
 CWYJ,Victoria University,48.45,-123.3
 CWYK,"Cape Kiglapait, Nfld.",57.133,-61.483
 CWYL,Yoho Park Automatic Weather Reporting System,51.45,-116.333
 CWYM,Cape Mercy,64.95,-63.583
-CWYO,"Wynyard, Sask.",51.766,-104.2
 CWYY,Osoyoos Automatic Weather Reporting System,49.033,-119.433
 CWZA,Agassiz Automated Reporting Station,49.25,-121.766
-CWZB,"Port-Aux-Basques, Nfld.",47.566,-59.166
-CWZD,Scudder Point Meteorological Aeronautical Presentation System,52.45,-131.233
 CWZG,Banff Marine Aviation Reporting Station,51.2,-115.55
 CWZL,Cumshewa Island Meteorological Aeronautical Presentation System,53.033,-131.6
-CWZM,Boat Bluff Light,52.65,-128.516
 CWZN,Sagona Island Meteorological Aeronautical Presentation System,47.366,-55.8
 CWZO,"Kelp Reefs, B. C.",48.55,-123.233
 CWZQ,"Grand Etang, N. S.",46.55,-61.05
 CWZS,"Amqui , Que.",48.466,-67.433
-CWZT,Dauphin Coastal Station,51.1,-100.05
 CWZV,Virginia Falls,61.633,-125.8
 CWZW,Teslin Marine Aviation Reporting Station,60.166,-132.766
 CWZZ,Saglek Bay,58.333,-62.583
 CXBK,"Bratts Lake, Sask.",50.2,-104.7
 CXBO,"Beauport CS, Que.",46.833,-71.2
-CXBP,"Confederation Bridge, Prince Edward Island",46.233,-63.733
 CXCH,"Cheticamp, N. S.",46.65,-60.95
 CXCK,"Carmacks CS, Y. T.",62.116,-136.183
 CXDE,"Deline , N. W. T.",65.216,-123.433
@@ -504,11 +282,9 @@ CXTN,"Tuktut Nogait , N. W. T.",69.183,-122.35
 CXTP,"Terra Nova National Park CS, Nfld.",48.556,-53.974
 CXTV,"Trail Valley , N. W. T.",68.75,-133.5
 CXWN,"Winnipeg The Forks, Man.",49.883,-97.133
-CXXX,"Cluff Lake , Sask.",58.383,-109.5
 CXZU,"Whitecourt , Alta.",54.15,-115.783
 CYAD,La Grande Iii Supplementary Aviation Weather Reporting Station,53.566,-76.2
 CYAH,"La Grande Iv, Que.",53.75,-73.666
-CYAJ,Komakuk Beach Airport,69.583,-140.183
 CYAM,"Sault Ste Marie, Ont.",46.483,-84.5
 CYAS,Kangirsuk Supplementary Aviation Weather Reporting Station,60.016,-70.0
 CYAW,"Shearwater, N. S.",44.633,-63.5
@@ -526,24 +302,19 @@ CYBU,"Nipawin, Sask.",53.333,-104.0
 CYBV,Berens River Airport,52.35,-97.033
 CYBW,Calgary / Springbank,51.1,-114.366
 CYBX,"Blanc Sablon, Que.",51.45,-57.183
-CYCA,Cartwright Man,53.683,-57.033
 CYCB,"Cambridge Bay, N. W. T.",69.1,-105.116
 CYCD,Nanaimo Airport,49.05,-123.866
 CYCG,Castlegar Airport,49.3,-117.633
-CYCH,Chatham Can-Mil,47.0,-65.45
-CYCL,"Charlo, N. B.",47.983,-66.333
 CYCO,"Coppermine, N. W. T.",67.816,-115.133
 CYCP,"Blue River, B. C.",52.133,-119.3
 CYCQ,Chetwynd Airport,55.7,-121.633
 CYCS,Chesterfield Inlet,63.333,-90.716
-CYCT,Coronation Marine Aviation Reporting Station,52.066,-111.45
 CYCX,Gagetown Can-Mil,45.833,-66.433
 CYCY,"Clyde, N. W. T.",70.483,-68.516
 CYDA,"Dawson, Y. T.",64.05,-139.133
 CYDB,Burwash Airport,61.366,-139.033
 CYDC,Princeton Airport,49.466,-120.516
 CYDF,"Deer Lake, Nfld.",49.216,-57.4
-CYDM,Ross River Airport,61.966,-132.433
 CYDN,"Dauphin, Man.",51.1,-100.05
 CYDP,"Nain, Nfld",56.55,-61.683
 CYDQ,Dawson Creek Airport,55.75,-120.183
@@ -553,7 +324,6 @@ CYEK,Arviat Airport,61.1,-94.066
 CYEL,Elliot Lake Supplementary Aviation Weather Reporting Station,46.35,-82.566
 CYEN,"Estevan, Sask.",49.216,-102.966
 CYET,"Edson, Alta.",53.583,-116.466
-CYEU,Eureka Man,80.0,-85.816
 CYEV,"Inuvik, N. W. T.",68.3,-133.483
 CYFB,"Iqaluit, N. W. T.",63.75,-68.55
 CYFC,"Fredericton, N. B.",45.866,-66.533
@@ -565,7 +335,6 @@ CYGE,Golden Airport,51.3,-116.983
 CYGH,Fort Good Hope Airport,66.266,-128.616
 CYGK,"Kingston, Ont.",44.216,-76.6
 CYGL,"La Grande Riviere, Que",53.633,-77.7
-CYGM,"Gimli Industrial, Man",50.616,-97.033
 CYGP,"Gaspe, Que.",48.766,-64.483
 CYGQ,"Geraldton, Ont.",49.783,-86.933
 CYGR,Iles De La Madeleineque.,47.416,-61.783
@@ -574,7 +343,6 @@ CYGV,Havre St Pierre,50.283,-63.616
 CYGW,"Kuujjuarapik, Que.",55.283,-77.766
 CYGX,"Gillam, Man.",56.35,-94.7
 CYHA,Quaqtaq Airport,61.05,-69.633
-CYHB,"Hudson Bay, Sask.",52.816,-102.316
 CYHD,Dryden Airport,49.833,-92.75
 CYHE,"Hope, B. C.",49.366,-121.483
 CYHH,Nemiscau Airport Supplementary Aviation Weather Reporting Station,51.7,-76.116
@@ -584,7 +352,6 @@ CYHM,Hamilton Airport,43.166,-79.933
 CYHU,Saint Hubert Airport,45.516,-73.416
 CYHY,"Hay River, N. W. T.",60.833,-115.783
 CYHZ,Halifax International Airport,44.883,-63.5
-CYID,Digby Airport Aviation Weather Reporting Station,44.55,-65.783
 CYIK,Ivujivik Airport Supplementary Aviation Weather Reporting Station,62.416,-77.95
 CYIO,"Pond Inlet, N. W. T.",72.7,-77.966
 CYIV,"Island Lake, Man.",53.85,-94.65
@@ -610,10 +377,8 @@ CYLT,Alert Airport,82.516,-62.283
 CYLU,Kangiksualujjuaq A,58.716,-65.983
 CYLW,Kelowna Airport,49.966,-119.383
 CYMA,Mayo Airport,63.616,-135.866
-CYMD,"Mould Bay, N. W. T.",76.233,-119.333
 CYMH,Mary's Harbour,52.3,-55.85
 CYMJ,"Moose Jaw, Sask.",50.333,-105.55
-CYML,Charlevoix Airport,47.6,-70.233
 CYMM,"Fort Mcmurray, Alta.",56.65,-111.216
 CYMO,"Moosonee, Ont.",51.266,-80.65
 CYMT,"Chibougamau-Chapais, Que",49.766,-74.533
@@ -637,13 +402,11 @@ CYPE,"Peace River, Alta.",56.233,-117.433
 CYPG,Portage Southport A,49.9,-98.266
 CYPH,Inukjuak Airport Supplementary Aviation Weather Reporting Station,58.466,-78.083
 CYPL,Pickle Lake Man,51.45,-90.2
-CYPN,Port Menier Man,49.833,-64.283
 CYPQ,Peterborough Airport,44.233,-78.366
 CYPR,"Prince Rupert, B. C.",54.3,-130.433
 CYPW,Powell River Airport,49.833,-124.5
 CYPX,Povungnituq,60.05,-77.283
 CYPY,"Fort Chipewyan, Alta.",58.766,-111.116
-CYPZ,Burns Lake,54.383,-125.95
 CYQA,"Muskoka, Ont.",44.966,-79.3
 CYQB,"Quebec, Que",46.8,-71.383
 CYQD,"The Pas, Man.",53.966,-101.1
@@ -666,10 +429,8 @@ CYQZ,Quesnel Airport,53.033,-122.516
 CYRB,"Resolute, N. W. T.",74.716,-94.983
 CYRJ,"Roberval, Que.",48.516,-72.266
 CYRL,"Red Lake, Ont.",51.066,-93.8
-CYRM,"Rocky Mountain House, Alta",52.433,-114.916
 CYRT,"Rankin Inlet, N. W. T.",62.816,-92.116
 CYRV,"Revelstoke, B. C.",50.966,-118.183
-CYSA,Sable Island Airport,43.933,-60.0
 CYSB,"Sudbury, Ont.",46.616,-80.8
 CYSC,"Sherbrooke, Que.",45.4,-71.883
 CYSD,Suffield Airport,50.266,-111.183
@@ -680,27 +441,20 @@ CYSL,Saint Leonard Airport,47.15,-67.833
 CYSM,"Fort Smith, N. W. T.",60.016,-111.95
 CYSN,Saint Catharines Airport,43.2,-79.166
 CYSR,Nanisivik Airport,72.983,-84.633
-CYSU,Summerside Can-Mil,46.433,-63.833
 CYSY,Sachs Harbour Airport,72.0,-125.283
 CYTE,"Cape Dorset, N. W. T.",64.216,-76.533
 CYTH,"Thompson Weather Office, Man",55.8,-97.85
 CYTJ,Terrace Bay Supplementary Aviation Weather Reporting Station,48.816,-87.1
 CYTL,Big Trout Lake,53.833,-89.866
-CYTN,"Trenton Municipal A, N. S.",45.611,-62.621
 CYTQ,Tasiujaq A,58.666,-69.95
 CYTR,"Trenton, Ont.",44.116,-77.533
 CYTS,"Timmins, Ont.",48.566,-81.366
 CYTZ,Toronto Island Airport Automated Reporting Station,43.633,-79.4
 CYUA,"Shingle Point, Y. T.",68.95,-137.216
 CYUB,Tuktoyaktuk,69.45,-133.016
-CYUI,Cape Young Airport,68.933,-116.916
-CYUJ,"Lady Franklin Point, N. W. T.",68.5,-113.216
-CYUK,Byron Bay Airport,68.75,-109.066
 CYUL,"Montreal / Pierre Elliot Trudeau International Airport, Que",45.466,-73.75
-CYUQ,Jenny Lind Island Airport,68.65,-101.733
 CYUS,"Shepherd Bay, N. W. T.",68.816,-93.433
 CYUT,Repulse Bay Airport,66.533,-86.25
-CYUV,Longstaff Blf Airport,68.933,-75.283
 CYUX,"Hall Beach, N. W. T.",68.783,-81.25
 CYUY,Rouyn Airport,48.2,-78.833
 CYVC,"La Ronge, Sask",55.15,-105.266
@@ -717,8 +471,6 @@ CYWH,Victoria Harbour,48.416,-123.333
 CYWJ,Fort Franklin Airport,65.2,-123.433
 CYWK,"Wabush Lake, Nfld.",52.933,-66.866
 CYWL,"Williams Lake, B. C.",52.183,-122.05
-CYWO,Lupin Airport Supplementary Aviation Weather Reporting Station,65.766,-111.25
-CYWV,Wainwright Airport,52.8,-110.883
 CYWY,Wrigley Airport,63.216,-123.433
 CYXC,"Cranbrook, B. C.",49.616,-115.783
 CYXD,Edmonton Municipal Alta.,53.566,-113.516
@@ -750,7 +502,6 @@ CYYQ,"Churchill, Man.",58.733,-94.066
 CYYR,"Goose, Nfld.",53.316,-60.416
 CYYT,"St. John's, Nfld",47.616,-52.733
 CYYU,"Kapuskasing, Ont.",49.416,-82.466
-CYYW,"Armstrong, Ont.",50.3,-89.033
 CYYY,"Mont Joli, Que.",48.6,-68.216
 CYYZ,Toronto Pearson Int'L. Ont.,43.666,-79.633
 CYZE,"Gore Bay, Ont.",45.883,-82.566
@@ -766,27 +517,18 @@ CYZV,"Sept-Iles, Que.",50.216,-66.266
 CYZW,"Teslin, Y. T.",60.166,-132.733
 CYZX,"Greenwood, N. S.",44.983,-64.916
 CYZY,"Mackenzie, B. C.",55.3,-123.133
-CZAG,La Grande Iv Remote Environment Automatic Data Acquisition Concept,53.75,-73.683
 CZBF,Bathurst Airport Aviation Weather Reporting Station,47.633,-65.75
 CZCP,"Cape Parry, N. W. T.",70.1,-124.716
-CZDI,Churchill Falls,53.566,-64.1
 CZEM,Eastmain River Airport,52.233,-78.516
 CZFA,Faro Airport,62.2,-133.366
 CZFM,Fort Mcpherson Airport,67.4,-134.85
 CZFN,Fort Norman Airport,64.916,-125.566
-CZNB,North Bay Remote Environment Automatic Data Acquisition Concept,46.366,-79.416
-CZOC,Old Crow Automatic Weather Reporting System,67.566,-139.833
 CZPC,Pincher Creek Airport,49.516,-113.983
-CZPK,Paulatuk Automated Reporting Station,69.35,-124.05
 CZST,Stewart Airport,55.933,-129.983
-CZUB,Tuktoyaktuk Automated Reporting Station,69.433,-133.033
-CZUE,"Cape Parry, N. W. T.",70.166,-124.7
 CZUM,"Churchill Falls, Nfld.",53.55,-64.1
 CZVL,Edmonton / Villeneuve,53.666,-113.866
-CZWN,Wainwright Automatic Weather Reporting System,52.816,-111.083
 DAAD,Bou-Saada,35.333,4.2
 DAAE,Bejaia,36.716,5.066
-DAAF,Aoulef,26.966,1.083
 DAAG,Dar-El-Beida,36.716,3.25
 DAAJ,Djanet,24.55,9.466
 DAAP,Illizi,26.5,8.416
@@ -800,7 +542,6 @@ DABP,Skikda,36.933,6.95
 DABS,Tebessa,35.483,8.133
 DABT,Batna,35.55,6.183
 DAFH,Tilrempt/Hassi R'mel,32.929,3.312
-DAFI,Djelfa,34.683,3.25
 DAOB,Tiaret,35.25,1.433
 DAOF,Tindouf,27.666,-8.133
 DAOI,Chlef,36.216,1.333
@@ -825,10 +566,6 @@ DAUU,Ouargla,31.916,5.4
 DAUZ,In Amenas,28.05,9.633
 DBBB,Cotonou,6.35,2.383
 DBBC,Bohicon,7.166,2.066
-DBBK,Kandi,11.133,2.933
-DBBN,Natitingou,10.316,1.383
-DBBP,Parakou,9.35,2.616
-DBBS,Save,8.033,2.466
 DFCC,Ouahigouya,13.566,-2.416
 DFCO,Boromo,11.75,-2.933
 DFCP,Po,11.15,-1.15
@@ -839,24 +576,10 @@ DFOD,Dedougou,12.466,-3.483
 DFOG,Gaoua,10.333,-3.183
 DFOO,Bobo-Dioulasso,11.166,-4.316
 DGAA,Accra,5.6,-0.166
-DGAD,Ada,5.783,0.633
-DGAH,Ho,6.6,0.466
-DGAK,Akuse,6.1,0.116
-DGAS,Saltpond,5.2,-1.066
-DGAT,Tema,5.616,0.0
-DGKA,Akim Oda,5.933,-0.983
-DGKK,Koforidua,6.083,-0.25
-DGLB,Bole,9.033,-2.483
 DGLE,Tamale,9.5,-0.85
-DGLN,Navrongo,10.9,-1.1
-DGLW,Wa,10.05,-2.5
-DGLY,Yendi,9.45,-0.016
-DGSB,Sefwi Bekwai,6.2,-2.333
 DGSI,Kumasi,6.716,-1.6
 DGSN,Sunyani,7.333,-2.333
-DGSW,Wenchi,7.75,-2.1
 DGTK,Takoradi,4.883,-1.766
-DGTX,Axim,4.866,-2.233
 DIAD,Adiake,5.3,-3.3
 DIAP,Abidjan,5.25,-3.933
 DIBK,Bouake,7.733,-5.066
@@ -866,7 +589,6 @@ DIDL,Daloa,6.866,-6.466
 DIGA,Gagnoa,6.133,-5.95
 DIKO,Korhogo,9.416,-5.616
 DIMN,Man,7.383,-7.516
-DIOD,Odienne,9.5,-7.566
 DISP,San Pedro,4.75,-6.65
 DISS,Sassandra,4.95,-6.083
 DITB,Tabou,4.416,-7.366
@@ -874,7 +596,6 @@ DIYO,Yamoussoukro,6.9,-5.35
 DNBI,Bida,9.1,6.016
 DNCA,Calabar,4.966,8.35
 DNEN,Enugu,6.466,7.55
-DNGU,Gusau,12.166,6.7
 DNIB,Ibadan,7.433,3.9
 DNIL,Ilorin,8.483,4.583
 DNJO,Jos,9.866,8.9
@@ -890,7 +611,6 @@ DNYO,Yola,9.233,12.466
 DNZA,Zaria,11.133,7.683
 DRRB,Birni-N'Konni,13.8,5.25
 DRRG,Gaya,11.883,3.45
-DRRI,Bilma,18.683,12.916
 DRRL,Tillabery,14.2,1.45
 DRRM,Maradi,13.466,7.083
 DRRN,Niamey-Aero,13.483,2.166
@@ -910,7 +630,6 @@ DTTG,Gabes,33.883,10.1
 DTTJ,Djerba Mellita,33.866,10.766
 DTTK,Kairouan,35.666,10.1
 DTTL,Kelibia,36.85,11.083
-DTTM,Monastir-Skanes,35.666,10.75
 DTTN,Jendouba,36.483,8.8
 DTTR,El Borma,31.683,9.166
 DTTX,Sfax El-Maou,34.716,10.683
@@ -925,28 +644,17 @@ EBAW,Antwerpen / Deurne,51.2,4.466
 EBBE,Beauvechain,50.75,4.766
 EBBL,Kleine Brogel,51.166,5.466
 EBBR,Bruxelles National,50.9,4.533
-EBBT,Brasschaat,51.333,4.5
-EBBX,Bertrix Bel-Afb,49.9,5.216
 EBCI,Charleroi / Gosselies,50.466,4.45
 EBCV,Chievres,50.566,3.833
 EBDT,Schaffen,51.0,5.066
 EBFN,Koksijde,51.083,2.65
 EBFS,Florennes,50.233,4.65
-EBGT,Gent / Industrie-Zone,51.183,3.816
 EBLB,Elsenborn,50.466,6.183
 EBLG,Bierset,50.65,5.45
-EBMB,Melsbroek Bel-Afb,50.9,4.5
-EBMT,Munte,50.933,3.733
 EBOS,Oostende Airport,51.2,2.866
 EBSP,Spa / La Sauveniere,50.483,5.916
-EBST,Sint-Truiden,50.8,5.2
-EBSU,St-Hubert,50.033,5.4
-EBTN,Goetsenhoven,50.783,4.95
-EBWE,Weelde Military,51.416,5.0
-EBZW,Genk,50.933,5.5
 EDAC,Altenburg Nobitz,50.966,12.5
 EDAH,Heringsdorf,53.883,14.15
-EDBM,"Magdeburg, Sachsen-Anhalt",52.076,11.623
 EDDB,Berlin-Schoenefeld,52.383,13.516
 EDDC,Dresden-Klotzsche,51.133,13.75
 EDDE,Erfurt-Bindersleben,50.983,10.966
@@ -984,12 +692,9 @@ EDRZ,"Zweibrucken, Rheinland-Pfalz",49.209,7.401
 EDSB,"Karlsruhe, Baden Wurttemberg",48.778,8.079
 EDTD,Donaueschingen / Villingen,47.966,8.516
 EDTL,"Lahr, CAN-AFB",48.369,7.827
-EDTZ,Konstanz,47.683,9.183
 EDVE,Braunschweig,52.3,10.45
 EDVK,Kassel / Calden,51.4,9.383
-EDWD,Lemwerder,53.15,8.616
 EDXW,Westerland / Sylt,54.916,8.35
-EDZE,Essen,51.4,6.966
 EEKA,Kardla,58.983,22.816
 EEKE,Kuressaare,58.23,22.509
 EEPU,Parnu,58.419,24.472
@@ -999,9 +704,6 @@ EFET,Enontekio,68.364,23.427
 EFHA,Halli,61.85,24.8
 EFHF,Helsinki-Malmi,60.25,25.05
 EFHK,Helsinki-Vantaa,60.316,24.966
-EFHL,Hailuoto,65.033,24.8
-EFHT,Ahtari,62.533,24.216
-EFIL,Ilmajoki,62.7,22.833
 EFIV,Ivalo,68.616,27.416
 EFJO,Joensuu,62.666,29.633
 EFJY,Jyvaskyla,62.4,25.683
@@ -1016,19 +718,15 @@ EFLP,Lappeenranta,61.045,28.148
 EFMA,Mariehamn / Aland Island,60.116,19.9
 EFMI,Mikkeli,61.733,27.3
 EFOU,Oulu,64.933,25.366
-EFPE,Pello,66.8,24.0
 EFPO,Pori,61.466,21.8
-EFPU,Pudasjarvi,65.366,27.016
 EFRO,Rovaniemi,66.566,25.833
 EFSA,Savonlinna,61.95,28.95
 EFSI,Seinajoki-Ilmajok,62.693,22.831
 EFSO,Sodankyla,67.366,26.65
-EFSU,Suomussalmi,64.9,29.016
 EFTP,Tampere / Pirkkala,61.416,23.583
 EFTU,Turku,60.516,22.266
 EFUT,Utti,60.9,26.933
 EFVA,Vaasa,63.05,21.766
-EFVI,Viitasaari,63.083,25.866
 EFVR,Varkaus,62.166,27.866
 EGAA,Belfast / Aldergrove Airport,54.65,-6.216
 EGAC,Belfast / Harbour,54.6,-5.883
@@ -1037,19 +735,14 @@ EGBB,Birmingham / Airport,52.45,-1.733
 EGBE,Coventry Airport,52.366,-1.483
 EGBJ,Staverton Private,51.9,-2.166
 EGCC,Manchester Airport,53.35,-2.283
-EGDB,Plymouth,50.35,-4.116
-EGDC,Chivenor,51.083,-4.15
 EGDG,Saint Mawgan,50.433,-5.0
-EGDK,Kemble Royal Air Force Base,51.666,-2.05
 EGDL,Lyneham,51.5,-1.983
 EGDM,Boscombe Down,51.166,-1.75
-EGDP,Portland / Rnas,50.566,-2.45
 EGDR,Culdrose,50.083,-5.25
 EGDX,St Athan Royal Air Force Base,51.4,-3.433
 EGDY,Yeovilton,51.0,-2.633
 EGEC,Campbeltown,55.437,-5.686
 EGFF,Cardiff-Wales Airport,51.4,-3.35
-EGFH,Swansea,51.6,-4.066
 EGGD,Bristol / Lulsgate,51.383,-2.716
 EGGP,Liverpool Airport,53.333,-2.85
 EGGW,Luton Airport,51.866,-0.366
@@ -1072,20 +765,17 @@ EGMH,"Manston, South East",51.341,1.346
 EGNC,Carlisle,54.933,-2.95
 EGNH,Blackpool Airport,53.766,-3.033
 EGNJ,Humberside,53.583,-0.35
-EGNL,Walney Island,54.116,-3.25
 EGNM,Leeds And Bradford,53.866,-1.65
 EGNR,Hawarden,53.166,-2.983
 EGNS,Isle Of Man / Ronaldsway Airport,54.083,-4.633
 EGNT,Newcastle,55.033,-1.7
 EGNV,Tees-Side,54.516,-1.416
 EGNX,East Midlands,52.833,-1.333
-EGOD,Llanbedr,52.816,-4.133
 EGOM,Spadeadam,55.05,-2.55
 EGOP,Pembrey Sands,51.716,-4.366
 EGOS,Shawbury,52.8,-2.666
 EGOV,Valley,53.25,-4.533
 EGOW,Woodvale,53.581,-3.055
-EGOY,West Freugh,54.85,-4.95
 EGPA,Kirkwall Airport,58.95,-2.9
 EGPB,Sumburgh Cape,59.883,-1.3
 EGPC,Wick,58.45,-3.083
@@ -1099,61 +789,41 @@ EGPL,Benbecula,57.466,-7.366
 EGPM,Scatsa / Shetland Island,60.433,-1.3
 EGPN,Dundee / Riverside,56.45,-3.016
 EGPO,Stornoway,58.216,-6.316
-EGPT,Perth / Scone,56.45,-3.366
 EGPU,Tiree,56.5,-6.883
-EGPW,Unst Island,60.733,-0.816
 EGQA,Tain Range,57.816,-3.966
-EGQJ,Machrihanish,55.433,-5.7
 EGQK,Kinloss,57.65,-3.566
 EGQL,Leuchars,56.383,-2.866
 EGQM,Boulmer,55.416,-1.6
 EGQS,Lossiemouth,57.716,-3.316
-EGRB,London Weather Centre,51.516,-0.116
-EGRR,Bracknell / Beaufort Park,51.383,-0.783
 EGSC,Cambridge,52.2,0.183
 EGSH,Norwich Weather Centre,52.633,1.3
 EGSS,Stansted Airport,51.883,0.233
-EGSY,"Yorkshire and Humberside, Sheffield City",53.394,-1.388
 EGTC,Cranfield,52.066,-0.616
 EGTE,Exeter Airport,50.733,-3.416
 EGTG,Filton Private,51.516,-2.583
-EGTH,Hatfeild Private,51.766,-0.25
-EGUA,Upper Heyford Royal Air Force Base,51.933,-1.25
 EGUB,Benson,51.616,-1.083
-EGUC,Aberporth,52.133,-4.566
-EGUF,Farnborough Military,51.283,-0.766
 EGUL,Lakenheath Royal Air Force Base,52.416,0.566
-EGUM,Manston,51.35,1.35
 EGUN,Mildenhall Royal Air Force Base,52.366,0.483
 EGUO,Colerne,51.439,-2.286
-EGUP,Sculthorpe Af Met,52.85,0.766
 EGUW,Wattisham,52.116,0.966
 EGUY,Wyton Royal Air Force Base,52.35,-0.116
 EGVA,Fairford Royal Air Force Base,51.683,-1.783
-EGVG,Woodbridge Royal Air Force Base,52.083,1.4
-EGVI,Greenham Common Royal Air Force Base,51.383,-1.283
-EGVJ,Bentwaters Royal Air Force Base,52.133,1.433
 EGVN,Brize Norton,51.75,-1.583
 EGVO,Odiham,51.233,-0.95
 EGVP,Middle Wallop,51.15,-1.566
 EGWC,Cosford Royal Air Force Base,52.633,-2.3
 EGWU,Northolt,51.55,-0.416
-EGWZ,Alconbury Royal Air Force Base,52.366,-0.216
 EGXC,Coningsby Royal Air Force Base,53.083,-0.166
 EGXD,Disforth,54.133,-1.416
 EGXE,Leeming,54.3,-1.533
-EGXF,Cowden,53.85,-6.1
 EGXG,Church Fenton,53.833,-1.2
-EGXH,Honington Royal Air Force Base,52.333,0.766
 EGXJ,Cottesmore,52.733,-0.65
-EGXN,Newton,52.966,-0.983
 EGXP,Scampton,53.307,-0.550
 EGXT,Wittering,52.616,-0.466
 EGXU,Linton-On-Ouse,54.05,-1.25
 EGXV,Leconfield,53.866,-0.433
 EGXW,Waddington,53.166,-0.516
 EGXZ,Topcliffe Royal Air Force Base,54.2,-1.383
-EGYC,Coltishall,52.433,1.35
 EGYD,Cranwell,53.033,-0.5
 EGYE,Barkston Heath Royal Air Force Base,52.966,-0.566
 EGYH,Holbeach,52.866,0.15
@@ -1162,13 +832,11 @@ EGYP,Mount Pleasant Airport,-51.816,-58.45
 EGYW,Wainfleet,53.083,0.266
 EHAM,Amsterdam Airport Schiphol,52.3,4.766
 EHBK,Maastricht Airport Zuid Limburg,50.916,5.783
-EHDB,De Bilt,52.1,5.183
 EHDL,Deelen,52.066,5.883
 EHEH,Eindhoven,51.45,5.416
 EHGG,Groningen Airport Eelde,53.133,6.583
 EHGR,Gilze-Rijen,51.566,4.933
 EHKD,De Kooy,52.916,4.783
-EHLE,Lelystad,52.45,5.516
 EHLW,Leeuwarden,53.216,5.766
 EHRD,Rotterdam Airport Zestienhoven,51.95,4.45
 EHSB,Soesterberg,52.133,5.283
@@ -1183,45 +851,32 @@ EIKN,Connaught,53.910,-8.818
 EIME,Casement Aerodrome,53.3,-6.433
 EINN,Shannon Airport,52.7,-8.916
 EKAH,Tirstrup,56.3,10.616
-EKAT,Anholt Island Automated Reporting Station,56.7,11.55
 EKAV,Avno Danish Air Force Base,55.083,11.783
 EKBI,Billund Lufthavn,55.733,9.166
 EKCH,Koebenhavn / Kastrup,55.616,12.65
 EKEB,Esbjerg,55.533,8.566
-EKHO,Lindtorp Airport,56.4,8.45
-EKHS,Hadsund,56.716,10.116
 EKKA,Karup,56.3,9.116
-EKMB,Maribo Lufthavn,54.7,11.45
 EKOD,Odense / Beldringe,55.483,10.333
 EKRK,Koebenhavn / Roskilde,55.583,12.133
 EKRN,Roenne,55.066,14.75
 EKSB,Soenderborg Lufthavn,54.966,9.783
 EKSN,Sindal Flyveplads,57.5,10.216
 EKSP,Skrydstrup,55.233,9.266
-EKST,Sydfyns Flyveplads,55.016,10.566
-EKSV,Skive Lufthavn,56.55,9.166
-EKTS,Thisted Lufthavn,57.066,8.716
-EKVA,Vandel,55.7,9.2
 EKVD,Vamdrup,55.433,9.333
 EKVG,Soervaag / Vagar,62.066,-7.283
 EKVJ,Stauning Lufthavn,56.0,8.35
-EKVL,Vaerloese,55.766,12.333
 EKYT,Aalborg,57.1,9.85
 ELLX,Luxembourg / Luxembourg,49.616,6.216
 ENAL,Alesund / Vigra,62.566,6.116
 ENAN,Andoya,69.3,16.15
-ENAS,Ny-Alesund Ii,78.916,11.933
 ENAT,Alta Lufthavn,69.983,23.366
-ENBJ,Bjornoya,74.516,19.016
 ENBL,Forde / Bringeland,61.45,5.866
-ENBM,Voss-Bo,60.65,6.5
 ENBN,Bronnoysund / Bronnoy,65.466,12.216
 ENBO,Bodo Vi,67.266,14.366
 ENBR,Bergen / Flesland,60.283,5.233
 ENBS,Batsfjord,70.633,29.733
 ENBV,Berlevag,70.866,29.033
 ENCN,Kristiansand / Kjevik,58.2,8.083
-ENDI,Dagali,60.416,8.516
 ENDR,Draugen,64.355,7.791
 ENDU,Bardufoss,69.066,18.533
 ENEK,Ekofisk Oil Platform,56.55,3.25
@@ -1229,17 +884,13 @@ ENEV,Evenes,68.516,16.683
 ENFB,Oslo / Fornebu,59.9,10.633
 ENFG,Fagernes Leirin,61.0,9.3
 ENFL,Floro,61.583,5.033
-ENFR,Frigg,59.933,2.0
 ENGC,Gullfax Platform,61.033,2.033
 ENGM,Oslo / Gardermoen,60.2,11.083
 ENHD,Haugesund / Karmoy,59.35,5.216
 ENHE,Heidrun,65.325,2.326
 ENHF,Hammerfest,70.666,23.666
 ENHK,Hasvik,70.483,22.15
-ENHO,Hopen,76.5,25.066
 ENHV,Honningsvag / Valan,71.016,25.983
-ENJA,Jan Mayen,70.933,-8.666
-ENKA,Kautokeino,69.0,23.033
 ENKB,Kristiansund / Kvernberget,63.116,7.833
 ENKR,Kirkenes Lufthavn,69.733,29.9
 ENLI,Lista Flyplass,58.1,6.633
@@ -1276,20 +927,14 @@ ENVD,Vadso,70.066,29.85
 ENZV,Stavanger / Sola,58.883,5.633
 EPGD,Gdansk-Rebiechowo,54.383,18.466
 EPKK,Krakow,50.083,19.8
-EPKO,Koszalin,54.2,16.15
 EPKT,Katowice,50.233,19.033
 EPPO,Poznan,52.416,16.833
 EPRZ,Rzeszow-Jasionka,50.1,22.05
 EPSC,Szczecin,53.4,14.616
-EPSK,Slupsk,54.466,17.016
 EPWA,Warszawa-Okecie,52.166,20.966
 EPWR,Wroclaw Ii,51.1,16.883
 EPZG,Zielona Gora,51.933,15.533
 EQYG,NSA Souda Bay,35.533,24.15
-ESCL,Soderhamn,61.266,17.1
-ESCM,Uppsala,59.883,17.6
-ESDA,"Ljungbyhed, Ljungbyhed, SWE-AFB",56.085,13.207
-ESDB,Angelholm,56.3,12.85
 ESDF,Ronneby,56.266,15.283
 ESGG,Goteborg / Landvetter,57.666,12.3
 ESGJ,Jonkoping Flygplats,57.766,14.083
@@ -1306,7 +951,6 @@ ESMT,Halmstad Swedish Air Force Base,56.683,12.833
 ESMV,Hagshult,57.3,14.133
 ESMX,Vaxjo,56.85,14.833
 ESNG,Gallivare,67.15,20.65
-ESNJ,Jokkmokk,66.633,19.65
 ESNK,Kramfors Flygplats,63.05,17.766
 ESNL,Lycksele,64.547,18.717
 ESNN,Sundsvall-Harnosand Flygplats,62.533,17.45
@@ -1319,8 +963,6 @@ ESOE,Orebro Private,59.233,15.05
 ESOK,Karlstad,59.444,13.337
 ESOW,Vasteras / Hasslo,59.583,16.633
 ESPA,Lulea / Kallax,65.55,22.133
-ESPC,Ostersund / Froson,63.183,14.5
-ESPD,Gunnarn,64.966,17.7
 ESPE,Vidsel,65.866,20.133
 ESSA,Stockholm / Arlanda,59.65,17.95
 ESSB,Stockholm / Bromma,59.35,17.95
@@ -1329,22 +971,13 @@ ESSF,Hultsfred Swedish Air Force Base,57.516,15.833
 ESSK,Gavle / Sandviken Air Force Base,60.6,16.95
 ESSL,Linkoping / Saab,58.4,15.683
 ESSP,Norrkoping,58.583,16.15
-ESSQ,Karlstad Flygplats,59.366,13.466
 ESSV,Visby Flygplats,57.666,18.35
 ESTL,Ljungbyhed,56.066,13.2
 ETAD,Spangdahlem,49.983,6.7
 ETAR,Ramstein,49.433,7.6
-ETAS,Sembach United States Air Force Operated Base In Foreign Country,49.5,7.866
-ETBA,Aachen / Merzbruck,50.816,6.183
-ETCE,Mebstetten / Albstadt,50.116,9.116
 ETEB,Ansbach / Katterbach,49.316,10.633
-ETEH,Bad Kreuznach,49.85,7.883
-ETEU,Giebelstadt,49.65,9.966
-ETGB,Bergen,52.816,9.933
 ETGG,Gluecksburg / Meierwik,54.833,9.5
 ETGI,Idar-Oberstein,49.7,7.333
-ETGK,Kuemmersruck,49.433,11.9
-ETGW,Wittstock,53.2,12.516
 ETGY,Kalkar,51.733,6.266
 ETGZ,Messstetten,48.183,9.0
 ETHA,Altenstadt,47.833,10.866
@@ -1352,21 +985,15 @@ ETHB,Bueckeburg,52.283,9.083
 ETHC,Celle,52.6,10.016
 ETHE,Rheine-Bentlage,52.3,7.383
 ETHF,Fritzlar,51.116,9.283
-ETHI,Itzehoe,54.0,9.583
 ETHL,Laupheim,48.216,9.916
 ETHM,Mendig,50.366,7.316
 ETHN,Niederstetten,49.4,9.966
 ETHR,Roth,49.216,11.1
 ETHS,Fassberg,52.916,10.183
-ETHT,Cottbus Flugplatz,51.766,14.3
 ETIC,Grafenwoehr,49.7,11.95
-ETID,Hanau,50.166,8.966
 ETIE,Heidelberg,49.4,8.65
 ETIH,Hohenfels,49.216,11.833
 ETIK,Illesheim,49.466,10.383
-ETIN,Kitzingen Usa \ Af,49.75,10.2
-ETME,Eggebek,54.633,9.35
-ETMK,Kiel-Holtenau,54.383,10.15
 ETMN,Nordholz,53.766,8.666
 ETND,Diepholz,52.583,8.35
 ETNG,Geilenkirchen,50.966,6.05
@@ -1374,8 +1001,6 @@ ETNH,Hohn,54.316,9.533
 ETNJ,Jever,53.533,7.883
 ETNL,Laage,53.916,12.283
 ETNN,Noervenich,50.833,6.666
-ETNP,Hopsten,52.333,7.533
-ETNR,Preschen,51.666,14.633
 ETNS,Schleswig-Jagel,54.466,9.516
 ETNT,Wittmundhaven,53.55,7.666
 ETNU,Trollenhagen,53.6,13.316
@@ -1389,13 +1014,8 @@ ETSF,Fuerstenfeldbruck,48.2,11.266
 ETSH,Holzdorf,51.766,13.183
 ETSI,Ingolstadt,48.716,11.533
 ETSL,Lechfeld,48.183,10.866
-ETSM,Memmingen,47.983,10.233
 ETSN,Neuburg / Donau,48.716,11.216
-ETSP,Pferdsfeld,49.85,7.6
-ETUL,Laarbruch,51.6,6.15
-ETUN,Nordhorn,52.45,7.166
 ETUO,Guetersloh,51.916,8.3
-ETUR,Brueggen,51.2,6.133
 ETWM,Meppen-Mil,52.723,7.326
 EVLA,Liepaja International Airport,56.516,21.083
 EVRA,Riga International Airport,56.916,23.966
@@ -1404,27 +1024,16 @@ EYPA,Palanga Intl.,55.919,21.05
 EYSA,Siauliai Intl./Mil.,55.893,23.395
 EYVI,Vilnius,54.633,25.1
 FAAB,Alexander Bay,-28.566,16.533
-FAAN,Aliwal North,-30.716,26.716
 FABL,"Bloemfontein, Bloemfontein Airport",-29.1,26.3
 FABM,Bethlehem Airport,-28.25,28.333
-FABY,Beaufort West,-32.35,22.583
-FACL,Carolina,-26.066,30.116
 FACT,"Cape Town, Cape Town International Airport",-33.983,18.6
 FACV,Calvinia,-31.466,19.766
-FADA,De Aar,-30.65,24.016
 FADN,"Durban, Durban International Airport",-29.966,30.95
 FADY,De Aar,-30.633,23.916
 FAEL,"East London, East London Airport",-33.033,27.833
 FAEO,Ermelo,-26.5,29.983
-FAER,Ellisras,-23.726,27.688
-FAFF,Frankfort,-27.266,28.5
-FAFR,Fraserburg,-31.916,21.516
-FAGB,Gobabis,-22.466,18.966
-FAGE,Gough Island,-40.35,-9.883
 FAGG,"George, George Airport",-34.0,22.383
 FAGM,Rand,-26.25,28.0
-FAGR,Graaff Reinet,-32.25,24.533
-FAGY,Greytown,-29.116,30.566
 FAHS,Hoedspruit,-24.366,31.033
 FAIR,Pretoria Irene,-25.916,28.216
 FAJS,Johannesburg International Airport,-26.133,28.233
@@ -1433,46 +1042,30 @@ FAKM,"Kimberley, Kim-Apt",-28.8,24.766
 FALA,Lanseria,-25.933,27.933
 FALT,Lichtenburg,-26.183,26.183
 FALW,Langebaanweg,-32.966,18.166
-FALY,Ladysmith,-28.566,29.766
-FAMB,Middelburg,-31.483,25.033
 FAME,Marion Island,-46.883,37.866
-FAMG,Margate,-30.85,30.35
 FAMM,Mafikeng Intl. Ad,-25.783,25.533
-FAMO,Mossel Bay Cape Saint Blaize,-34.183,22.15
 FANC,Newcastle,-27.783,29.983
 FANS,Nelspruit,-25.433,30.983
 FAOB,Overberg,-34.6,20.283
-FAOH,Oudtshoorn,-33.566,22.216
 FAPB,Pietersburg,-23.866,29.45
 FAPE,"Port Elizabeth, Port E Apt",-33.983,25.6
 FAPG,Plettenberg Bay,-34.088,23.329
 FAPH,Phalaborwa,-23.933,31.15
-FAPI,Pietersburg Civil,-23.9,29.466
-FAPJ,Port St Johns,-31.633,29.55
 FAPM,Pietermaritzburg,-29.65,30.4
 FAPR,Pretoria,-25.733,28.183
 FAPS,Potchefstroom,-26.671,27.081
-FAQT,Queenstown,-31.9,26.866
 FARB,Richard Bay,-28.8,32.1
 FARG,Rustenburg,-25.644,27.271
 FASB,Springbok,-29.666,17.866
 FASI,Springs,-26.248,28.397
 FASR,Standerton,-26.933,29.216
 FASS,Sishen,-27.649,23.0
-FATC,Tristan Da Cunha,-37.05,-12.316
-FATZ,Tzaneen,-23.816,30.333
-FAUL,Ulundi,-28.318,31.417
 FAUP,"Upington, Up-Apt",-28.4,21.266
 FAUT,Umtata,-31.533,28.666
-FAVB,Vryburg,-26.95,24.633
-FAVG,Durban/Virginia,-29.770,31.060
-FAVR,Vredendal,-31.666,18.5
 FAVV,Vereeniging,-26.574,27.962
-FAVY,Vryheid,-27.783,30.8
 FAWB,Wonderboom / Pretoria,-25.65,28.216
 FAWI,Witbank,-25.830,29.192
 FAWK,Waterkloof (SAAF),-25.833,28.216
-FAWM,Welkom,-28.0,26.666
 FBFT,Francistown,-21.216,27.5
 FBGZ,Ghanzi,-21.7,21.65
 FBJW,Jwaneng,-24.6,24.666
@@ -1496,14 +1089,12 @@ FCOM,Makoua,-0.016,15.583
 FCOS,Souanke,2.066,14.133
 FCOU,Ouesso,1.616,16.05
 FCPA,Makabana,-3.483,12.616
-FCPL,Loubomo,-4.2,12.7
 FCPP,Pointe-Noire,-4.816,11.9
 FDMS,Manzini / Matsapa Airport,-26.533,31.3
 FEFA,Alindao,5.05,21.2
 FEFB,Obo,5.4,26.5
 FEFF,Bangui,4.4,18.516
 FEFG,Bangassou,4.733,22.833
-FEFI,Birao,10.283,22.783
 FEFL,Bossembele,5.266,17.633
 FEFM,Bambari,5.85,20.65
 FEFN,N'Dele,8.4,20.65
@@ -1511,35 +1102,19 @@ FEFO,Bouar,5.966,15.633
 FEFR,Bria,6.533,21.983
 FEFS,Bossangoa,6.483,17.433
 FEFT,Berberati,4.25,15.8
-FEFY,Yalinga,6.5,23.266
 FGSL,Malabo/Fernando Poo,3.75,8.766
 FHAW,Wide Awake Field Ascension Island,-7.966,-14.4
 FIMP,Plaisance Mauritius,-20.433,57.666
 FIMR,Rodrigues,-19.683,63.416
 FJDG,NSF DIEGO GARCIA,-7.3,72.4
-FKAF,Bafia,4.733,11.25
-FKAG,Abong-Mbang,3.966,13.2
-FKAL,Lomie,3.15,13.616
-FKAM,Meiganga,6.533,14.366
-FKAN,Nkongsamba,4.95,9.933
-FKAO,Betare-Oya,5.6,14.066
-FKAY,Yoko,5.55,12.366
-FKKA,Maroua-Salak,10.45,14.25
-FKKB,Kribi,2.95,9.9
-FKKC,Tiko,4.083,9.366
 FKKD,Douala Obs.,4.0,9.733
 FKKF,Mamfe,5.716,9.283
-FKKI,Batouri,4.466,14.366
-FKKM,Koundja,5.65,10.75
 FKKN,Ngaoundere,7.35,13.566
 FKKR,Garoua,9.333,13.383
-FKKV,Bamenda,6.05,10.116
-FKKY,Younde Ii,3.833,11.533
 FKYS,Yaounde,3.833,11.516
 FLBA,Mbala,-8.85,31.333
 FLCH,Choma,-16.833,27.066
 FLCP,Chipata,-13.55,32.583
-FLIK,Isoka,-10.116,32.633
 FLKB,Kawambwa,-9.8,29.083
 FLKO,Kaoma,-14.8,24.8
 FLKS,Kasama,-10.216,31.133
@@ -1556,9 +1131,6 @@ FLMW,Mwinilunga,-11.75,24.433
 FLND,Ndola,-13.0,28.65
 FLPA,Kasempa,-13.533,25.85
 FLPE,Petauke,-14.25,31.283
-FLPO,Kabompo,-13.6,24.2
-FLSE,Serenje,-13.233,30.216
-FLSN,Senanga,-16.1,23.266
 FLSS,Sesheke,-17.466,24.3
 FLSW,Solwezi,-12.183,26.383
 FLZB,Zambezi,-13.533,23.116
@@ -1568,27 +1140,16 @@ FMCZ,Dzaoudzi / Pamanzi Mayotte,-12.8,45.283
 FMEE,Saint-Denis / Gillot,-20.883,55.516
 FMEP,Saint-Pierre,-21.333,55.483
 FMME,Antsirabe,-19.816,47.066
-FMMH,Mahanoro,-19.833,48.8
 FMMI,Antananarivo / Ivato,-18.8,47.483
 FMMO,Maintirano,-18.05,44.033
 FMMS,Sainte-Marie Aerodrome,-17.083,49.816
 FMMT,Tamatave,-18.116,49.4
 FMMV,Morondava,-20.283,44.316
 FMNA,Diego-Suarez,-12.35,49.3
-FMND,Andapa,-14.65,49.616
-FMNH,Antalaha,-14.883,50.25
-FMNL,Analalava,-14.633,47.766
 FMNM,Majunga,-15.666,46.35
 FMNN,Fascene Nossi-Be,-13.316,48.316
-FMNQ,Besalampy,-16.75,44.483
-FMNS,Sambava,-14.283,50.166
-FMNV,Vohemar,-13.366,50.0
 FMSD,Fort-Dauphin,-25.033,46.95
-FMSF,Fianarantsoa,-21.45,47.1
-FMSG,Farafangana,-22.8,47.833
 FMSM,Mananjary,-21.2,48.366
-FMSO,Ranohira,-22.55,45.4
-FMSR,Morombe,-21.75,43.366
 FMST,Tulear,-23.383,43.733
 FNBG,Monbaca Benguela,-12.583,13.416
 FNCA,Cabinda,-5.55,12.183
@@ -1600,7 +1161,6 @@ FOGR,Lambarene,-0.716,10.233
 FOOB,Bitam,2.083,11.483
 FOOC,Cocobeach,1.0,9.6
 FOOD,Moanda,-1.533,13.266
-FOOE,Mekambo,1.016,13.933
 FOOG,Port-Gentil,-0.7,8.75
 FOOK,Makokou,0.566,12.866
 FOOL,Libreville,0.45,9.416
@@ -1609,62 +1169,40 @@ FOON,Franceville / Mvengue,-1.65,13.433
 FOOR,Lastoursville,-0.833,12.716
 FOOT,Tchibanga,-2.85,11.016
 FOOY,Mayumba,-3.416,10.65
-FPPR,Principe,1.65,7.416
 FPST,S. Tome,0.383,6.716
 FQBR,Beira,-19.8,34.9
-FQCB,Cuamba,-14.816,36.533
 FQCH,Chimoio,-19.116,33.466
 FQIN,Inhambane,-23.866,35.383
 FQLC,Lichinga,-13.3,35.233
-FQLU,Lumbo,-15.033,40.666
 FQMA,Maputo / Mavalane,-25.916,32.566
-FQMP,Mocimboa Da Praia,-11.35,40.366
 FQNP,Nampula,-15.1,39.283
 FQPB,Pemba,-12.983,40.533
 FQQL,Quelimane,-17.883,36.883
 FQTE,Tete,-16.183,33.583
 FQTT,Tete / Chingozi,-16.1,33.633
 FQVL,Vilanculos,-22.0,35.316
-FQXA,Xai Xai,-25.05,33.633
 FSIA,Seychelles Inter-National Airport,-4.666,55.516
-FSSS,Seychelles International Airport Rawinsonde Station,-4.683,55.533
 FTTA,Sarh,9.15,18.383
 FTTC,Abeche,13.85,20.85
 FTTD,Moundou,8.616,16.066
 FTTJ,Ndjamena,12.133,15.033
 FTTK,Bokoro,12.383,17.05
-FTTL,Bol-Berim,13.433,14.733
 FTTN,Am-Timan,11.033,20.283
 FTTP,Pala,9.366,14.916
 FTTY,Faya,18.0,19.166
-FVBB,Beitbridge,-22.216,30.0
-FVBI,Binga,-17.616,27.333
 FVBU,Bulawayo Airport,-20.016,28.616
-FVCH,Chipinge,-20.2,32.616
 FVCZ,Buffalo Range,-21.016,31.583
 FVFA,Victoria Falls,-18.1,25.85
-FVGO,Gokwe,-18.216,28.933
 FVHA,Harare Kutsaga,-17.916,31.133
-FVKA,Karoi,-16.833,29.616
 FVKB,Kariba,-16.516,28.883
-FVMT,Mutoko,-17.416,32.216
 FVMV,Masvingo,-20.066,30.866
-FVRU,Rusape,-18.533,32.133
 FVTL,Gweru,-19.45,29.85
 FVWN,Hwange National Park,-18.633,27.0
 FWCL,Chileka,-15.683,34.966
-FWCT,Chitipa,-9.7,33.266
-FWDZ,Dedza,-14.316,34.266
 FWKA,Karonga,-9.95,33.883
 FWKI,Lilongwe International Airport,-13.783,33.766
-FWKK,Nkhota Kota,-12.916,34.266
-FWMG,Mangochi,-14.433,35.25
-FWMY,Monkey Bay,-14.083,34.916
-FWMZ,Mzimba,-11.883,33.616
-FWSM,Salima,-13.75,34.583
 FWUU,Mzuzu,-11.45,34.016
 FXMM,Maseru / Moshoeshoe,-29.45,27.55
-FXMU,Maseru-Mia,-29.45,27.55
 FYGF,Grootfontein,-19.6,18.116
 FYKM,Katima Mulilo,-17.634,24.176
 FYKT,Keetmanshoop,-26.533,18.116
@@ -1676,39 +1214,19 @@ FYWB,Walvis Bay,-22.983,14.65
 FYWH,J. G. Strijdom,-22.483,17.466
 FYWW,"Windhoek, Town MET",-22.566,17.1
 FZAA,Kinshasa / N'Djili,-4.383,15.433
-FZAG,Moanda,-6.0,12.416
-FZAM,Matadi,-5.8,13.433
-FZAN,Inga,-5.516,13.583
-FZBA,Inongo,-1.966,18.266
-FZBO,Bandundu,-3.3,17.35
-FZCA,Kikwit,-5.033,18.8
-FZCS,Kenge,-4.916,17.066
 FZEA,Mbandaka,0.05,18.266
 FZFK,Gemena,3.283,19.783
-FZGN,Boende,-0.216,20.85
-FZIA,Kisangani,0.516,25.183
-FZMB,Butembo,0.133,29.266
 FZNA,Goma,-1.683,29.233
-FZNC,Rutshuru,-1.183,29.45
 FZOA,Kindu,-2.95,25.916
 FZQA,Lubumbashi-Luano,-11.666,27.483
 FZQM,Kolwezi,-10.716,25.45
-FZRA,Manono,-7.283,27.433
-FZRF,Kalemie,-5.883,29.183
-FZRQ,Kongolo,-5.35,27.0
 FZSA,Kamina / Base,-8.633,25.25
-FZUA,Kananga,-5.883,22.416
-FZUK,Tshikapa,-6.416,20.85
-FZVA,Lodja,-3.483,23.466
-FZVI,Lusambo,-4.966,23.433
-FZVS,Ilebo,-4.333,20.583
 FZWA,Mbuji-Mayi,-6.166,23.616
 GABG,Bougouni,11.416,-7.5
 GABS,Bamako / Senou,12.533,-7.95
 GAGO,Gao,16.266,-0.05
 GAHB,Hombori,15.333,-1.683
 GAKA,Kenieba,12.85,-11.233
-GAKL,Kidal,18.433,1.35
 GAKO,Koutiala,12.383,-5.466
 GAKT,Kita,13.066,-9.466
 GAKY,Kayes,14.433,-11.433
@@ -1731,7 +1249,6 @@ GCTS,Tenerife Sur,28.05,-16.566
 GCXO,Tenerife / Los Rodeos,28.466,-16.316
 GEML,Melilla,35.283,-2.95
 GFLL,Lungi,8.616,-13.2
-GGBF,Bafata,12.166,-14.666
 GGOV,Bissau Aeroport,11.883,-15.65
 GLRB,"Grand Bassa, Roberts Field",6.25,-10.35
 GMAA,Agadir,30.383,-9.566
@@ -1741,7 +1258,6 @@ GMFF,Fes-Sais,33.933,-4.983
 GMFI,Ifrane,33.5,-5.166
 GMFK,Errachidia,31.933,-4.4
 GMFM,Meknes,33.883,-5.533
-GMFN,Nador,35.15,-2.916
 GMFO,Oujda,34.783,-1.933
 GMFZ,Taza,34.216,-4.0
 GMMC,Casablanca,33.566,-7.666
@@ -1770,62 +1286,22 @@ GOSP,Podor,16.65,-14.966
 GOSS,Saint-Louis,16.05,-16.45
 GOTK,Kedougou,12.566,-12.216
 GOTT,Tambacounda,13.766,-13.683
-GQNA,Aioun El Atrouss,16.7,-9.6
-GQNB,Boutilimit,17.533,-14.683
-GQND,Tidjikja,18.566,-11.433
-GQNF,Kiffa,16.633,-11.4
 GQNI,Nema,16.6,-7.266
-GQNJ,Akjoujt,19.75,-14.366
-GQNK,Kaedi,16.15,-13.516
 GQNN,Nouakchott,18.1,-15.95
 GQNR,Rosso,16.5,-15.816
 GQPA,Atar,20.516,-13.066
 GQPP,Nouadhibou,20.933,-17.033
-GQPT,Bir Moghrein,25.233,-11.616
-GSVO,Villa Cisneros,23.7,-15.866
 GUCY,Conakry / Gbessia,9.566,-13.616
-GUFH,Faranah / Badala,10.033,-10.75
-GUID,Kindia,10.05,-12.866
-GUKU,Kissidougou,9.183,-10.1
 GULB,Labe,11.316,-12.3
-GUMA,Macenta,8.533,-9.466
 GUNZ,N'Zerekore,7.733,-8.833
-GUOK,Boke,10.933,-14.316
-GUSI,Siguiri,11.433,-9.166
-GUXD,Kankan,10.383,-9.3
 GVAC,Sal,16.733,-22.95
 HAAB,Addis Ababa,8.983,38.8
-HAAG,Agordat,15.55,37.883
-HAAM,Arba Minch,6.066,37.666
-HAAW,Awash,8.983,40.166
-HAAX,Axum,14.116,38.716
-HABC,Baco / Bako,5.833,36.616
-HABD,Bahar Dar,11.6,37.4
-HADC,Combolcha,11.083,39.716
 HADM,Debremarcos,10.35,37.716
 HADR,Dire Dawa,9.6,41.866
-HAGH,Ghinnir / Ginir,7.15,40.716
-HAGN,Gondar,12.533,37.433
-HAGO,Gode,5.1,44.583
-HAGR,Gore,8.166,35.55
-HAHM,Harar Meda,8.733,39.0
-HAJJ,Jiggiga,9.333,42.716
-HAJM,Jimma,7.666,36.833
-HAKD,Kabre Dare Military,6.75,44.283
-HALA,Awassa,7.066,38.5
-HAMK,Makale,13.5,39.483
-HAML,Masslo / Meslo,6.366,39.833
-HAMS,Massawa,15.616,39.45
-HANG,Neghelli,5.283,39.75
-HASB,Assab,13.066,42.716
-HASO,Assosa / Asosa,10.033,34.533
-HATS,Tessenei / Teseney,15.116,36.683
 HBBA,Bujumbura,-3.316,29.316
 HCMH,Hargeisa,9.5,44.083
 HCMI,Berbera,10.416,45.016
 HCMM,Mogadiscio,2.033,45.35
-HCMN,Belet Uen,4.7,45.216
-HCMV,Burao,9.5,45.566
 HDAM,Djibouti \ Ambouli,11.55,43.166
 HEAR,El Arish,31.083,33.816
 HEAT,Asyut,27.05,31.016
@@ -1839,13 +1315,11 @@ HEPS,Port Said,31.266,32.3
 HESH,Sharm El Sheikhintl,27.966,34.383
 HESN,Asswan,23.966,32.783
 HETB,Taba,29.599,34.776
-HETR,El Tor,28.233,32.616
 HFFF,Djibouti,11.55,43.15
 HHAS,Asmara,15.283,38.916
 HKEL,Eldoret,0.533,35.283
 HKEM,Embu,-0.5,37.45
 HKGA,Garissa,-0.466,39.633
-HKIS,Isiolo,0.35,37.583
 HKJK,Nairobi/Jomo Kenyatta Airport TWR/APP/NOF/Civil Airlines,-1.316,36.916
 HKKG,Kakamega,0.283,34.783
 HKKI,Kisumu,-0.1,34.75
@@ -1861,7 +1335,6 @@ HKML,Malindi,-3.233,40.1
 HKMO,Mombasa,-4.033,39.616
 HKMU,Makindu,-2.283,37.833
 HKMY,Moyale,3.533,39.05
-HKNA,Nairobi ACC/FIC/RCC/MET/COM/,-1.316,36.933
 HKNC,Nairobi / Dagoretti,-1.3,36.75
 HKNI,Nyeri,-0.5,36.966
 HKNK,Nakuru,-0.266,36.1
@@ -1870,31 +1343,17 @@ HKNW,Nairobi / Wilson,-1.316,36.816
 HKNY,Nanyuki,-0.066,37.033
 HKVO,Voi,-3.4,38.566
 HKWJ,Wajir,1.75,40.066
-HLGT,Ghat,25.133,10.15
 HLKF,Kufra,24.216,23.3
 HLLB,Benina,32.1,20.266
 HLLS,Sebha,27.016,14.45
 HLLT,Tripoli Inter-National Airport,32.666,13.15
-HLTD,Ghadames,30.133,9.5
 HRYG,Gisenyi,-1.666,29.25
 HRYR,Kigali,-1.966,30.116
-HSAT,Atbara,17.7,33.966
-HSDN,Dongola,19.166,30.483
-HSDZ,Damazine,11.783,34.383
-HSFS,El Fasher,13.616,25.333
-HSGF,Gedaref,14.033,35.4
-HSGN,Geneina,13.483,22.45
 HSKA,Kassala,15.466,36.4
-HSKI,Kosti,13.166,32.666
-HSLI,Kadugli,11.0,29.716
-HSNL,Nyala,12.05,24.883
-HSNR,Sennar,13.55,33.616
 HSOB,El Obeid,13.166,30.233
 HSPN,Port Sudan International,19.433,37.233
-HSRN,Renk,11.75,32.783
 HSSJ,Juba,4.866,31.6
 HSSM,Malakal,9.55,31.65
-HSSP,Port Sudan,19.583,37.216
 HSSS,Khartoum,15.6,32.55
 HSSW,Wadi Halfa,21.816,31.483
 HTAR,Arusha,-3.333,36.616
@@ -1903,16 +1362,13 @@ HTDA,Dar Es Salaam Airport,-6.866,39.2
 HTDO,Dodoma,-6.166,35.766
 HTIR,Iringa,-7.666,35.75
 HTKA,Kigoma,-4.883,29.633
-HTKI,Kilwa Masoko,-8.933,39.516
 HTKJ,Kilimanjaro Airport,-3.416,37.066
 HTMB,Mbeya,-8.933,33.466
 HTMG,Morogoro,-6.833,37.65
-HTMO,Mombo,-4.883,38.283
 HTMS,Moshi,-3.35,37.333
 HTMT,Mtwara,-10.266,40.183
 HTMU,Musoma,-1.5,33.8
 HTMW,Mwanza,-2.466,32.916
-HTNA,Nachingwea,-10.35,38.75
 HTPE,Pemba / Karume Airport,-5.25,39.816
 HTSE,Same,-4.083,37.716
 HTSO,Songea,-10.683,35.583
@@ -1922,7 +1378,6 @@ HTTG,Tanga,-5.083,39.066
 HTZA,Zanzibar / Kisauni,-6.216,39.216
 HUAR,Arua,3.05,30.916
 HUEN,Entebbe Airport,0.05,32.45
-HUFP,Fort Portal,0.666,30.283
 HUGU,Gulu,2.75,32.333
 HUJI,Jinja,0.45,33.183
 HUKB,Kabale,-1.25,29.983
@@ -1930,326 +1385,74 @@ HUKS,Kasese,0.183,30.1
 HULI,Lira,2.25,32.9
 HUMA,Mbarara,-0.616,30.65
 HUMI,Masindi,1.683,31.716
-HUMO,Moroto,2.533,34.65
 HUSO,Soroti,1.716,33.616
 HUTO,Tororo,0.683,34.166
-K01R,"Claiborne Range, Airways Facilities Sector",31.133,-92.566
-K01T,High Island,28.133,-94.4
-K03Y,Hallock,48.783,-96.95
 K04V,"Saguache, Saguache Municipal Airport",38.097,-106.168
-K05F,"Gatesville, City-County Airport",31.421,-97.796
 K06D,Rolla Municipal Airport,48.884,-99.620
-K07S,"Deer Park, Deer Park Airport",47.974,-117.428
 K08D,Stanley Municipal Airport,48.300,-102.406
-K0D1,"South Haven, South Haven Area Regional Airport",42.350,-86.256
-K0E4,Payson,34.233,-111.333
 K0J4,FLORALA AIRPORT,31.033,-86.3
-K0V1,"Custer, Custer County Airport",43.733,-103.611
 K0VG,Lee County Airport,36.653,-83.217
-K0Y2,Sturgeon Bay,44.783,-87.316
 K11J,"Blakely, Early County Airport",31.396,-84.895
 K11R,"Brenham, Brenham Municipal Airport",30.218,-96.374
-K12B,New Castles Coast Guard Light Station,43.116,-70.483
-K12C,"Rochelle, Rochelle Municipal-Koritz Field Airport",41.893,-89.078
 K12N,AEROFLEX-ANDOVER AIRPORT,41.016,-74.733
-K13G,Niagara Coast Guard Station,43.266,-79.066
-K14B,Great Duck Island Coast Guard Light Station,44.15,-68.25
-K14C,Frankfort Coast Guard Station,44.633,-86.25
-K14R,"Caldwell, Caldwell Municipal Airport",30.515,-96.703
 K14Y,Todd Field Airport,45.9,-94.866
-K15C,Milwaukee Coast Guard Light Station,43.016,-87.95
-K16B,Heron Neck Coast Guard Light Station,44.033,-68.866
-K16C,Kenosha Coast Guard Station,42.583,-87.75
-K17C,Ludington Coast Guard Station,43.95,-86.466
-K17W,"Wadena, Wadena Municipal Airport",46.446,-95.211
-K17Y,"Mc Gregor, Isedor Iverson Airport",46.618,-93.309
-K18B,Monhegan / Manana Island,43.766,-69.333
-K18C,Michigan City Coast Guard Station,41.716,-86.916
-K18N,New London Ledge Coast Guard Station,41.3,-72.083
-K19C,Muskegon Coast Guard Station,43.233,-86.333
-K19D,Mora Municipal Automatic Weather Observing / Reporting System,45.883,-93.266
-K19G,Buffalo Coast Guard Station,42.883,-78.883
-K19R,Ship Shoal Platform,28.683,-91.216
 K1A5,"Franklin, Macon County Airport",35.216,-83.416
 K1A6,"Middlesboro, Middlesboro-Bell County Airport",36.610,-83.737
 K1B7,Boothville Heliport,29.35,-89.433
 K1F0,"Ardmore, Ardmore Downtown Executive Airport",34.146,-97.122
-K1F9,"Bridgeport, Bridgeport Municipal Airport",33.175,-97.828
-K1G2,"Granite Falls, Granite Falls Municipal Airport/Lenzen-Roe Memorial Field",44.753,-95.555
-K1G7,Mississippi Canyon,28.783,-89.05
 K1H2,"Effingham, Effingham County Memorial Airport",39.070,-88.533
 K1J0,TRI COUNTY AIRPORT,30.833,-85.6
-K1J2,Tybee Coast Guard Station,32.016,-80.85
-K1J3,Ponce De Leon Inlet,29.066,-80.916
-K1J4,Cape San Blas Coast Guard Station,29.683,-85.366
-K1J5,Santa Rosa Coast Guard Station,30.316,-87.25
-K1K5,Elkhart / Elkhart-Morton County Airport,37.0,-101.883
-K1L2,Santa Monica Pier,34.0,-118.5
 K1M4,"Haleyville, Posey Field Airport",34.280,-87.600
-K1O5,Montague,41.733,-122.55
 K1P1,"Plymouth, Plymouth Municipal Airport",43.779,-71.753
-K1V1,Rifle Aviation Weather Reporting Station,39.533,-107.8
 K1V4,ST JOHNSBURY FAIRBANKS,44.416,-72.016
-K20B,Rockland Coast Guard Station,44.1,-69.1
-K20C,Saint Joseph Coast Guard Station,42.116,-86.483
-K20G,Ashtabula Coast Guard Station,41.916,-80.8
-K20J,West Jonesport Coast Guard Station,44.533,-67.616
 K20U,Beach Airport Beach,46.925,-103.981
-K215,"Rantoul, Frank Elliott Field Airport",40.284,-88.134
-K21C,Sheboygan Coast Guard Station,43.75,-87.7
 K21D,Lake Elmo Airport,44.0,-92.85
-K23B,Seguin Island Coast Guard Light Station,43.666,-69.766
-K23G,Cleveland Harbor Coast Guard Station,41.5,-81.716
-K24B,West Quoddy Head Coast Guard Light Station,44.8,-66.95
-K24G,Toledo Coast Guard Station,41.7,-83.45
-K25B,Portsmouth Harbor,43.066,-70.716
-K25G,Erie Coast Guard Station,42.116,-80.083
-K25R,"Edinburg, Edinburg International Airport",26.441,-98.129
-K26B,Isle Of Shoals Coast Guard Station,42.966,-70.616
-K26G,Rochester Coast Guard Light Station,43.25,-77.6
-K27A,"Elberton, Elbert County Airport-Patz Field",34.095,-82.815
-K27B,Cape Neddick Coast Guard Light Station,43.166,-70.6
-K27G,Lorain Coast Guard Station,41.466,-82.183
-K27U,Salmon,45.183,-113.9
-K27Y,Grand Marais Coast Guard Station,46.666,-85.983
-K28G,Oswego Coast Guard Station,43.466,-76.516
-K28K,Grncyn Blk52 Supplementary Aviation Weather Reporting Station,27.883,-91.5
-K28T,Sabine Pass,29.7,-93.95
-K28Y,North Manitou Shoal,45.016,-85.95
-K29B,Boston / Hull Coast Guard Light Station,42.316,-70.883
 K29G,Ravenna / Portage County,41.216,-81.25
-K29Y,Devils Island Light Station,47.083,-90.733
-K2B8,Portland Head Coast Guard Light Station,43.616,-70.2
-K2C2,White Sands,32.383,-106.483
 K2C8,Cavalier Municipal Airport,48.783,-97.631
-K2F8,"Bastrop, Morehouse Memorial Airport",32.755,-91.880
-K2G6,"Meadville, Port Meadville Airport",41.625,-80.212
 K2GL,"Galliano, Galliano Heliport",29.413,-90.298
-K2H1,Huntington B. Oil,33.566,-118.133
-K2I4,Columbus / Bolton Field,39.9,-83.133
-K2I5,"Rantoul, Rantoul Natl Aviation Cntr-Frank Elliott Fld Airp.",40.293,-88.142
-K2L6,Marina Del Rey,33.966,-118.433
-K2L7,Solana Beach,32.983,-117.266
-K2P3,"Paynesville, Paynesville Municipal Airport",45.372,-94.746
-K2PJ,"Poinsett Range, Sumpter",33.85,-80.483
-K2R8,"Port Aransas, Mustang Beach Airport",27.811,-97.088
-K2S9,Willapa Harbor,46.7,-123.816
-K2U7,"Stanley, Stanley Airport",44.208,-114.934
-K2V9,Gunnison Aviation Weather Reporting Station,38.6,-106.916
 K2WX,BUFFALO,45.6,-103.55
-K30G,Saginaw River Coast Guard Station,43.633,-83.85
-K30N,Faulkner Island Coast Guard Light Station,41.216,-72.666
-K30Y,Duluth Harbor Coast Guard Station,46.766,-92.083
-K31B,Chatham Coast Guard Station,41.666,-69.95
-K31F,"Seminole, Gaines County Airport",32.675,-102.652
-K31G,Belle Isle Coast Guard Station,42.333,-82.966
-K31Y,Eagle Harbor Coast Guard Light Station,47.466,-88.166
-K32N,Little Gulf Island Light Station,41.2,-72.1
-K32Y,Portage Coast Guard Station,47.233,-88.633
-K33B,Buzzards Bay Coast Guard Light Station,41.383,-71.033
-K33G,Port Huron Coast Guard Station,43.0,-82.416
-K34B,Gloucester Coast Guard Station,42.583,-70.666
-K34N,Eatons Neck Coast Guard Station,40.95,-73.4
-K34Y,Marquette Coast Guard Light Station,46.55,-87.383
-K35B,Merrimac River Coast Guard Station,42.816,-70.866
-K36B,Race Point Coast Guard Station,42.05,-70.183
 K36U,"Heber, Heber City Municipal-Russ McDonald Field Airport",40.481,-111.428
-K36Y,Point Betsie / Frankfort,44.616,-86.2
-K37B,Scituate Coast Guard Station,42.2,-70.716
-K37W,"Erwin, Harnett County Airport",35.378,-78.733
-K38Y,Saint Ignace,45.85,-84.716
-K39Y,Tawas Point Coast Guard Station,44.25,-83.433
 K3A1,"Cullman, Folsom Field Airport",34.268,-86.858
 K3A6,Newhall,34.366,-118.566
-K3B1,"Greenville, Greenville Municipal Airport",45.463,-69.551
-K3B2,Marshfield Airport,42.1,-70.683
 K3B6,Eugene Island 330,28.083,-92.7
-K3B9,"Chester, Chester Airport",41.383,-72.505
-K3D4,"Frankfort, Frankfort Dow Memorial Field Airport",44.625,-86.200
 K3DU,Drummond,46.666,-113.15
-K3HE,Howell,42.633,-83.983
-K3HT,Harlowton,46.433,-109.833
 K3I2,"Point Pleasant, Mason County Airport",38.914,-82.098
 K3J7,"Greensboro, Greene County Regional Airport",33.597,-83.138
-K3KM,"Wichita, Colonel James Jabara Airport",37.749,-97.218
-K3L3,Newport Beach,33.6,-117.883
-K3LC,"Lincoln, Logan County Airport",40.158,-89.334
 K3LF,"Litchfield, Litchfield Municipal Airport",39.162,-89.674
 K3MW,Mount Werner,40.459,-106.759
-K3O6,Treasure Island,37.8,-122.366
-K3OI,Lamoni,40.616,-93.95
-K3R1,"Bay City, Bay City Municipal Airport",28.966,-95.85
-K3RN,Graying Air Force Range,44.833,-84.55
-K3S2,Aurora State,45.25,-122.766
-K3SE,Spencer,43.166,-95.15
-K3T1,"Mineola/Quitman, Wood County Airport",32.741,-95.496
 K3T5,"La Grange, Fayette Regional Air Center Airport",29.908,-96.95
-K3TH,Thompson Falls,47.6,-115.366
-K3V8,Venice Heliport,29.116,-89.2
-K3W4,Swansboro / Bogue,34.65,-77.1
 K40B,Clayton Lake,46.616,-69.533
-K40G,"Grand Canyon, Valle Airport",35.650,-112.146
 K40J,PERRY-FOLEY AIRPORT,30.066,-83.583
-K40Y,Thunder Bay Island,45.066,-83.55
-K41G,Bath,42.85,-84.483
-K41I,Eugene Island,28.466,-91.783
-K43F,Litchfield Municipal,45.1,-94.5
-K43S,West Point Coast Guard Light Station,47.666,-122.433
-K44N,Millbrook / Sky Acres,41.7,-73.733
-K44W,Diamond Shoals Coast Guard Station,35.15,-75.3
-K44Y,Sault Ste. Marie Coast Guard Station,46.5,-84.333
-K45B,Brant Point Coast Guard Station,41.283,-70.083
-K45J,"Rockingham, Rockingham-Hamlet Airport",34.890,-79.758
-K45N,Bay Shore / Fire Island,40.633,-73.266
-K45W,Oracoke Coast Guard Station,35.116,-75.983
 K46D,Carrington Municipal Airport,47.451,-99.151
 K48I,"Sutton, Braxton County Airport",38.686,-80.651
-K48N,Montauk Point Coast Guard Light Station,41.066,-71.933
-K49N,East Moriches Coast Guard Station,40.783,-72.75
-K49Y,"Preston, Fillmore County Airport",43.676,-92.179
 K4A9,"Fort Payne, Isbell Field Airport",34.473,-85.721
-K4BK,Brookings,42.05,-124.283
 K4BL,Blanding,37.616,-109.466
 K4BM,Wilkerson Pass,39.050,-105.514
-K4BQ,Broadus,45.433,-105.4
-K4CB,Cuddleback Gunnery Range,35.266,-117.433
 K4CR,Corona / Lincoln,34.1,-105.683
-K4DG,Douglas,42.75,-105.383
-K4F4,"Gilmer, Fox Stephens Field - Gilmer Municipal Airport",32.698,-94.948
 K4HV,Hanksville,38.366,-110.716
-K4L7,Hermosa Beach Pier,33.866,-118.4
-K4LW,Lakeview,42.216,-120.35
 K4MR,Melrose Gunnery Range,34.3,-103.8
 K4MY,Moriarty,34.983,-106.05
 K4O4,"Idabel, Mc Curtain County Regional Airport",33.909,-94.859
-K4OM,Omak,48.416,-119.533
 K4SL,Torreon,35.8,-107.183
-K4SU,Superior Valley Gunnery Range,36.333,-117.1
-K4SV,Strevell,42.016,-113.25
-K4T6,"Midlothian/Waxahachie, Mid-Way Regional Airport",32.455,-96.912
-K4V5,Durango Aviation Weather Reporting Station,37.283,-107.866
-K50N,Rockaway Coast Guard Station,40.566,-73.883
-K50Q,Farallon Island,37.7,-123.0
-K51N,Short Beach Coast Guard Station,40.583,-73.55
-K51Q,San Francisco Pbs,37.75,-122.7
-K52N,Wildwood,39.0,-74.816
-K52Q,Davis Point Aviation Weather Reporting Station,38.05,-122.266
-K53D,Glenwood,45.65,-95.383
-K53Q,Pillar Pt / El Granda,37.5,-122.5
-K53S,Point Wilson Coast Guard Light Station,48.116,-122.75
-K54N,Manasquan Inl Coast Guard Station,40.1,-74.016
-K54Q,Castroville / Moss,36.8,-121.8
-K55D,"Grayling, Grayling AAF Airport",44.680,-84.728
-K55N,Atlantic City Coast Guard Station,39.383,-74.416
-K56N,Sandy Hook Coast Guard Station,40.466,-74.016
-K5D3,"Owosso, Owosso Community Airport",42.992,-84.138
-K5G9,"Lambertville, Toledo Suburban Airport",41.735,-83.655
 K5H4,Harvey Municipal Airport,47.791,-99.931
-K5J0,"John Day, John Day State Airport",44.404,-118.962
-K5L8,Long Beach,33.766,-118.166
-K5R0,East Addition B323,28.216,-93.75
-K5R5,"Wharton, Wharton Regional Airport",29.254,-96.154
 K5SM,Sunlight,39.425,-107.379
-K5T5,"Hillsboro, Hillsboro Municipal Airport",32.083,-97.097
 K5T6,"Santa Teresa, Dona Ana County Airport at Santa Teresa",31.880,-106.704
-K60Y,"Slayton, Slayton Municipal Airport",43.986,-95.782
-K61N,Indian River Coast Guard Station,38.616,-75.066
-K61W,Annapolis Coast Guard Station,38.916,-76.466
-K62G,Wilmette Marines,42.066,-87.683
-K62H,"Giddings, Giddings-Lee County Airport",30.169,-96.98
-K62W,Cape Henry Coast Guard Light Station,36.933,-76.0
-K63G,Chicago / Calumet Coast Guard Station,41.716,-87.533
-K63W,Milford Haven Coast Guard Station,37.483,-76.316
-K64W,Parramore Beach,37.533,-75.616
-K65W,Thomas Point Coast Guard Station,38.9,-76.433
-K66W,Cove Point Coast Guard Light Station,38.383,-76.383
-K67B,Castle Hill Coast Guard Station,41.45,-71.35
-K67W,Stillpond Coast Guard Station,39.333,-76.1
-K69R,"Rocksprings, Edwards County Airport",29.946,-100.173
-K6A3,"Andrews, Andrews-Murphy Airport",35.194,-83.864
-K6L9,Huntington Beach,33.65,-118.0
 K6R6,DRYDEN-TERRELL COUNTY AIRPORT,30.05,-102.216
 K6V3,"Richlands, Tazewell County Airport",37.063,-81.798
-K75S,Burlington / Mt Vern,48.466,-122.416
 K76S,Oak Harbor Airpark,48.25,-122.666
 K77M,Malta,42.316,-113.333
-K77W,Cape Lookout Coast Guard Station,34.6,-76.533
-K78D,"Caro, Tuscola Area Airport",43.458,-83.445
-K78N,"Reidsville, Rockingham County NC Shiloh Airport",36.437,-79.850
-K78W,South Port / Oak Island Coast Guard Station,33.883,-78.016
 K79J,OPP/ANDALUSIA,31.3,-86.383
-K7A9,Plains / Peterson Field,32.083,-84.366
-K7B5,West Cameron 560A,28.283,-93.183
 K7BM,Cottonwood Pass,38.782,-106.218
-K7D2,"Troy, Oakland/Troy Airport",42.542,-83.177
-K7F6,"Clarksville, Clarksville-Red River County Airport",33.593,-95.063
-K7F9,"Comanche, Comanche County-City Airport",31.916,-98.600
 K7L2,Linton Municipal Airport,46.220,-100.245
-K7R2,Leeville,29.216,-90.233
 K7R3,Amelia / Lake Palourd,29.7,-91.1
 K7R4,Intracoastal City,29.783,-92.133
-K7R5,Cameron Heliport,29.783,-93.3
-K7R8,South Marsh Island,28.3,-91.983
-K82S,Cape Disappointment,46.283,-124.05
-K83S,Coos Bay Coast Guard Station,43.35,-124.333
-K84J,Folly Beach Long Range Navigation,32.683,-79.883
-K84Q,Blunts Reef Coast Guard Station,40.433,-124.5
-K84S,Grays Harbor Coast Guard Station,46.916,-124.1
-K85J,Georgetown Coast Guard Light Station,33.216,-79.183
-K85Q,Santa Cruz Harbor,36.966,-122.0
-K85S,Siuslaw River Coast Guard Station,44.0,-124.116
-K86J,Sullivans Island Coast Guard Station,32.766,-79.85
-K86Q,St George Reef Coast Guard Light Station,41.833,-124.4
-K86S,Smith Island Coast Guard Light Station,48.316,-122.85
-K87Q,Point Piedras Blanca,35.665,-121.284
-K87S,Quillayute River Coast Guard Light Station,47.9,-124.633
-K88Q,Samoa / Humboldt Bay,40.766,-124.233
-K88S,Tillamook Bay Coast Guard Station,45.566,-123.916
-K89Q,Point Arena Coast Guard Light Station,38.95,-123.733
 K8A0,"Albertville, Albertville Municipal Airport",34.228,-86.255
-K8B9,Egg Rock Light Station,44.35,-68.133
 K8D3,SISSETON MUNICIPAL AIRPORT,45.666,-96.983
-K8R0,Pascagoula Coast Guard Station,30.366,-88.566
-K8R1,Mobile Point Coast Guard Station,30.233,-88.033
-K8R3,Southwest Pass Coast Guard Station,28.916,-89.433
-K8R5,Grand Isle Coast Guard Station,29.266,-89.95
-K8R6,Calcasieu Coast Guard Station,29.783,-93.35
-K8R7,Sabine Pass Coast Guard Station,29.733,-93.866
-K8R8,Freeport Coast Guard Station,28.95,-95.3
 K8S0,"Browning, Starr-Browning Airstrip",48.601,-113.114
-K8Y2,"Buffalo, Buffalo Municipal Airport",45.158,-93.843
-K8Y8,Crane Lake Automatic Weather Observing / Reporting System,46.266,-92.566
-K90S,Umpqua River Coast Guard Station,43.683,-124.166
-K91Q,Point Blunt Coast Guard Light Station,37.85,-122.416
-K91S,Alki Point Coast Guard Light Station,47.516,-122.416
-K92Q,Bodega Bay Coast Guard Light Station,38.316,-123.05
-K92S,Cape Blanco Coast Guard Station,42.833,-124.566
-K93Q,Pigeon Point Coast Guard Light Station,37.183,-122.4
-K93S,Cape Flattery Coast Guard Light Station,48.383,-124.733
-K94B,Wood Island Light Station,43.45,-70.316
-K94Q,Point Bonita Coast Guard Light Station,37.8,-122.516
-K95B,Cape Vincent Marine Aviation Reporting Station,44.116,-76.333
-K95Q,Point Pinos Coast Guard Light Station,36.633,-121.933
-K95S,Yaquina Bay Coast Guard Station,44.616,-124.05
-K96B,Owl's Head Light Station,44.083,-69.033
 K96D,Walhalla Municipal Airport,48.940,-97.902
-K96S,New Dungeness Coast Guard Station,48.166,-123.1
-K97Q,Point Reyes Coast Guard Station,38.0,-123.016
-K97S,Point No Point Coast Guard Station,47.916,-122.533
-K98Q,Rio Vista Coast Guard Light Station,38.15,-121.7
-K99M,"Moorhead, Moorhead Municipal Airport",46.839,-96.663
-K99Q,Port Chicago,38.033,-122.033
-K99S,Point Robinson Coast Guard Light Station,47.383,-122.366
-K9B2,Newport,44.933,-72.2
-K9B5,Bear Island Coast Guard Station,44.283,-68.266
-K9BB,Wells,41.116,-114.966
 K9D7,Cando Municipal Airport,48.48,-99.236
-K9L0,Dana Point,33.45,-117.683
 K9L2,"Edwards, Edwards Air Force Auxiliary North Base",34.983,-117.85
-K9R0,Galveston Coast Guard Station,29.333,-94.766
-K9R1,Port Aransas Coast Guard Station,27.833,-97.066
 K9V9,CHAMBERLAIN MUNICIPAL AIRPORT,43.766,-99.316
-KA21,"Portage Glacier, Portage Visitor Center",60.784,-148.846
 KAAA,"Lincoln, Logan County Airport",40.158,-89.334
 KAAF,APALACHICOLA MUNICIPAL AIRPORT,29.733,-85.016
 KABY,ALBANY SOUTHWEST GEORGIA,31.533,-84.2
@@ -2258,7 +1461,6 @@ KACQ,"Waseca, Waseca Municipal Airport",44.073,-93.553
 KACT,WACO REGIONAL AIRPORT,31.6,-97.216
 KADG,ADRIAN LENAWEE COUNTY AIRPORT,41.866,-84.083
 KADM,"Ardmore, Ardmore Municipal Airport",34.303,-97.019
-KADQ,"Kodiak, Kodiak Airport",57.751,-152.485
 KADS,Dallas / Addison Airport,32.966,-96.833
 KADU,"Audubon, Audubon County Airport",41.701,-94.920
 KADW,Camp Springs / Andrews Air Force Base,38.816,-76.85
@@ -2288,7 +1490,6 @@ KAOH,LIMA ALLEN COUNTY AIRPORT,40.7,-84.016
 KAPN,ALPENA COUNTY REGIONAL AIRPORT,45.083,-83.566
 KAQO,"Llano, Llano Municipal Airport",30.783,-98.661
 KAQP,"Appleton, Appleton Municipal Airport",45.227,-96.004
-KAQQ,"Apalachicola, Apalachicola",29.726,-85.024
 KAQR,"Atoka, Atoka Municipal Airport",34.398,-96.148
 KAQV,"Ft. Polk, Peason Ridge",31.666,-93.45
 KAQW,N ADAMS HARRIMAN-AND-WEST,42.7,-73.166
@@ -2301,7 +1502,6 @@ KASJ,"Ahoskie, Tri-County Airport",36.297,-77.170
 KAST,PORT OF ASTORIA AIRPORT,46.15,-123.883
 KASX,ASHLAND KENNEDY MEMORIAL,46.55,-90.916
 KATT,CAMP MABRY/AUSTIN CITY ASOS,30.316,-97.766
-KATX,Seattle NEXRAD,48.2,-122.5
 KATY,WATERTOWN MUNICIPAL AIRPORT,44.9,-97.15
 KAUD,Audubon Park,29.933,-90.133
 KAUG,AUGUSTA STATE AIRPORT,44.316,-69.8
@@ -2312,12 +1512,10 @@ KAUS,AUSTIN-BERGSTROM INTERNATIONAL  AIRPORT,30.183,-97.683
 KAVK,"Alva, Alva Regional Airport",36.773,-98.669
 KAVL,ASHEVILLE REGIONAL AIRPORT,35.433,-82.533
 KAWH,Wildhorse Reservation / Elko,41.666,-115.783
-KAWI,"Wainwright, Wainwright Airport",70.638,-160.006
 KAWM,WEST MEMPHIS MUNICIPAL AIRPORT,35.133,-90.233
 KAXA,Algona,43.083,-94.266
 KAXN,CHANDLER FIELD,45.866,-95.4
 KAXS,"Altus, Altus/Quartz Mountain Regional Airport",34.698,-99.338
-KAYE,Fort Devens / Ayer,42.566,-71.6
 KAYS,"Waycross / Ware County, Ga",31.25,-82.4
 KAZC,"Colorado City, Colorado City Municipal Airport",36.95,-113.0
 KAZO,KALAMAZOO/BATTLE CREEK AIRPORT,42.233,-85.55
@@ -2340,7 +1538,6 @@ KBHK,BAKER MUNICIPAL AIRPORT,46.35,-104.25
 KBID,"Block Island, Block Island State Airport",41.166,-71.566
 KBIE,Beatrice Municipal,40.3,-96.75
 KBIF,Biggs Army Air Field / Ft. Bliss,31.85,-106.383
-KBIG,"Delta Junction / Ft. Greely, Allen Army Air Field",63.993,-145.692
 KBIH,BISHOP AIRPORT,37.366,-118.366
 KBIV,HOLLAND TULIP CITY AIRPORT,42.75,-86.1
 KBJC,Broomfield / Jeffco,39.916,-105.116
@@ -2353,14 +1550,11 @@ KBKT,Ft. Pickett / Blackstone,37.083,-77.95
 KBKV,BROOKSVILLE HERNANDO CO AIRPORT,28.466,-82.45
 KBLF,BLUEFIELD MERCER COUNTY AIRPORT,37.3,-81.2
 KBLU,BLUE CANYON AIRPORT,39.283,-120.7
-KBLX,Billing Yell Nexrad,45.853,-108.606
 KBMG,MONROE COUNTY AIRPORT,39.15,-86.616
 KBML,BERLIN MUNICIPAL AIRPORT,44.583,-71.183
 KBNA,NASHVILLE INTERNATIONAL  AIRPORT,36.116,-86.683
-KBNY,Burney,40.883,-121.666
 KBOI,BOISE AIR TERMINAL,43.566,-116.233
 KBOS,BOSTON LOGAN INTERNATIONAL,42.366,-71.016
-KBOX,Boston Nexrad,41.95,-71.133
 KBPG,"Big Spring, Big Spring McMahon-Wrinkle Airport",32.2,-101.516
 KBPI,BIG PINEY-MARBLETON AIRPORT,42.583,-110.1
 KBPT,SOUTHEAST TEXAS RGNL AIRPORT,29.583,-94.133
@@ -2382,12 +1576,7 @@ KBYG,BUFFALO JOHNSON COUNTY AIRPORT,44.383,-106.716
 KBYI,BURLEY MUNICIPAL AIRPORT,42.55,-113.766
 KBYY,"Bay City, Bay City Municipal Airport",28.973,-95.863
 KBZN,BOZEMAN GALLATIN FIELD,45.783,-111.15
-KC19,Holland / Tulip City,42.75,-86.1
-KC52,"Burlington, Burlington Municipal Airport",42.690,-88.304
-KC58,Two Rivers Coast Guard Station,44.133,-87.55
-KC73,Dixon / Walgreen Field,41.833,-89.45
 KC75,"Lacon, Marshall County Airport",41.019,-89.386
-KC96,Winter Park Resort,39.883,-105.766
 KCAD,Cadillac / Wexford County,44.283,-85.416
 KCAE,COLUMBIA METROPOLITAN AIRPORT,33.95,-81.116
 KCBE,"Cumberland, Greater Cumberland Regional Airport",39.615,-78.760
@@ -2396,7 +1585,6 @@ KCBG,Cambridge Municipal,45.566,-93.266
 KCBM,Columbus Air Force Base,33.65,-88.45
 KCCO,"Newnan, Newnan Coweta County Airport",33.312,-84.770
 KCCR,CONCORD BUCHANAN FIELD,38.0,-122.05
-KCCX,State College Nexrad,40.916,-78.0
 KCCY,Charles City,43.066,-92.616
 KCDC,CEDAR CITY MUN AIRPORT,37.7,-113.1
 KCDH,Camden / Harrell Field,33.616,-92.766
@@ -2404,13 +1592,10 @@ KCDJ,CHILLICOTHE AGRI-SCIENCE CTR,39.816,-93.583
 KCDW,CALDWELL ESSEX COUNTY AIRPORT,40.883,-74.283
 KCEU,CLEMSON-OCONEE COUNTY AIRPORT,34.666,-82.883
 KCFS,"Caro, Tuscola Area Airport",43.458,-83.445
-KCFT,"Clifton/Morenci, Greenlee County Airport",32.952,-109.210
 KCFV,COFFEYVILLE MUNICIPAL AIRPORT,37.083,-95.566
 KCGI,CAPE GIRARDEAU REGIONAL,37.233,-89.583
 KCGZ,"Casa Grande, Casa Grande Municipal Airport",32.95,-111.766
 KCHA,LOVELL FIELD,35.033,-85.2
-KCHH,Chatham,41.666,-69.966
-KCHI,Chicago Weather Service Forecast Office,42.0,-87.883
 KCHK,"Chickasha, Chickasha Municipal Airport",35.096,-97.966
 KCHO,CHARLOTTESVILLE-ALBEMARLE,38.133,-78.45
 KCID,CEDAR RAPIDS AIRPORT,41.883,-91.716
@@ -2418,7 +1603,6 @@ KCIR,"Cairo, Cairo Regional Airport",37.064,-89.219
 KCIU,"Sault Ste Marie, Chippewa County International Airport",46.25,-84.466
 KCJR,"Culpeper, Culpeper County Airport",38.526,-77.858
 KCKB,HARRISON/MARION REGIONAL,39.3,-80.216
-KCKL,Centreville,32.9,-87.25
 KCKN,Crookston Municipal Field,47.85,-96.616
 KCKP,"Cherokee, Cherokee Municipal Airport",42.731,-95.555
 KCKV,CLARKSVILLE OUTLAW FIELD,36.616,-87.416
@@ -2440,13 +1624,11 @@ KCPW,"Pagosa Springs, Wolf Creek Pass",37.451,-106.800
 KCQB,"Chandler, Chandler Municipal Airport",35.723,-96.820
 KCQC,Clines Corners,35.0,-105.666
 KCQM,"Cook, Cook Municipal Airport",47.821,-92.689
-KCQN,Chattanooga / Daisy,35.166,-85.15
 KCQT,LOS ANGELES USC CAMPUS,34.033,-118.283
 KCQX,CHATHAM MUNICIPAL AIRPORT,41.683,-70.0
 KCRW,YEAGER AIRPORT,38.366,-81.6
 KCSM,CLINTON-SHERMAN AIRPORT,35.35,-99.2
 KCSV,CROSSVILLE MEMORIAL AIRPORT,35.95,-85.083
-KCTO,Calverton / Grumman,40.916,-72.783
 KCTY,CROSS CITY AIRPORT,29.633,-83.1
 KCUB,OWENS DOWNTOWN AIRPORT,33.966,-81.0
 KCUL,"Carmi, Carmi Municipal Airport",38.089,-88.123
@@ -2457,14 +1639,11 @@ KCVX,"Charlevoix, Charlevoix Municipal Airport",45.304,-85.274
 KCWA,Mosinee / Central Wisconsin,44.783,-89.666
 KCWF,Chenault Airpark,30.216,-93.15
 KCWI,"Clinton, Clinton Municipal Airport",41.833,-90.333
-KCWL,"Calexico, Calexico International Airport",32.669,-115.513
 KCXO,LONE STAR EXECUTIVE AIRPORT,30.35,-95.416
 KCZK,Cascade Locks State,45.666,-121.883
 KCZZ,Campo,32.626,-116.468
 KD07,"FAITH, SOUTH DAKOTA",45.033,-102.016
-KD45,Warroad,48.933,-95.35
 KD50,Crosby Municipal Airport,48.928,-103.297
-KD97,South St. Paul Municipal,44.85,-93.15
 KDAA,Fort Belvoir,38.716,-77.183
 KDAB,DAYTONA BEACH INTERNATIONAL,29.166,-81.066
 KDAY,COX DAYTON INTERNATIONAL,39.9,-84.216
@@ -2474,7 +1653,6 @@ KDEN,DENVER INTERNATIONAL AIRPORT,39.866,-104.666
 KDHT,DALHART MUNICIPAL AIRPORT,36.016,-102.55
 KDKB,"De Kalb, De Kalb Taylor Municipal Airport",41.931,-88.708
 KDKK,CHAUTAUQUA COUNTY/DUNKIRK,42.5,-79.283
-KDKX,Knoxville Downtown,35.966,-83.866
 KDLF,"Laughlin, Laughlin Air Force Base Auxiliary Airfield",29.116,-100.466
 KDLH,"Duluth, Duluth International Airport",46.842,-92.226
 KDLL,"Baraboo, Baraboo Wisconsin Dells Airport",43.521,-89.770
@@ -2482,7 +1660,6 @@ KDLN,DILLON AIRPORT,45.25,-112.55
 KDMH,BALTIMORE DOWNTOWN,39.283,-76.616
 KDNK,"Ft. Polk, Self Strip",31.166,-93.0
 KDNL,AUGUSTA DANIEL FIELD,33.466,-82.033
-KDNR,"Denver / Stapleton International, Co.",39.783,-104.866
 KDNS,Denison,41.983,-95.383
 KDNV,"Danville, Vermilion County Airport",40.199,-87.595
 KDOV,Dover Air Force Base,39.133,-75.466
@@ -2503,14 +1680,8 @@ KDVT,PHOENIX-DEER VALLEY MUN,33.683,-112.066
 KDYL,DOYLESTOWN AIRPORT,40.333,-75.116
 KDYS,"Abilene, Dyess Air Force Base",32.420,-99.856
 KDYT,"Duluth, Sky Harbor Airport",46.721,-92.043
-KE12,East Cameron 345,28.083,-92.7
-KE15,"Graham, Graham Municipal Airport",33.11,-98.555
-KE24,"Whiteriver, Whiteriver Airport",33.816,-109.983
-KE28,Northrup Landing Strip,33.9,-106.4
-KE29,"Sonora, Sonora Municipal Airport",30.585,-100.648
 KE33,Chama,36.9,-106.583
 KE38,"Alpine, Alpine-Casparis Municipal Airport",30.384,-103.683
-KE74,Safford Automatic Meteorological Observing System,32.816,-109.683
 KE80,Belen Alexander Muni,34.648,-106.831
 KEAR,"Kearney, Kearney Municipal Airport",40.733,-99.0
 KEAT,WENATCHEE PANGBORN MEMO,47.4,-120.2
@@ -2521,7 +1692,6 @@ KEDE,"Edenton, Northeastern Regional Airport",36.027,-76.567
 KEDW,Edwards Air Force Base,34.916,-117.9
 KEED,NEEDLES AIRPORT,34.766,-114.616
 KEEO,MEEKER AIRPORT,40.05,-107.883
-KEFC,"Belle Fourche, Belle Fourche Municipal Airport",44.733,-103.866
 KEFD,Houston / Ellington,29.6,-95.166
 KEFT,"Monroe, Monroe Municipal Airport",42.615,-89.590
 KEGE,Eagle County Regional,39.65,-106.916
@@ -2538,12 +1708,10 @@ KELP,EL PASO INTERNATIONAL AIRPORT,31.816,-106.383
 KEMV,"Emporia, Emporia-Greensville Regional Airport",36.686,-77.482
 KEND,Vance Air Force Base / Enid,36.333,-97.916
 KENL,"Centralia, Centralia Municipal Airport",38.514,-89.092
-KENN,"Nenana, Nenana Municipal Airport",64.547,-149.083
 KENV,Wendover / Air Force Auxillary Field,40.733,-114.033
 KENW,KENOSHA REGIONAL AIRPORT,42.6,-87.933
 KEOK,Keokuk Municipal,40.466,-91.433
 KEPH,EPHRATA MUNICIPAL AIRPORT,47.3,-119.516
-KEPZ,Santa Teresa,31.866,-106.7
 KEQY,MONROE AIRPORT,35.016,-80.616
 KERY,"Newberry, Luce County Airport",46.311,-85.457
 KESC,Escanaba,45.75,-87.033
@@ -2563,21 +1731,12 @@ KEYW,KEY WEST INTERNATIONAL AIRPORT,24.55,-81.766
 KEZM,"Eastman, Heart of Georgia Regional Airport",32.214,-83.127
 KF05,"Vernon, Wilbarger County Airport",34.225,-99.283
 KF10,Henryetta Municipal,35.4,-96.016
-KF18,"Cleburne, Cleburne Municipal Airport",32.353,-97.433
-KF28,"El Reno, El Reno Municipal Air Park",35.472,-98.005
-KF30,Sulphur Municipal,34.516,-96.983
-KF39,Sherman-Denison,33.716,-96.666
-KF55,"Granbury, Granbury Municipal Airport",32.444,-97.816
 KFAF,Fort Eustis / Felker,37.133,-76.616
 KFAM,Farmington Airport,37.766,-90.433
 KFAR,HECTOR INTERNATIONAL AIRPORT,46.933,-96.816
 KFBL,"Faribault, Faribault Municipal Airport",44.333,-93.316
-KFCA,"Kalispell, Glacier Park International Airport",48.304,-114.263
-KFCH,Fresno-Chandler,36.733,-119.816
-KFCL,Fort Collins Supplementary Aviation Weather Reporting Station,40.583,-105.083
 KFCM,"Minneapolis, Flying Cloud Airport",44.832,-93.470
 KFCS,Fort Carson,38.7,-104.766
-KFCX,Roanoke NEXRAD,37.016,-80.266
 KFDK,"Frederick, Frederick Municipal Airport",39.417,-77.374
 KFDR,FREDERICK MUNICIPAL AIRPORT,34.35,-98.983
 KFET,Fremont Municipal Airport,41.45,-96.516
@@ -2595,7 +1754,6 @@ KFKL,"Franklin, Venango Regional Airport",41.383,-79.866
 KFKN,Franklin / J B Rose,36.7,-76.9
 KFKS,"Frankfort, Frankfort Dow Memorial Field Airport",44.625,-86.200
 KFLD,FOND DU LAC COUNTY AIRPORT,43.766,-88.483
-KFLV,Fort Leavenworth,39.366,-94.916
 KFME,Fort Meade / Tipton,39.083,-76.766
 KFMH,Otis Air National Guard Base,41.65,-70.516
 KFMN,FARMINGTON FOUR CORNERS,36.75,-108.233
@@ -2614,7 +1772,6 @@ KFTG,Denver Nexrad,39.783,-104.55
 KFTK,Fort Knox,37.9,-85.966
 KFTW,FORT WORTH MEACHAM INTERNATIONAL .,32.833,-97.366
 KFWA,FORT WAYNE INTERNATIONAL,41.0,-85.2
-KFWD,Fort Worth,32.833,-97.3
 KFWN,SUSSEX AIRPORT,41.2,-74.633
 KFWS,"Fort Worth, Forth Worth Spinks Airport",32.566,-97.3
 KFXE,FORT LAUDERDALE EXECUTIVE,26.2,-80.183
@@ -2645,16 +1802,13 @@ KGPI,GLACIER PARK INTERNATIONAL  AIRPORT,48.3,-114.266
 KGPT,GULFPORT-BILOXI REG AIRPORT,30.416,-89.083
 KGRB,AUSTIN STRAUBEL INTERNATIONAL  AIRPORT,44.483,-88.133
 KGRI,CENTRAL NEBRASKA REGIONAL,40.966,-98.316
-KGRN,Gordon Municipal,42.8,-102.166
 KGRR,GERALD R. FORD INTERNATIONAL,42.883,-85.516
 KGSH,GOSHEN MUNICIPAL AIRPORT,41.533,-85.783
-KGSN,SAIPAN INTERNATIONAL AIRPORT,15.116,145.733
 KGTF,GREAT FALLS INTERNATIONAL,47.466,-111.383
 KGTU,"Georgetown, Georgetown Municipal Airport",30.683,-97.683
 KGUC,"Gunnison, Gunnison-Crested Butte Regional Airport",38.533,-106.933
 KGUL,Gunnison,27.303,-93.538
 KGUY,GUYMON MUNICIPAL AIRPORT,36.683,-101.5
-KGVW,"Kansas City, Richards-Gebaur Airport",38.835,-94.561
 KGVX,Galveston 424,28.576,-94.976
 KGXY,"Greeley, Greeley-Weld County Airport",40.433,-104.633
 KGYB,"Giddings, Giddings-Lee County Airport",30.169,-96.98
@@ -2663,10 +1817,6 @@ KGYL,"Glencoe, Glencoe Municipal Airport",44.756,-94.081
 KGYR,Goodyear Municipal,33.416,-112.383
 KGYY,Gary Regional,41.616,-87.416
 KGZH,EVERGREEN MIDDLETON FIELD,31.416,-87.05
-KH32,Southwest Harbor,44.266,-68.316
-KH39,High Island A572c,27.95,-93.983
-KH45,"Seminole, Seminole Municipal Airport",35.274,-96.674
-KH92,Hominy Municipal,36.433,-96.383
 KHAO,BUTLER COUNTY REGIONAL AIRPORT,39.366,-84.516
 KHBG,HATTIESBURG CHAIN MUNICIPAL,31.266,-89.25
 KHBR,HOBART MUNICIPAL AIRPORT,34.983,-99.05
@@ -2687,7 +1837,6 @@ KHJO,"Hanford, Hanford Municipal Airport",36.318,-119.628
 KHKA,BLYTHEVILLE MUNICIPAL AIRPORT,35.933,-89.833
 KHLG,WHEELING OHIO COUNTY AIRPORT,40.166,-80.65
 KHLX,Hillsville,36.766,-80.816
-KHMM,Hamilton / Ravalli County,46.25,-114.15
 KHMN,Holloman Air Force Base,32.85,-106.1
 KHMS,Hanford,46.566,-119.6
 KHMZ,"Bedford, Bedford County Airport",40.085,-78.512
@@ -2697,7 +1846,6 @@ KHNR,"Harlan, Harlan Municipal Airport",41.584,-95.339
 KHNS,"Haines, Haines Airport",59.243,-135.509
 KHNZ,"Oxford, Henderson-Oxford Airport",36.361,-78.529
 KHOB,Hobbs / Lea County,32.683,-103.216
-KHOM,"Homer, Homer Airport",59.642,-151.487
 KHON,HURON REGIONAL AIRPORT,44.383,-98.233
 KHOT,HOT SPRINGS MEMORIAL FIELD,34.483,-93.1
 KHQZ,"Mesquite, Mesquite Metro Airport",32.746,-96.530
@@ -2706,7 +1854,6 @@ KHRL,RIO GRANDE VALLEY,26.216,-97.65
 KHSA,"Bay St. Louis, Stennis International Airport",30.367,-89.454
 KHSB,"Harrisburg, Harrisburg-Raleigh Airport",37.811,-88.549
 KHSE,MITCHELL FIELD,35.233,-75.616
-KHSS,Hot Springs Aviation Weather Reporting Station,35.9,-82.816
 KHST,Homestead Air Force Base,25.483,-80.383
 KHSV,HUNTSVILLE INTERNATIONAL  JONES FIELD,34.65,-86.783
 KHTL,ROSCOMMON COUNTY AIRPORT,44.35,-84.666
@@ -2718,22 +1865,17 @@ KHYX,"Saginaw, Saginaw County H.W. Browne Airport",43.433,-83.862
 KHZE,Mercer County Regional Airport,47.29,-101.580
 KHZY,ASHTABULA COUNTY AIRPORT,41.783,-80.7
 KI16,"Pineville, Kee Field Airport",37.600,-81.559
-KI63,"Mount Sterling, Mount Sterling Municipal Airport",39.987,-90.804
 KIAB,McConnell Air Force Base,37.616,-97.266
 KIAD,DULLES INTERNATIONAL AIRPORT,38.933,-77.45
 KICL,Clarinda,40.716,-95.033
 KICR,WINNER REGIONAL AIRPORT,43.383,-99.85
-KIDV,I-25 Divide,43.933,-106.65
 KIEN,PINE RIDGE AIRPORT,43.033,-102.516
 KIFP,"Bullhead City, Laughlin/Bullhead International Airport",35.157,-114.559
-KIGC,Charleston Air Force Base,32.9,-80.05
 KIGM,KINGMAN AIRPORT,35.25,-113.933
 KIGX,CHAPEL HILL WILLIAMS AIRPORT,35.933,-79.066
 KIIY,"Washington, Washington-Wilkes County Airport",33.779,-82.816
 KIJD,WILLIMANTIC WINDHAM AIRPORT,41.75,-72.183
-KIKA,Inyan Kara,44.3,-104.633
 KIKK,"Kankakee, Greater Kankakee Airport",41.071,-87.846
-KIKR,"Kirtland, Kirtland Air Force Base Auxiliary Field",34.95,-106.566
 KIKT,Nakika,28.520,-88.288
 KILE,"Killeen, Skylark Field Airport",31.083,-97.683
 KILG,WILMINGTON NEW CASTLE CO,39.666,-75.6
@@ -2769,7 +1911,6 @@ KJSO,"Jacksonville, Cherokee County Airport",31.869,-95.217
 KJST,JOHNSTOWN-CAMBRIA CO AIRPORT,40.316,-78.833
 KJVL,Janesville / Rock County,42.616,-89.033
 KJWG,"Watonga, Watonga Airport",35.864,-98.420
-KJWX,Fort Ritchie,39.733,-77.433
 KJWY,"Midlothian/Waxahachie, Mid-Way Regional Airport",32.455,-96.912
 KJXI,"Gilmer, Fox Stephens Field - Gilmer Municipal Airport",32.698,-94.948
 KJXN,JACKSON COUNTY-REYNOLDS,42.266,-84.466
@@ -2777,25 +1918,7 @@ KJYL,"Sylvania, Plantation Airpark",32.645,-81.596
 KJYM,"Hillsdale, Hillsdale Municipal Airport",41.921,-84.585
 KJYO,Leesburg / Godfrey,39.083,-77.566
 KJYR,"York, York Municipal Airport",40.896,-97.622
-KKAL,"Kaltag, Kaltag Airport",64.324,-158.733
 KKLS,"Kelso, Kelso-Longview Airport",46.116,-122.9
-KKVL,"Kivalina, Kivalina Airport",67.731,-164.542
-KL10,San Clemente,33.416,-117.616
-KL13,Point Loma / Cabrillo,32.666,-117.483
-KL14,Cabrillo Beach,33.716,-118.283
-KL21,Scripps Pier / La Jol,32.866,-117.25
-KL27,Santa Catalina Island,33.333,-118.333
-KL34,Oceanside Harbor,33.216,-117.4
-KL40,High Island A489b,28.2,-94.2
-KL42,"Oakdale, Allen Parish Airport",30.750,-92.688
-KL46,Anacapa Island,34.016,-119.366
-KL49,"Galliano, South Lafourche Airport",29.444,-90.261
-KL55,Malibu Beach,34.033,-118.683
-KL58,Mission Beach,32.766,-117.233
-KL79,Oxnard / Channel Island,34.166,-119.216
-KL82,Terminal Island,33.733,-118.266
-KL97,Point Vincente,33.733,-118.4
-KL98,El Capitan Beach,33.45,-120.033
 KLAA,LAMAR MUNICIPAL AIRPORT,38.066,-102.683
 KLAM,"Los Alamos, Los Alamos Airport",35.879,-106.269
 KLAN,CAPITAL CITY AIRPORT,42.783,-84.583
@@ -2805,18 +1928,15 @@ KLBT,LUMBERTON MUNICIPAL AIRPORT,34.6,-79.066
 KLCH,LAKE CHARLES REGIONAL AIRPORT,30.2,-93.383
 KLCK,Rickenbacker Air National Guard Base,39.816,-82.933
 KLDM,"Ludington, Mason County Airport",43.966,-86.4
-KLDS,Leeds,48.55,-109.683
 KLEB,LEBANON MUNICIPAL AIRPORT,43.633,-72.3
 KLEX,LEXINGTON BLUE GRASS AIRPORT,38.033,-84.6
 KLFK,LUFKIN ANGELINA COUNTY AIRPORT,31.233,-94.75
 KLGD,"La Grande, La Grande/Union County Airport",45.283,-118.0
 KLGU,LOGAN CACHE AIRPORT,41.783,-111.85
-KLHD,"Anchorage, Lake Hood Sea Plane Base",61.178,-149.963
 KLHQ,LANCASTER FAIRFIELD CO AIRPORT,39.75,-82.666
 KLHW,Ft. Stewart,31.883,-81.566
 KLHX,LA JUNTA MUNICIPAL AIRPORT,38.05,-103.516
 KLIC,LIMON MUNICIPAL AIRPORT,39.266,-103.666
-KLIZ,Loring Air Force Base / Limeston,46.95,-67.883
 KLJF,"Litchfield, Litchfield Municipal Airport",45.097,-94.507
 KLKU,"Louisa, Louisa County Airport/Freeman Field",38.009,-77.970
 KLKV,"Lakeview, Lake County Airport",42.166,-120.4
@@ -2833,12 +1953,9 @@ KLPR,LORAIN COUNTY REGIONAL AIRPORT,41.35,-82.183
 KLRF,Little Rock Air Force Base,34.916,-92.15
 KLRJ,"Le Mars, Le Mars Municipal Airport",42.778,-96.193
 KLRU,"Las Cruces, Las Cruces International Airport",32.289,-106.921
-KLRX,Elko Nexrad,40.738,-116.802
-KLSD,Lexington / Creech,38.033,-84.616
 KLSE,LA CROSSE MUNICIPAL AIRPORT,43.883,-91.25
 KLSV,Nellis Air Force Base,36.233,-115.033
 KLTS,Altus Air Force Base,34.65,-99.266
-KLTX,Wilmington Nexrad,33.983,-78.433
 KLUD,"Decatur, Decatur Municipal Airport",33.254,-97.580
 KLUF,Luke Air Force Base / Phoenix,33.533,-112.383
 KLUK,CINCINNATI MUN LUNKEN FLD,39.1,-84.416
@@ -2850,21 +1967,16 @@ KLWC,LAWRENCE MUNICIPAL AIRPORT,39.016,-95.216
 KLXL,"Little Falls, Little Falls/Morrison County Airport-Lindbergh Field",45.95,-94.35
 KLXN,"Lexington, Jim Kelly Field Airport",40.791,-99.777
 KLXT,LEE'S SUMMIT MUNICIPAL,38.966,-94.366
-KLZK,"North Little Rock, North Little Rock Airport",34.833,-92.25
 KLZU,"Lawrenceville, Gwinnett County-Briscoe Field Airport",33.978,-83.962
 KLZZ,"Lampasas, Lampasas Airport",31.106,-98.195
 KM19,"Newport, Newport Municipal Airport",35.637,-91.176
 KM30,"Metropolis, Metropolis Municipal Airport",37.185,-88.750
-KM39,"Mena, Mena Intermountain Municipal Airport",34.545,-94.202
-KM82,"Huntsville, Madison County Executive Airport",34.861,-86.557
 KM89,"Arkadelphia, Dexter B Florence Memorial Field Airport",34.099,-93.066
-KM97,"Tunica, Tunica Municipal Airport",34.680,-90.346
 KMAE,MADERA MUNICIPAL AIRPORT,36.983,-120.116
 KMBG,MOBRIDGE MUNICIPAL AIRPORT,45.55,-100.416
 KMBS,MBS INTERNATIONAL AIRPORT,43.533,-84.083
 KMCD,"Macinac Island, Mackinac Island Airport",45.865,-84.637
 KMCE,MERCED MUNICIPAL AIRPORT,37.283,-120.5
-KMCG,"McGrath, McGrath Airport",62.956,-155.605
 KMCI,KANSAS CITY INTERNATIONAL  AIRPORT,39.3,-94.733
 KMDH,SOUTHERN ILLINOIS AIRPORT,37.783,-89.25
 KMDT,HARRISBURG INTERNATIONAL  AIRPORT,40.2,-76.766
@@ -2878,20 +1990,16 @@ KMGR,"Moultrie, Moultrie Municipal Airport",31.084,-83.803
 KMGW,MORGANTOWN MUNI-HART FIELD,39.65,-79.916
 KMHR,"Sacramento, Sacramento Mather Airport",38.55,-121.3
 KMHS,MOUNT SHASTA,41.316,-122.316
-KMHX,Newport,34.783,-76.883
 KMIA,MIAMI INTERNATIONAL AIRPORT,25.783,-80.316
 KMIC,CRYSTAL AIRPORT,45.066,-93.35
 KMKC,KANSAS CITY DOWNTOWN AIRPORT,39.116,-94.6
-KMKK,"Kaunakakai, Molokai Airport",21.157,-157.098
 KMKL,JACKSON MCKELLAR-SIPES RGNL,35.6,-88.916
 KMKO,MUSKOGEE DAVIS FIELD,35.65,-95.366
-KMKX,Milwaukee NEXRAD,42.966,-88.55
 KMLB,MELBOURNE INTERNATIONAL,28.1,-80.65
 KMLE,"Omaha, Millard Airport",41.195,-96.112
 KMLF,MILFORD MUNICIPAL AIRPORT,38.416,-113.016
 KMLP,MULLAN PASS VOR,47.45,-115.666
 KMMK,MERIDEN MARKHAM MUNICIPAL AIRPORT,41.516,-72.833
-KMMO,Marseilles Island,41.366,-88.683
 KMMT,McEntire Air National Guard Weather Facility Base,33.916,-80.8
 KMMU,Morristown Municipal,40.8,-74.416
 KMMV,MCMINNVILLE MUNICIPAL AIRPORT,45.2,-123.133
@@ -2902,7 +2010,6 @@ KMOT,MINOT INTERNATIONAL AIRPORT,48.266,-101.283
 KMPO,MT POCONO POCONO MOUNTAINS,41.133,-75.383
 KMQB,"Macomb, Macomb Municipal Airport",40.520,-90.652
 KMQE,MILTON BLUE HILL OBSERV,42.216,-71.116
-KMQM,Monida,44.566,-112.316
 KMQT,Marquette,46.533,-87.55
 KMQY,"Smyrna, Smyrna Airport",36.008,-86.52
 KMRB,MARTINSBURG EASTERN WV REG,39.4,-77.983
@@ -2910,18 +2017,14 @@ KMRF,Marfa,30.366,-104.016
 KMRH,BEAUFORT SMITH FIELD,34.733,-76.65
 KMRJ,"Mineral Point, Iowa County Airport",42.885,-90.231
 KMRN,"Morganton, Morganton-Lenoir Airport",35.821,-81.610
-KMRX,Morristown Nexrad,36.166,-83.4
 KMRY,MONTEREY PENINSULA AIRPORT,36.583,-121.85
-KMSX,Missoula NEXRAD,47.033,-113.983
 KMSY,NEW ORLEANS INTERNATIONAL  AIRPORT,30.0,-90.25
 KMTH,MARATHON AIRPORT,24.733,-81.05
 KMTO,MATTOON/CHARLESTON COLES CO,39.466,-88.266
 KMTW,"Manitowoc, Manitowoc County Airport",44.133,-87.683
-KMTX,Salt Lake Nexrad,41.433,-112.75
 KMUI,Muir Army Air Field / Indiantown,40.433,-76.566
 KMUO,Mountain Home Air Force Base,43.05,-115.866
 KMUT,Muscatine,41.366,-91.15
-KMUX,Monterey NEXRAD,37.166,-121.9
 KMVE,"Montevideo, Montevideo-Chippewa County Airport",44.966,-95.716
 KMVL,MORRISVILLE STOWE STATE AIRPORT,44.533,-72.616
 KMVY,VINEYARD HAVEN MARTHAS VIN,41.4,-70.616
@@ -2935,28 +2038,17 @@ KMXO,Monticello Municipal,42.233,-91.166
 KMYF,SAN DIEGO MONTGOMERY FIELD,32.816,-117.133
 KMYR,Myrtle Beach Air Force Base,33.683,-78.933
 KMYT,Innovator,28.220,-89.615
-KN00,"Fulton, Oswego County Airport",43.349,-76.384
-KN11,New Haven Coast Guard Station,41.266,-72.9
-KN28,Ambrose / Ft. Tilden,40.45,-73.816
 KN60,GARRISON MUNICIPAL AIRPORT,47.65,-101.433
-KN78,Barnegat Coast Guard Station,39.766,-74.1
-KN80,"Ocean City, Ocean City Municipal Airport",38.308,-75.123
-KN84,Bronx / Execution Coast Guard Station,40.883,-73.733
-KN91,Cape May Coast Guard Station,38.95,-74.883
-KNAE,"Astor, Bombing Range Detachment Astor",29.143,-81.632
 KNAK,ANNAPOLIS US NAVAL ACADEMY,38.983,-76.483
 KNBG,NEW ORLEANS NAVAL AIR STN,29.833,-90.016
 KNBT,PINEY ISLAND BT11 BOMB RANGE,35.016,-76.466
 KNEL,Lakehurst Naval Air Station,40.033,-74.316
-KNEN,"NOLF WHITEHOUSE FIELD, FL",30.35,-81.866
 KNFE,FENTRESS NALF,36.7,-76.133
-KNGW,CABINESS FIELD,27.166,-97.716
 KNHK,NAS PATUXENT RIVER MD,38.3,-76.4
 KNJK,"El Centro, Naval Air Facility",32.825,-115.660
 KNJM,"BOGUE FIELD, MCALF",34.7,-77.033
 KNKX,MCAS MIRAMAR,32.866,-117.15
 KNMM,MERIDIAN NAVAL AIR STATION,32.916,-88.933
-KNNZ,Point Sur,36.3,-121.883
 KNOG,"ORANGE GROVE, NALF",27.483,-98.066
 KNPA,"Pensacola, Naval Air Station",30.356,-87.323
 KNQA,"Millington, Millington Municipal Airport",35.356,-89.870
@@ -2964,7 +2056,6 @@ KNQI,KINGSVILLE NAS,27.833,-97.35
 KNRS,"IMPERIAL BEACH, NOLF",32.566,-117.116
 KNZY,"NAS NORTH ISLAND, SAN DIEGO",32.7,-117.216
 KO54,Weaverville,40.747,-122.922
-KO72,Point Cabrillo,39.35,-123.816
 KO87,Shelter Cove,40.016,-124.066
 KOAJ,"Jacksonville, Albert J Ellis Airport",34.833,-77.616
 KOAK,METRO OAKLAND INTERNATIONAL  AIRPORT,37.716,-122.233
@@ -2976,14 +2067,11 @@ KOEO,"Osceola, L O Simenstad Municipal Airport",45.308,-92.690
 KOFF,Omaha / Offutt Air Force Base,41.116,-95.9
 KOFK,KARL STEFAN MEMORIAL AIRPORT,41.983,-97.433
 KOGB,ORANGEBURG MUNICIPAL AIRPORT,33.466,-80.85
-KOHX,Nashville NEXRAD,36.75,-86.566
 KOJA,"Weatherford, Thomas P Stafford Airport",35.544,-98.668
 KOJC,OLATHE JOHNSON CO EXECUTIVE,38.833,-94.733
 KOKK,"Kokomo, Kokomo Municipal Airport",40.533,-86.066
 KOKM,"Okmulgee, Okmulgee Municipal Airport",35.668,-95.948
 KOKV,Winchester Regional,39.15,-78.15
-KOKX,N. Y. City NEXRAD,40.866,-72.866
-KOLD,Old Town / Dewitt Field,44.95,-68.666
 KOLE,Olean Municipal,42.233,-78.366
 KOLF,WOLF POINT CLAYTON AIRPORT,48.1,-105.583
 KOLV,"Olive Branch, Olive Branch Airport",34.978,-89.786
@@ -3018,45 +2106,19 @@ KOXB,OCEAN CITY MUNICIPAL AIRPORT,38.316,-75.116
 KOXR,OXNARD AIRPORT,34.2,-119.2
 KOZR,Cairns Army Air Field / Ozark,31.283,-85.716
 KOZW,"Howell, Livingston County Airport",42.629,-83.984
-KP00,Tenneco Platform,28.0,-93.0
-KP01,Ajo Municipal,32.45,-112.866
-KP06,Bullhead City,35.166,-114.566
-KP07,Sanderson,30.166,-102.416
-KP11,Devils Lake,48.1,-98.866
-KP21,Main Pass B68,29.666,-88.883
-KP22,Vermilion B131,29.066,-92.183
-KP24,Roseglen,47.75,-101.833
-KP25,Vermilion B215,28.7,-92.316
-KP26,Grand Isle B95,28.5,-90.116
 KP28,MEDICINE LODGE,37.283,-98.55
-KP35,Spickard,40.25,-93.716
-KP38,Caliente,37.612,-114.526
-KP39,Pequot Lake,46.6,-94.316
-KP43,Ventura Harbor,34.25,-119.25
-KP44,Santa Barbara Harbor,34.4,-119.7
-KP47,Chetco River Coast Guard Station,42.15,-124.266
 KP53,MUNISING LAKESHORE,46.416,-86.65
-KP65,Lukeville,31.883,-112.816
-KP67,Lidgerwood Remote Automatic Meteorological Observing System,46.1,-97.15
 KP68,EUREKA,39.6,-116.0
-KP75,Manistique,45.95,-86.229
-KP88,Rome Automatic Meteorological Observing System,42.9,-117.65
 KP92,SALT POINT,29.566,-91.533
 KPAO,Palo Alto Airport,37.466,-122.116
-KPAQ,"Palmer, Palmer Municipal Airport",61.596,-149.091
-KPAT,Pathfinder Hill,42.566,-106.85
 KPBF,PINE BLUFF GRIDER FIELD,34.183,-91.933
 KPBI,PALM BEACH INTERNATIONAL,26.683,-80.1
-KPBZ,Pittsburgh Nexrad,40.533,-80.216
 KPCM,"Plant City, Plant City Municipal Airport",28.0,-82.15
-KPCU,Picayune / Pearl River,30.516,-89.7
 KPCZ,"Waupaca, Waupaca Municipal Airport",44.333,-89.015
 KPDC,"Prairie Du Chien, Prairie Du Chien Municipal Airport",43.021,-91.124
 KPDK,ATLANTA DE KALB-PEACHTREE,33.883,-84.3
-KPEF,Peterson Air Force Base,38.816,-104.733
 KPEO,PENN YAN AIRPORT,42.65,-77.05
 KPEX,"Paynesville, Paynesville Municipal Airport",45.372,-94.746
-KPFC,Pacific City State,45.2,-123.966
 KPFN,PANAMA CITY-BAY CTY INTERNATIONAL,30.2,-85.683
 KPGV,Pitt-Greenville Airport,35.633,-77.4
 KPHD,NEW PHILADELPHIA CLEVER FLD,40.466,-81.416
@@ -3064,7 +2126,6 @@ KPHP,PHILIP AIRPORT,44.05,-101.6
 KPIA,GREATER PEORIA REGIONAL AIRPORT,40.666,-89.683
 KPIE,ST PETERSBURG/CLEARWATER,27.916,-82.683
 KPIR,PIERRE REGIONAL AIRPORT,44.383,-100.283
-KPJI,Point Judith Coast Guard Station,41.35,-71.466
 KPKB,MID-OHIO VALLEY RGNL AIRPORT,39.333,-81.45
 KPKV,"Port Lavaca, Calhoun County Airport",28.653,-96.681
 KPLB,PLATTSBURGH CLINTON CO AIRPORT,44.683,-73.533
@@ -3105,16 +2166,13 @@ KQHA,FOB Mandrian,19.666,-72.033
 KQTA,"ATSUGI, JAPAN NAVAL AIR",35.45,139.45
 KRAC,BATTEN INTERNATIONAL AIRPORT,42.766,-87.816
 KRAL,RIVERSIDE MUNICIPAL AIRPORT,33.95,-117.45
-KRAX,Raleigh NEXRAD,35.666,-78.5
 KRBD,DALLAS EXECUTIVE AIRPORT,32.683,-96.866
 KRCA,Ellsworth Air Force Base,44.15,-103.1
 KRCX,"Ladysmith, Ruck County Airport",45.496,-91.000
 KRDD,REDDING MUNICIPAL AIRPORT,40.5,-122.283
 KRDM,REDMOND ROBERTS FIELD,44.25,-121.133
 KRDU,RALEIGH-DURHAM INTERNATIONAL  AIRPORT,35.9,-78.766
-KREE,Reese Air Force Base / Lubbock,33.6,-102.05
 KREO,ROME,42.583,-117.866
-KRGX,Reno NEXRAD,39.75,-119.466
 KRHI,RHINELANDER-ONEIDA CO AIRPORT,45.633,-89.483
 KRHV,San Jose / Reid / Hillv,37.333,-121.816
 KRIC,RICHMOND INTERNATIONAL  AIRPORT,37.516,-77.316
@@ -3137,33 +2195,22 @@ KRPH,"Graham, Graham Municipal Airport",33.11,-98.555
 KRPJ,"Rochelle, Rochelle Municipal-Koritz Field Airport",41.893,-89.078
 KRQB,"Big Rapids, Roben-Hood Airport",43.722,-85.504
 KRQE,WINDOW ROCK AIRPORT,35.65,-109.066
-KRRF,"New Port Richey, Tampa Bay Executive Airport",28.189,-82.625
 KRRL,"Merrill, Merrill Municipal Airport",45.183,-89.7
 KRRT,"Warroad, Warroad International Airport-Swede Carlston Field",48.941,-95.348
 KRSL,RUSSELL MUNICIPAL AIRPORT,38.866,-98.816
 KRST,ROCHESTER INTERNATIONAL AIRPORT,43.9,-92.5
 KRSW,FORT MYERS SW FL INTERNATIONAL  AIRPORT,26.533,-81.766
-KRTX,Portland NEXRAD,45.716,-122.966
 KRUE,RUSSELVILLE MUNICIPAL AIRPORT,35.25,-93.1
 KRUQ,"Salisbury, Rowan County Airport",35.65,-80.516
 KRUT,"Rutland, Rutland-Southern Vermont Regional Airport",43.533,-72.95
-KRVL,Reedsville / Mifflin,40.683,-77.633
 KRVS,TULSA JONES JR. AIRPORT,36.05,-95.983
 KRXE,REXBURG-MADISON COUNTY AIRPORT,43.833,-111.8
 KRYY,"Marietta, Cobb County-McCollum Field Airport",34.013,-84.598
 KRZN,"Siren, Burnett County Airport",45.822,-92.372
 KRZZ,HALIFAX COUNTY AIRPORT,36.433,-77.716
-KS06,Mullan Aviation Weather Reporting Station,47.466,-115.8
-KS14,Spencer,44.35,-112.183
-KS21,Sunriver,43.883,-121.45
 KS25,Watford City Municipal Airport,47.796,-103.255
 KS32,Rands Airport,47.422,-98.105
-KS47,"Tillamook, Tillamook Airport",45.418,-123.814
-KS53,Destruction Island,47.666,-124.483
 KS58,South Timbalier,28.533,-90.583
-KS65,Ship Shoal 198g,28.5,-91.2
-KS80,Grangeville,45.95,-116.133
-KS88,"Skykomish, Skykomish State Airport",47.7,-121.333
 KSAC,SACRAMENTO EXECUTIVE AIRPORT,38.5,-121.5
 KSAT,SAN ANTONIO INTERNATIONAL  AIRPORT,29.533,-98.466
 KSAZ,"Staples, Staples Municipal Airport",46.380,-94.806
@@ -3189,14 +2236,11 @@ KSGR,SUGARLAND REGIONAL AIRPORT,29.616,-95.65
 KSGT,"Stuttgart, Stuttgart Municipal Airport",34.6,-91.566
 KSGU,"St George, St George Municipal Airport",37.083,-113.6
 KSHD,Staunton / Shenandoah,38.266,-78.9
-KSHI,"Ashtabula, Ashtabula County Airport",41.779,-80.696
 KSHL,Sheldon,43.216,-95.833
 KSHN,SHELTON SANDERSON FIELD,47.233,-123.133
 KSHR,SHERIDAN COUNTY AIRPORT,44.766,-106.966
-KSIL,Slidell Radar Site,30.25,-89.766
 KSIY,MONTAGUE SISKIYOU COUNTY,41.766,-122.466
 KSKA,Fairchild Air Force Base,47.616,-117.65
-KSKC,Waukesha,43.033,-88.233
 KSKF,Kelly Air Force Base,29.383,-98.583
 KSKX,"Taos, Taos Regional Airport",36.45,-105.666
 KSLB,Storm Lake,42.6,-95.233
@@ -3205,17 +2249,14 @@ KSLH,"Cheboygan, Cheboygan County Airport",45.653,-84.519
 KSLI,Los Alamitos U. S. Army Airfield,33.783,-118.05
 KSLK,ADIRONDACK REGIONAL AIRPORT,44.4,-74.2
 KSLR,"Sulphur Springs, Sulphur Springs Municipal Airport",33.161,-95.621
-KSLW,Smithville / Wooster,40.883,-81.833
 KSME,"Somerset, Somerset-Pulaski County - J.T. Wilson Field Airport",37.054,-84.615
 KSMF,SACRAMENTO INTERNATIONAL  AIRPORT,38.7,-121.6
 KSMO,SANTA MONICA MUNICIPAL AIRPORT,34.016,-118.45
 KSNK,"Snyder, Winston Field Airport",32.693,-100.950
 KSNL,"Shawnee, Shawnee Municipal Airport",35.357,-96.942
-KSNP,"St. Paul Island, St. Paul Island Airport",57.155,-170.220
 KSNS,SALINAS MUNICIPAL AIRPORT,36.666,-121.6
 KSNY,SIDNEY MUNICIPAL AIRPORT,41.1,-102.983
 KSOP,"Pinehurst/Southern Pines, Moore County Airport",35.233,-79.4
-KSOV,"Seldovia, Seldovia Airport",59.446,-151.704
 KSOW,"Show Low, Show Low Regional Airport",34.265,-110.005
 KSPA,Spartanburg Memorial,34.916,-81.95
 KSPB,SCAPPOOSE INDUSTRIAL AIRPARK,45.766,-122.866
@@ -3223,7 +2264,6 @@ KSPG,ST PETERSBURG WHITTED AIRPORT,27.766,-82.633
 KSQL,San Carlos Airport,37.516,-122.25
 KSRC,"Searcy, Searcy Municipal Airport",35.211,-91.737
 KSRE,"Seminole, Seminole Municipal Airport",35.274,-96.674
-KSRF,Hamilton U. S. Army Airfield,38.066,-122.5
 KSRN,South Marsh 268A,29.116,-91.866
 KSRQ,SARASOTA/BRADENTON INTERNATIONAL .,27.4,-82.55
 KSSC,Shaw Air Force Base,33.966,-80.483
@@ -3236,52 +2276,35 @@ KSUS,SPIRIT OF ST. LOUIS AIRPORT,38.65,-90.65
 KSUU,Fairfield / Travis Air Force Base,38.266,-121.95
 KSUW,"Superior, Richard I. Bong Airport",46.689,-92.094
 KSUX,SIOUX GATEWAY AIRPORT,42.383,-96.383
-KSVE,Susanville Municipal,40.383,-120.566
 KSVH,"Statesville, Statesville Municipal Airport",35.765,-80.956
 KSVN,Hunter U. S. Army Airfield,32.016,-81.15
-KSWD,"Seward, Seward Airport",60.126,-149.418
 KSWF,Newburgh / Stewart,41.5,-74.1
 KSWO,STILLWATER REGIONAL AIRPORT,36.166,-97.083
 KSXT,SEXTON SUMMIT,42.6,-123.366
 KSYR,SYRACUSE HANCOCK INTERNATIONAL  AIRPORT,43.116,-76.1
-KSZN,Santa Cruz Island,34.016,-119.75
 KSZT,"Sandpoint, Sandpoint Airport",48.299,-116.56
-KT08,"Tomahawk, Tomahawk Regional Airport",45.468,-89.805
-KT18,"Falfurrias, Brooks County Airport",27.206,-98.121
-KT46,South Brazos A70,28.016,-95.866
-KT49,"Big Spring, Big Spring McMahon-Wrinkle Airport",32.2,-101.516
-KT53,"Robstown, Nueces County Airport",27.778,-97.690
-KT56,"Crockett, Houston County Airport",31.306,-95.403
-KT62,Tooele,40.316,-112.3
 KT65,"Weslaco, Mid Valley Airport",26.177,-97.973
-KT72,"Hearne, Hearne Municipal Airport",30.871,-96.622
 KT82,"Fredericksburg, Gillespie County Airport",30.243,-98.909
-KT97,"Port Lavaca, Calhoun County Airport",28.653,-96.681
 KTAD,"Trinidad, Perry Stokes Airport",37.266,-104.433
-KTAL,"Tanana, Calhoun Memorial Airport",65.174,-152.106
 KTAN,TAUNTON MUNICIPAL AIRPORT,41.883,-71.016
 KTBN,Fort Leonard Wood,37.733,-92.133
 KTBR,"Statesboro, Statesboro-Bulloch County Airport",32.483,-81.737
-KTBW,Tampa Bay Area,27.7,-82.4
 KTCC,TUCUMCARI MUNICIPAL AIRPORT,35.183,-103.6
 KTCS,TRUTH OR CONSEQUENCES MUNI,33.233,-107.266
 KTDO,Toledo-Winlock Memorial,46.483,-122.8
 KTDZ,TOLEDO METCALF FIELD,41.566,-83.483
 KTEX,"Telluride, Telluride Regional Airport",37.953,-107.908
-KTFX,Great Falls Nexrad,47.466,-111.366
 KTHV,YORK AIRPORT,39.916,-76.883
 KTIK,Tinker Air Force Base,35.416,-97.383
 KTIP,"Rantoul, Rantoul National Aviation Center Airport-Frank Elliott Field",40.293,-88.142
 KTIW,"Tacoma, Tacoma Narrows Airport",47.267,-122.576
 KTIX,Titusville,28.516,-80.8
-KTKA,"Talkeetna, Talkeetna Airport",62.32,-150.095
 KTKC,"Tracy, Tracy Municipal Airport",44.248,-95.607
 KTKI,COLLIN CNTY REGIONAL AIRPORT,33.183,-96.583
 KTLH,TALLAHASSEE REGIONAL AIRPORT,30.4,-84.35
 KTMB,KENDALL-TAMIAMI EXEC AIRPORT,25.65,-80.433
 KTNB,"Boone, Watauga County Hospital Heliport",36.2,-81.65
 KTNU,Newton Municipal,41.683,-93.016
-KTNX,Tonopah Test Range,37.8,-116.783
 KTOA,"Torrance, Zamperini Field Airport",33.8,-118.333
 KTOB,"Dodge Center, Dodge Center Airport",44.018,-92.831
 KTOI,TROY MUNICIPAL AIRPORT,31.866,-86.016
@@ -3295,24 +2318,14 @@ KTTN,TRENTON MERCER COUNTY AIRPORT,40.283,-74.816
 KTUL,TULSA INTERNATIONAL AIRPORT,36.2,-95.883
 KTVI,Thomasville,30.901,-83.881
 KTWF,JOSLIN FLD-MAGIC VALLEY REGL,42.483,-114.483
-KTWX,Topeka NEXRAD,39.0,-96.233
 KTXK,TEXARKANA RGNL WEBB FIELD,33.45,-93.983
-KU15,"Challis, Challis Airport",44.522,-114.215
 KU16,Eagle Range,41.05,-113.066
-KU17,Bullfrog Marina,37.5,-110.7
 KU24,Delta,39.333,-112.583
 KU28,Green River Range,39.0,-110.166
-KU31,Austin,39.5,-117.083
-KU42,"Salt Lake City, Salt Lake City Municipal 2 Airport",40.619,-111.992
-KU59,"Driggs, Driggs-Reed Memorial Airport",43.741,-111.097
-KU67,Roosevelt,40.3,-109.983
-KU71,Vernal,40.466,-109.533
-KU73,"Jerome, Jerome County Airport",42.727,-114.453
 KU78,Soda Springs / Tigert,42.65,-111.583
 KUAO,AURORA STATE AIRPORT,45.25,-122.766
 KUDG,"Darlington, Darlington County Jetport Airport",34.449,-79.890
 KUES,"Waukesha, Waukesha County Airport",43.041,-88.236
-KUEX,Grand Island Nexrad,40.316,-98.433
 KUGN,CHICAGO/WAUKEGAN REGIONAL,42.416,-87.866
 KUKI,UKIAH MUNICIPAL AIRPORT,39.133,-123.2
 KUKT,"Quakertown, Quakertown Airport",40.435,-75.381
@@ -3341,25 +2354,15 @@ KVQQ,"Jacksonville, Cecil Field Airport",30.218,-81.876
 KVRB,VERO BEACH MUNICIPAL AIRPORT,27.65,-80.416
 KVSF,HARTNESS STATE AIRPORT,43.35,-72.516
 KVTN,"MILLER FIELD - VALENTINE, NE",42.866,-100.55
-KVTX,Los Angeles Nexrad,34.416,-119.183
 KVUJ,"Albemarle, Stanly County Airport",35.416,-80.150
 KVUO,PEARSON AIRFIELD,45.616,-122.65
 KVVG,The Villages,28.966,-81.966
 KVVV,"Ortonville, Ortonville Muncipal-Martinson Field Airport",45.305,-96.424
 KVWU,"Waskish, Waskish Municipal Airport",48.154,-94.516
 KVYS,"Peru, Illinois Valley Regional-Walter A Duncan Field Airport",41.351,-89.153
-KW08,Weirwood / Kellam Field,37.466,-75.883
-KW11,"Menomonie, Menomonie Municipal Airport-Score Field",44.892,-91.867
 KW22,"Buckhannon, Upshur County Regional Airport",39.0,-80.266
-KW30,Ocean City,38.333,-75.083
-KW39,Norfolk / Chesapeak,36.9,-75.716
-KW44,"Asheboro, Asheboro Municipal Airport",35.653,-79.895
 KW45,Luray Caverns Airport,38.666,-78.500
-KW60,West Cameron 560,28.15,-93.35
 KW63,Clarksville / Marks,36.6,-78.566
-KW71,Smith Point / Sunnybank,37.883,-76.183
-KW76,West Cameron B522,28.383,-93.5
-KW77,"Sanford, Sanford-Lee County Brick Field Airport",35.433,-79.183
 KW99,"Petersburg, Grant County Airport",38.983,-79.133
 KWAL,WALLOPS FLIGHT FAC AIRPORT,37.933,-75.466
 KWDG,"Enid, Enid Woodring Regional Airport",36.379,-97.791
@@ -3373,41 +2376,18 @@ KWVI,WATSONVILLE MUNICIPAL AIRPORT,36.933,-121.783
 KWWD,"Wildwood, Cape May County Airport",39.016,-74.916
 KWWR,"Woodward, West Woodward Airport",36.436,-99.521
 KWYS,West Yellowstone,44.683,-111.116
-KX21,"Titusville, Arthur Dunn Air Park",28.622,-80.835
-KX53,Clewiston,26.75,-80.95
-KX68,"Titusville, NASA Shuttle Landing Facility",28.616,-80.7
-KX80,Jupiter Inlet Coast Guard Station,27.033,-80.116
-KX81,Lake Worth Inlet,26.766,-80.05
-KX82,Fort Pierce Coast Guard Station,27.466,-80.3
-KX84,Islamorada Coast Guard Station,24.95,-80.583
-KX86,Fowey Rocks Coast Guard Station,25.583,-80.1
-KX87,Miami Beach Coast Guard Station,25.766,-80.133
-KX88,Marathon Coast Guard Station,24.716,-81.116
-KX89,Ft. Myers Beach Coast Guard Station,26.45,-81.95
-KX90,Venice Long Range Navigation,27.083,-82.45
-KX91,Egmont Key Coast Guard Station,27.6,-82.766
 KXBP,"Bridgeport, Bridgeport Municipal Airport",33.175,-97.828
-KXCN,Green Canyon 184,27.766,-91.516
 KXMR,"Cocoa Beach, Cape Canaveral Air Force Station Skid Strip",28.466,-80.566
 KXNA,NORTHWEST ARKANSAS REGIONAL,36.283,-94.3
-KXVW,Vandenberg Range,34.716,-120.566
-KY12,Airlake,44.633,-93.233
-KY15,"Cheboygan, Cheboygan County Airport",45.653,-84.519
 KY19,Mandan Municipal Airport,46.768,-100.893
-KY39,"Olivia, Olivia Regional Airport",44.778,-95.032
 KY50,"Wautoma, Wautoma Municipal Airport",44.041,-89.304
 KY51,Viroqua Municipal Airport,43.581,-90.899
-KYAK,"Yakutat, Yakutat Airport",59.510,-139.662
 KYIP,WILLOW RUN AIRPORT,42.233,-83.533
 KYNG,YOUNGSTOWN-WARREN REG AIRPRT,41.25,-80.666
-KZAB,Albuquerque Radar Site,35.166,-106.566
-KZLC,Salt Lake City,40.783,-111.95
-KZSE,Auburn,47.283,-122.183
 KZZV,ZANESVILLE MUNICIPAL AIRPORT,39.95,-81.9
 LBBG,Burgas,42.483,27.483
 LBGO,Gorna Orechovista,43.15,25.6
 LBPD,Plovdiv,42.133,24.75
-LBRS,Rousse,43.85,25.95
 LBSF,Sofia Observ.,42.65,23.383
 LBWN,Varna,43.2,27.916
 LCEN,Ercan,35.15,33.5
@@ -3415,18 +2395,13 @@ LCLK,Larnaca Airport,34.883,33.633
 LCNC,Athalassa,35.15,33.4
 LCPH,Paphos Airport,34.716,32.483
 LCRA,Akrotiri,34.583,32.983
-LDDD,Zagreb / Maksimir,45.816,16.033
 LDDU,Dubrovnik / Cilipi,42.566,18.266
 LDLO,Losinj Island,44.565,14.393
-LDOC,Cepin,45.516,18.55
-LDOR,Slavonski Brod,45.166,18.0
 LDOS,Osijek / Cepin,45.45,18.8
 LDPL,Pula Aerodrome,45.9,13.916
 LDRI,Rijeka / Omisalj,45.216,14.583
 LDSB,Brac,43.285,16.679
-LDSH,Hvar,43.166,16.45
 LDSP,Split / Resnik,43.533,16.3
-LDVA,Varazdin,46.3,16.383
 LDZA,Zagreb / Pleso,45.733,16.066
 LDZD,Zadar / Zemunik,44.1,15.35
 LEAB,Albacete / Los Llanos,38.95,-1.85
@@ -3445,7 +2420,6 @@ LEGA,Granada / Armilla,37.133,-3.635
 LEGE,Gerona / Costa Brava,41.9,2.766
 LEGR,Granada / Aeropuerto,37.183,-3.783
 LEGT,Madrid / Getafe,40.3,-3.716
-LEHI,Hinojosa Del Duque,38.516,-5.116
 LEIB,Ibiza / Es Codola,38.866,1.383
 LEJR,Jerez De La Fronteraaeropuerto,36.75,-6.066
 LELC,Murcia / San Javier,37.783,-0.8
@@ -3471,7 +2445,6 @@ LEVS,Madrid / Cuatro Vientos,40.383,-3.783
 LEVT,Vitoria,42.883,-2.716
 LEVX,Vigo / Peinador,42.216,-8.633
 LEXJ,Santander / Parayas,43.433,-3.816
-LEZA,Zaragoza United States Air Force Operated Base In Foreign Country,41.666,-1.05
 LEZG,Zaragoza / Aeropuerto,41.666,-1.016
 LEZL,Sevilla / San Pablo,37.416,-5.9
 LFAT,Le Touquet,50.516,1.616
@@ -3486,30 +2459,23 @@ LFBI,Poitiers,46.583,0.316
 LFBK,Montlucon / Gueret,46.216,2.366
 LFBL,Limoges,45.866,1.183
 LFBM,Mont-De-Marsan,43.916,-0.5
-LFBN,Niort,46.316,-0.4
 LFBO,Toulouse / Blagnac,43.633,1.366
 LFBP,Pau,43.383,-0.416
-LFBS,Biscarosse,44.433,-1.25
 LFBT,Tarbes Ossun Lourdes,43.183,-0.0
 LFBV,Brive,45.15,1.466
-LFBX,Perigueux,45.2,0.816
 LFBY,Dax,43.683,-1.066
 LFBZ,Biarritz,43.466,-1.533
 LFCG,St-Girons,43.0,1.1
-LFCI,Albi,43.916,2.116
 LFCR,Rodez,44.4,2.483
 LFDH,Auch,43.683,0.6
-LFFS,Suippes Range Met,49.15,4.533
 LFGJ,Dole Tavaux,47.042,5.435
 LFHP,Le Puy,45.083,3.766
-LFIG,Cassagnes-Begonhes,44.183,2.516
 LFJL,Metz-Nancy-Lorraine,48.983,6.25
 LFKB,Bastia,42.55,9.483
 LFKC,Calvi,42.533,8.8
 LFKF,Figari,41.5,9.1
 LFKJ,Ajaccio,41.916,8.8
 LFKS,Solenzara,41.916,9.4
-LFLA,Auxerre,47.8,3.55
 LFLB,Chambery / Aix-Les-Bains,45.65,5.883
 LFLC,Clermont-Ferrand,45.783,3.166
 LFLD,Bourges,47.066,2.366
@@ -3522,10 +2488,8 @@ LFLV,Vichy,46.166,3.4
 LFLW,Aurillac,44.9,2.416
 LFLX,Chateauroux,46.85,1.716
 LFLY,Lyon / Bron,45.716,4.95
-LFMA,Aix Les Milles,43.5,5.366
 LFMC,Le Luc,43.383,6.383
 LFMD,Cannes,43.55,6.95
-LFME,Nimes / Courbessac,43.866,4.4
 LFMH,St-Etienne Boutheon,45.533,4.3
 LFMI,Istres,43.516,4.933
 LFMK,Carcassonne,43.216,2.316
@@ -3535,9 +2499,7 @@ LFMO,Orange,44.133,4.833
 LFMP,Perpignan,42.733,2.866
 LFMT,Montpellier,43.583,3.966
 LFMU,Beziers / Vias,43.316,3.35
-LFMX,St-Auban-Sur-Durance,44.066,6.0
 LFMY,Salon,43.6,5.1
-LFNB,Mende / Brenoux,44.5,3.533
 LFOA,Avord,47.053,2.632
 LFOB,Beauvais,49.466,2.116
 LFOC,Chateaudun,48.05,1.383
@@ -3549,7 +2511,6 @@ LFOJ,Orleans,47.983,1.75
 LFOK,Chalons-Vatry,48.776,4.184
 LFOP,Rouen,49.383,1.183
 LFOR,Chartres,48.466,1.516
-LFOS,Vittefleur / St. Vale,49.833,0.65
 LFOT,Tours,47.45,0.716
 LFOW,Saint-Quentin,49.816,3.2
 LFPB,Paris / Le Bourget,48.966,2.45
@@ -3559,14 +2520,11 @@ LFPM,Melun,48.616,2.683
 LFPN,Toussus Le Noble,48.766,1.1
 LFPO,Paris-Orly,48.733,2.4
 LFPV,Villacoublay,48.766,2.2
-LFPW,Paris Met Center,48.833,2.333
 LFQB,Troyes,48.333,4.016
 LFQG,Nevers,47.0,3.1
-LFQH,Chatillon-Sur-Seine,47.85,4.55
 LFQI,Cambrai,50.216,3.15
 LFQQ,Lille,50.566,3.1
 LFQV,Charleville,49.783,4.633
-LFRA,Angers,47.5,-0.566
 LFRB,Brest,48.45,-4.416
 LFRC,Cherbourg / Maupertus,49.65,-1.466
 LFRD,Dinard,48.583,-2.066
@@ -3583,7 +2541,6 @@ LFRS,Nantes,47.166,-1.6
 LFRT,Saint-Brieuc,48.533,-2.85
 LFRU,Morlaix / Ploujean,48.6,-3.816
 LFRZ,St-Nazaire,47.316,-2.166
-LFSA,Besancon,47.25,5.983
 LFSB,Bale-Mulhouse,47.6,7.516
 LFSC,Colmar,47.916,7.4
 LFSD,Dijon,47.266,5.083
@@ -3592,25 +2549,21 @@ LFSI,St-Dizier,48.633,4.9
 LFSL,Toul / Rosieres,48.783,5.483
 LFSN,Nancy / Essey,48.683,6.216
 LFSO,Nancy / Ochey,48.583,5.966
-LFSQ,Belfort,47.633,6.866
 LFSR,Reims,49.3,4.033
 LFST,Strasbourg,48.55,7.633
 LFSX,Luxeuil,47.783,6.35
 LFTH,Hyeres,43.1,6.15
-LFTU,St-Raphael,43.416,6.75
 LFTW,Nimes / Garons,43.75,4.416
 LFVP,Saint-Pierre,46.766,-56.166
 LFXA,Amberieu,45.983,5.333
 LFYR,Romorantin,47.316,1.683
 LGAD,Andravida Airport,37.916,21.283
 LGAL,Alexandroupoli Airport,40.85,25.916
-LGAT,Athinai Airport,37.9,23.733
 LGAV,Athens Eleftherios Venizelos International Airport,37.933,23.933
 LGBL,Anchialos Airport,39.216,22.8
 LGEL,Elefsis Airport,38.066,23.55
 LGHI,Chios Airport,38.333,26.133
 LGIR,Heraklion Airport,35.333,25.183
-LGKA,Kastoria Airport,40.45,21.283
 LGKC,Kithira Airport,36.289,23.023
 LGKF,Kefalhnia Airport,38.116,20.5
 LGKL,Kalamata Airport,37.066,22.016
@@ -3626,7 +2579,6 @@ LGMT,Mytilini Airport,39.066,26.6
 LGNX,"Cyclades Islands, Naxos Airport",37.079,25.366
 LGPA,Paros Community Airport,37.011,25.125
 LGPZ,Aktion Airport,38.616,20.766
-LGRD,Rhodes / Maritsa,36.383,28.116
 LGRP,Rhodes Airport,36.4,28.083
 LGRX,Araxos Airport,38.15,21.416
 LGSA,Souda Airport,35.483,24.116
@@ -3635,27 +2587,15 @@ LGSM,Samos Airport,37.7,26.916
 LGSO,Syros Airport,37.421,24.948
 LGSR,Santorini Island,36.4,25.483
 LGTG,Tanagra Airport,38.316,23.533
-LGTP,Tripolis Airport,37.533,22.4
 LGTS,Thessaloniki Airport,40.516,22.966
-LGTT,Tatoi,38.1,23.783
 LGZA,Zakinthos Airport,37.75,20.883
 LHBC,Bekescsaba,46.683,21.166
-LHBM,Budapest Met Center,47.516,19.033
 LHBP,Budapest / Ferihegy,47.433,19.266
-LHBS,Budaors,47.45,18.966
 LHDC,Debrecen,47.483,21.6
 LHKE,Kecskemet,46.916,19.75
-LHKV,Kaposvar,46.383,17.833
-LHMC,Miskolc,48.083,20.766
-LHNY,Nyiregyhaza / Napkor,47.966,21.983
 LHPA,Papa,47.2,17.5
 LHPP,Pecs / Pogany,46.1,18.233
-LHSA,Szentkiralyszabadja,47.066,17.983
-LHSK,Siofok,46.916,18.05
 LHSN,Szolnok,47.116,20.233
-LHSY,Szombathely,47.266,16.633
-LHTA,Taszar,46.4,17.916
-LHTL,Tokol,47.35,18.983
 LHUD,Szeged,46.25,20.1
 LIBA,Amendola,41.533,15.716
 LIBC,Crotone,39.0,17.066
@@ -3667,13 +2607,10 @@ LIBN,Lecce,40.233,18.15
 LIBP,Pescara,42.433,14.2
 LIBQ,Monte Scuro,39.333,16.4
 LIBR,Brindisi,40.65,17.95
-LIBS,Campobasso,41.566,14.65
 LIBT,Termoli,42.0,15.0
 LIBU,Latronico,40.083,16.016
 LIBV,Gioia Del Colle,40.766,16.933
-LIBW,Bonifati,39.583,15.883
 LIBY,S. Maria Di Leuca,39.816,18.35
-LIBZ,Potenza,40.633,15.8
 LICA,Lamezia Terme,38.9,16.25
 LICB,Comiso As Usaf,36.933,14.6
 LICC,Catania / Fontanarossa,37.466,15.05
@@ -3683,7 +2620,6 @@ LICF,Messina,38.2,15.55
 LICG,Pantelleria,36.816,11.966
 LICJ,Palermo / Punta Raisi,38.183,13.1
 LICL,Gela,37.083,14.216
-LICM,Calopezzati,39.55,16.8
 LICO,Cozzo Spadaro,36.683,15.133
 LICP,Palermo Boccadifalco,38.1,13.3
 LICR,Reggio Calabria,38.066,15.65
@@ -3695,13 +2631,7 @@ LIEB,Capo Bellavista,39.933,9.716
 LIEC,Capo Carbonara,39.1,9.516
 LIED,Decimomannu,39.35,8.966
 LIEE,Cagliari / Elmas,39.25,9.066
-LIEF,Capo Frasca,39.75,8.466
-LIEG,Guardiavecchia,41.216,9.4
-LIEH,Capo Caccia,40.566,8.166
-LIEL,Capo S. Lorenzo,39.5,9.633
-LIEN,Fonni,40.116,9.25
 LIEO,Olbia / Costa Smeralda,40.9,9.516
-LIEP,Perdasdefogu,39.666,9.433
 LIMC,Milano / Malpensa,45.616,8.733
 LIME,Bergamo / Orio Al Serio,45.666,9.7
 LIMF,Torino / Caselle,45.216,7.65
@@ -3711,7 +2641,6 @@ LIMJ,Genova / Sestri,44.416,8.85
 LIMK,Torino / Bric Della Croce,45.033,7.733
 LIML,Milano / Linate,45.433,9.283
 LIMN,Novara / Cameri,45.516,8.666
-LIMO,Monte Bisbino,45.866,9.066
 LIMP,Parma,44.821,10.294
 LIMS,Piacenza,44.916,9.733
 LIMT,Passo Della Cisa,44.433,9.933
@@ -3722,7 +2651,6 @@ LIMZ,Cuneo / Levaldigi,44.546,7.622
 LIPA,Aviano,46.033,12.6
 LIPB,Bolzano,46.466,11.333
 LIPC,Cervia,44.216,12.3
-LIPD,Udine / Campoformido,46.033,13.183
 LIPE,Bologna / Borgo Panigale,44.533,11.3
 LIPF,Ferrara,44.833,11.616
 LIPH,Treviso / S. Angelo,45.65,12.183
@@ -3730,7 +2658,6 @@ LIPI,Udine / Rivolto,45.983,13.033
 LIPK,Forli,44.2,12.066
 LIPL,Brescia / Ghedi,45.416,10.283
 LIPO,Brescia / Montichia,45.400,10.316
-LIPP,Dova Area Control Center,45.4,11.866
 LIPQ,Ronchi Dei Legionari,45.816,13.483
 LIPR,Rimini,44.033,12.616
 LIPS,Treviso / Istrana,45.683,12.1
@@ -3738,27 +2665,17 @@ LIPT,Vicenza,45.566,11.516
 LIPX,Verona / Villafranca,45.383,10.866
 LIPY,Falconara,43.616,13.366
 LIPZ,Venezia / Tessera,45.5,12.333
-LIQB,Arezzo,43.466,11.85
 LIQC,Capri,40.55,14.2
-LIQD,Porretta Pass,44.033,10.933
-LIQI,Gran Sasso Mountain Range,42.45,13.7
 LIQJ,Civitavecchia,42.033,11.833
-LIQK,Capo Palinuro,40.016,15.283
 LIQN,Rieti,42.416,12.85
 LIQO,Monte Argentario,42.383,11.166
-LIQP,Isola Di Palmaria,44.033,9.833
-LIQR,Radicofani,42.9,11.766
-LIQV,Volterra,43.4,10.866
 LIQW,Sarzana / Luni,44.083,9.983
-LIQZ,Ponza,40.916,12.95
 LIRA,Roma / Ciampino,41.783,12.583
-LIRB,Vigna Di Valle,42.083,12.216
 LIRE,Pratica Di Mare,41.65,12.45
 LIRF,Roma Fiumicino,41.8,12.233
 LIRG,Guidonia,42.0,12.733
 LIRH,Frosinone,41.633,13.3
 LIRI,Pontecagnano Air Force Base,40.616,14.916
-LIRJ,M. Calamita,42.733,10.4
 LIRK,Monte Terminillo,42.466,12.983
 LIRL,Latina,41.55,12.9
 LIRM,Grazzanise,41.05,14.066
@@ -3782,24 +2699,18 @@ LIVT,Trieste,45.65,13.75
 LIYW,Aviano Usaf,46.033,12.616
 LJLJ,Ljubljana / Brnik,46.216,14.483
 LJMB,Maribor / Slivnica,46.483,15.683
-LJMS,Murska Sobota,46.65,16.183
 LJPZ,Portoroz,45.516,13.566
 LKHO,Holesov,49.316,17.566
 LKKU,Kunovice,49.029,17.439
 LKKV,Karlovy Vary,50.2,12.916
-LKKZ,Kosice,48.666,21.216
 LKLB,Liberec,50.768,15.025
 LKMT,Ostrava / Mosnov,49.683,18.116
-LKPP,Piestany,48.616,17.833
 LKPR,Praha / Ruzyne,50.1,14.25
-LKSL,Sliac,48.65,19.15
 LKTB,Brno / Turany,49.15,16.7
 LLBG,Ben-Gurion International Airport,32.0,34.9
-LLBS,Beer-Sheva,31.233,34.783
 LLET,Eilat,29.55,34.95
 LLHA,Sde-Haifa Haifa,32.8,35.033
 LLIB,Galilee / Pina,32.98,35.57
-LLJR,Jerusalem Airport,31.866,35.216
 LLOV,Ovda,30.0,34.833
 LLSD,Tel Aviv / Sde-Dov Airport,32.114,34.782
 LMML,Luqa,35.85,14.483
@@ -3809,7 +2720,6 @@ LOAV,Niederosterreich / Lugplatz  Voslau,47.964,16.259
 LOGG,Punitz-Gussing,47.147,16.317
 LOIH,Hohenems-Dornbirn,47.384,9.700
 LOLF,Oberosterreich / Freistadt Flugplatz,48.514,14.408
-LOLW,Wels,48.166,14.033
 LOWG,Graz-Thalerhof-Flughafen,47.0,15.433
 LOWI,Innsbruck-Flughafen,47.266,11.35
 LOWK,Klagenfurt-Flughafen,46.65,14.333
@@ -3818,16 +2728,12 @@ LOWS,Salzburg-Flughafen,47.8,13.0
 LOWW,Wien / Schwechat-Flughafen,48.116,16.566
 LOWZ,Zell Am See,47.292,12.787
 LOXA,Aigen Im Ennstal,47.533,14.133
-LOXL,Horsching Aus-Afb,48.233,14.183
-LOXS,Schwaz Heliport,47.333,11.7
 LOXT,Tulln,48.316,16.116
 LOXZ,Zeltweg,47.2,14.75
 LPAZ,Santa Maria Acores,36.966,-25.166
-LPBG,Braganca,41.8,-6.733
 LPBJ,Beja,38.016,-7.866
 LPFL,Flores Acores,39.45,-31.133
 LPFR,Faro / Aeroporto,37.016,-7.966
-LPFU,Funchal / S. Catarina,32.683,-16.766
 LPHR,Horta / Castelo Branco Acores,38.516,-28.716
 LPLA,Lajes Acores,38.766,-27.1
 LPMA,Aeroporto Da Madeira,32.697,-16.774
@@ -3840,10 +2746,7 @@ LPPS,Porto Santo,33.066,-16.35
 LPPT,Lisboa / Portela,38.766,-9.133
 LPST,Sintra Mil.,38.831,-9.339
 LPTN,Tancos Mil.,39.475,-8.364
-LPVR,Vila Real,41.266,-7.716
-LQBI,Bihac,44.816,15.883
 LQBK,Banja Luka,44.783,17.216
-LQLV,Livno,43.833,17.016
 LQMO,Mostar,43.35,17.8
 LQSA,Sarajevo,43.816,18.333
 LQTZ,Tuzla,44.55,18.7
@@ -3866,8 +2769,6 @@ LRTM,Tirgu Mures,46.533,24.533
 LRTR,Timisoara,45.766,21.25
 LSGC,Les Eplatures,47.084,6.793
 LSGG,Geneve-Cointrin,46.25,6.133
-LSGL,Lausanne,46.55,6.616
-LSGN,Neuchatel,47.0,6.95
 LSGS,Sion,46.216,7.333
 LSMP,Payerne,46.816,6.95
 LSZA,Lugano,46.0,8.966
@@ -3884,10 +2785,8 @@ LTAG,Adana / Incirlik,37.0,35.416
 LTAH,Afyon,38.75,30.533
 LTAI,Antalya,36.7,30.733
 LTAJ,Gaziantep,37.083,37.366
-LTAK,Iskenderun,36.583,36.166
 LTAN,Konya,37.966,32.55
 LTAP,Merzifon,40.85,35.583
-LTAQ,Samsun,41.266,36.3
 LTAR,Sivas,39.75,37.016
 LTAS,Zonguldak,41.45,31.8
 LTAT,Malatya / Erhac,38.433,38.083
@@ -3898,14 +2797,12 @@ LTAY,Cardak,37.783,29.7
 LTAZ,Nevsehir,38.77,34.541
 LTBA,Istanbul / Ataturk,40.966,28.816
 LTBD,Aydin,37.85,27.85
-LTBE,Bursa,40.183,29.066
 LTBF,Balikesir,39.616,27.916
 LTBG,Bandirma,40.316,27.966
 LTBH,Canakkale,40.133,26.4
 LTBI,Eskisehir,39.783,30.566
 LTBJ,Izmir / Adnan Menderes,38.266,27.15
 LTBL,Izmir / Cigli,38.5,27.016
-LTBM,Isparta,37.75,30.55
 LTBO,Usak,38.666,29.416
 LTBQ,Topel Tur-Afb,40.733,30.083
 LTBR,"Bursa / Yenisehir, Mil-Civ",40.255,29.562
@@ -3919,7 +2816,6 @@ LTCD,Erzincan,39.733,39.5
 LTCE,Erzurum,39.916,41.266
 LTCF,Kars,40.6,43.083
 LTCG,Trabzon,41.0,39.716
-LTCH,Urfa,37.133,38.766
 LTCI,Van,38.45,43.316
 LTCJ,Batman,37.866,41.166
 LTCK,Mus Tur-Afb,38.75,41.666
@@ -3937,9 +2833,6 @@ LXGB,Gibraltar,36.15,-5.35
 LYBE,Beograd / Surcin,44.816,20.283
 LYNI,Nis,43.333,21.9
 LYPG,Podgorica Titograd,42.433,19.283
-LYPR,Pristina,42.566,21.033
-LYPZ,Portoroz / Secovlje,45.483,13.616
-LYTI,Podgorica / Golubovci,42.366,19.25
 LYTV,Tivat,42.4,18.733
 LYVR,Vrsac,45.15,21.316
 LZIB,Bratislava Ivanka,48.2,17.2
@@ -3959,7 +2852,6 @@ MDLR,La Romana International Airport,18.416,-68.95
 MDPC,Punta Cana,18.566,-68.366
 MDPP,Puerto Plata International,19.75,-70.55
 MDSD,Las Americas,18.433,-69.666
-MDSI,San Isidro Air Force Base,18.5,-69.766
 MDST,Santiago,19.45,-70.7
 MGCB,Coban,15.466,-90.316
 MGFL,Flores,16.916,-89.883
@@ -3974,11 +2866,9 @@ MGZA,Zacapa,14.966,-89.533
 MHAM,Amapala,13.266,-87.65
 MHCA,Catacamas,14.9,-85.933
 MHCH,Choluteca,13.3,-87.183
-MHIC,Islas Del Cisne,17.4,-83.933
 MHLC,La Ceiba Airport,15.733,-86.866
 MHLE,La Esperanza,14.316,-88.15
 MHLM,La Mesa San Pedro Sula,15.45,-87.933
-MHNJ,Guanaja,16.466,-85.916
 MHNO,Guanaja,16.466,-86.066
 MHPL,Puerto Lempira,15.216,-83.8
 MHRO,Roatan,16.316,-86.516
@@ -4012,7 +2902,6 @@ MMHO,"Hermosillo, Son.",29.066,-110.95
 MMIA,Colima,19.266,-103.583
 MMIO,"Saltillo, Coah.",25.45,-100.983
 MMIT,Ixtepec Ox,16.45,-95.083
-MMLC,Lazaro Cardenas,17.983,-102.216
 MMLM,Los Mochis Airport,25.683,-109.083
 MMLO,Del Bajio / Leon,21.0,-101.483
 MMLP,La Paz International Airport,24.066,-110.366
@@ -4041,7 +2930,6 @@ MMSP,"San Luis Potosi, S. L. P.",22.15,-100.983
 MMTC,"Torreon, Coah.",25.533,-103.45
 MMTG,"Tuxtla Gutierrez, Chis.",16.75,-93.116
 MMTJ,Tijuana International Airport,32.55,-116.966
-MMTL,Tulancingo,20.083,-98.366
 MMTM,Tampico / Gen Fj Mina,22.283,-97.866
 MMTO,Toluca / Jose Maria,19.35,-99.566
 MMTP,Tapachula,14.783,-92.383
@@ -4051,7 +2939,6 @@ MMVR,Veracruz / Las Bajadas / General Heriberto Jara,19.15,-96.183
 MMZC,Zacatecas Airport,22.9,-102.683
 MMZH,Ixtapa-Zihuatanejo,17.6,-101.466
 MMZO,Manzanillo International,19.15,-104.566
-MMZP,Zapopan Military,20.75,-103.466
 MNBL,Bluefields,12.0,-86.766
 MNCH,Chinandega,12.633,-87.133
 MNJG,Jinotega,13.083,-85.983
@@ -4062,17 +2949,12 @@ MNRS,Rivas,11.416,-85.833
 MPBO,Bocas Del Toro International,9.35,-82.25
 MPCH,Changuinola / Captain Manuel Nino,9.466,-82.516
 MPDA,David,8.4,-82.416
-MPFS,Ft Sherman Rocob,9.333,-79.983
 MPHO,Howard Air Force Base,8.916,-79.6
-MPLB,Albrook Afs / Balboa,8.966,-79.55
 MPMG,Marcos A. Gelabert,8.983,-79.516
-MPNU,Augusto Vergara,7.833,-80.283
 MPSA,Santiago,8.083,-80.95
 MPTO,Tocumen,9.05,-79.366
-MRCH,Chacarita,9.983,-84.783
 MRLB,Liberia,10.616,-85.433
 MRLM,Puerto Limon,10.0,-83.05
-MRNC,Nicoya,10.15,-85.45
 MROC,Juan Santamaria,10.0,-84.216
 MRPM,Palmar Sur,8.95,-83.466
 MRPV,Tobias Bolanos International,9.95,-84.15
@@ -4097,35 +2979,23 @@ MUHG,Holguin Civ / Mil,20.783,-76.316
 MUMO,Moa Military,20.65,-74.916
 MUMZ,"Manzanillo, Oriente",20.333,-77.116
 MUNG,"Nueva Gerona, Isla De Pinos",21.833,-82.783
-MUPR,"Pinar Del Rio, Pinar Del Rio",22.416,-83.683
-MUSN,Siguanea,21.642,-82.955
 MUVR,"Varadero, Matanzas",23.133,-81.283
 MUVT,"Las Tunas, Las Tunas",20.95,-76.95
 MWCB,Gerrard Smith Intl. / Cayman Brac,19.686,-79.882
 MWCG,Grand Cayman City,19.3,-81.366
 MWCR,Owen Roberts Airportgrand Cayman,19.283,-81.35
-MYAK,"Congo Town, Andros Island",24.158,-77.589
-MYBS,"Alice Town, Bimini",25.733,-79.3
 MYEG,"Georgetown, Exuma",23.475,-75.766
 MYGF,"Freeport, Grand Bahama",26.55,-78.7
-MYGW,"West End, Grand Bahama",26.7,-78.966
-MYIG,"Matthew Town, Inagua",20.95,-73.683
 MYNN,Nassau Airport,25.05,-77.466
-MYSM,"Cockburn Town, San Salvador",24.05,-74.533
 MZBZ,Belize / Phillip Goldston Intl. Airport,17.533,-88.3
 NCRG,Rarotonga,-21.2,-159.816
-NEXC,"Charleston, Navelexcen",32.915,-79.979
 NFFN,Nandi,-17.75,177.45
 NFNA,Nausori,-18.05,178.566
-NFNK,Lakemba,-18.233,-178.8
 NFNR,Rotuma,-12.5,177.05
 NFTF,Fua'Amotu,-21.233,-175.15
 NFTL,Haapai,-19.8,-174.35
-NGBR,Beru,-1.35,176.0
-NGFO,Nanumea,-5.666,176.133
 NGFU,Funafuti,-8.516,179.216
 NGTA,Tarawa,1.35,172.916
-NGTR,Arorae,-2.666,176.833
 NGTU,Butaritari,3.033,172.783
 NIUE,Alofi / Niue,-19.066,-169.916
 NLWF,Maopoopo Ile Futuna,-14.316,-178.116
@@ -4134,53 +3004,28 @@ NSAP,Apia / Upolu Island,-13.8,-171.783
 NSFA,Faleolo Intl / Apia,-13.816,-172.0
 NSTU,Pago Pago / Int. Airport,-14.333,-170.716
 NTAA,Tahiti-Faaa,-17.55,-149.616
-NTAT,Tubuai,-23.35,-149.483
-NTTB,Bora-Bora,-16.45,-151.75
-NTTG,Rangiroa / Tuamoto Island,-14.966,-147.666
-NTTO,Hao,-18.066,-140.95
-NTTX,Mururoa,-21.816,-138.8
 NVSC,Sola Vanua Lava,-13.85,167.55
 NVSL,Lamap Malekula,-16.416,167.8
 NVSS,Pekoa Airport Santo,-15.516,167.216
 NVVV,Bauerfield Efate,-17.7,168.3
 NWWE,Moue Ile Des Pins,-22.6,167.45
-NWWK,Koumac Nlle-Caledonie,-20.566,164.283
 NWWL,Ouanaham Ile Lifou,-20.766,167.233
-NWWN,Noumea Nlle-Caledonie,-22.266,166.45
-NWWR,La Roche Ile Mare,-21.483,168.033
 NWWV,Ouloup Ile Ouvea,-20.65,166.583
 NWWW,La Tontouta Nlle-Caledonie,-22.016,166.216
 NZAA,Auckland Airport,-37.016,174.8
 NZCH,Christchurch,-43.483,172.55
-NZCI,Chatham Island,-43.95,-176.566
 NZCM,Williams Field,-77.866,166.966
-NZDN,Dunedin Aerodrome,-45.933,170.2
-NZGS,Gisborne Aerodrome,-38.666,177.983
-NZHK,Hokitika Aerodrome,-42.716,170.983
 NZIR,Ice Runway,-77.866,166.533
-NZKI,Kaikoura,-42.416,173.7
-NZNP,New Plymouth Aerodrome,-39.016,174.183
-NZNV,Invercargill Aerodrome,-46.7,168.55
 NZOH,Ohakea,-40.2,175.366
-NZPP,Paraparaumu Aerodrome,-40.9,174.983
-NZRN,"Raoul Island, Kermadec Island",-29.25,-177.916
-NZRO,Rotorua Aerodrome,-38.116,176.316
 NZSP,Amundsen-Scott South Pole Station,-90.0,0.0
-NZTG,Tauranga Aerodrome Aws,-37.666,176.2
 NZWD,"Williams Field, Antarctic",-77.883,166.65
 NZWN,Wellington Airport,-41.333,174.8
 NZWP,Whenuapai,-36.783,174.633
-OAFR,Farah,32.366,62.183
 OAFZ,Faizabad,37.116,70.516
 OAHR,Herat,34.216,62.216
-OAJL,Jalalabad,34.433,70.466
-OAJS,Jabul-Saraj,35.133,69.25
 OAKB,Kabul Airport,34.633,69.2
 OAMS,Mazar-I-Sharif,36.7,67.2
-OASD,Shindand,33.4,62.283
 OASG,Shebirghan,36.666,65.716
-OAZB,Zebak,36.5,71.25
-OAZG,Zaranj,31.0,61.85
 OBBI,Bahrain International Airport,26.266,50.65
 OEAB,Abha,18.233,42.65
 OEAH,Al Ahsa,25.3,49.483
@@ -4193,7 +3038,6 @@ OEGN,Gizan,16.9,42.583
 OEGS,Gassim,26.3,43.766
 OEGT,Guriat,31.4,37.266
 OEHL,Hail,27.433,41.683
-OEJB,Jubail Naval,27.05,49.4
 OEJD,Jeddah,21.5,39.2
 OEJN,Jeddah King Abdul Aziz International Airport,21.7,39.183
 OEKK,Hafr Al-Batin,27.9,45.533
@@ -4247,7 +3091,6 @@ OIKM,Bam,29.1,58.4
 OIKQ,Gheshm Island / Dayrestan,26.755,55.902
 OIMB,Birjand,32.866,59.2
 OIMC,Sarakhs,36.501,61.065
-OIMH,Torbat-Heydarieh,35.266,59.216
 OIMM,Mashhad,36.266,59.633
 OIMN,Bojnourd,37.466,57.333
 OIMS,Sabzevar,36.216,57.666
@@ -4276,11 +3119,6 @@ OIZJ,Jask,26.633,57.766
 OJAI,Queen Alia Airport,31.666,35.966
 OJAM,Amman Airport,31.983,35.983
 OJAQ,Aqaba Airport,29.633,35.016
-OJBD,Irbid,32.55,35.85
-OJHF,H-5'Safawi,32.2,37.133
-OJHR,H-4'Irwaished,32.5,38.2
-OJMF,Mafraq,32.366,36.25
-OJMN,Ma'An,30.166,35.783
 OKBK,Kuwait Internationalairport,29.216,47.983
 OLBA,Beyrouth Aeroport,33.816,35.483
 OMAA,Abu Dhabi International Airport,24.433,54.65
@@ -4297,52 +3135,37 @@ OOKB,Khassab,26.216,56.233
 OOMA,Masirah,20.666,58.9
 OOMS,"Seeb, International Airport",23.583,58.283
 OOSA,Salalah,17.033,54.083
-OOSH,Sohar Majis,24.466,56.633
 OOSQ,Saiq,23.066,57.65
 OOSR,Sur,22.533,59.483
 OOTH,Thumrait,17.666,54.033
-OPDI,Dera Ismail Khan,31.816,70.916
-OPJA,Jacobabad,28.3,68.466
-OPJI,Jiwani,25.066,61.8
 OPKC,Karachi Airport,24.9,67.133
-OPKD,Hyderabad Airport,25.383,68.416
 OPLA,Lahore Airport,31.516,74.4
 OPLH,Lahore City,31.55,74.333
-OPMI,Mianwali,32.55,71.516
 OPMT,Multan,30.2,71.433
 OPNH,Nawabshah,26.25,68.366
-OPPG,Panjgur,26.966,64.1
 OPPS,Peshawar,34.016,71.583
-OPQT,Quetta Airport,30.25,66.883
 OPRN,Islamabad Airport,33.616,73.1
-OPRS,Risalpur,34.066,71.983
-OPSB,Sibi,29.55,67.883
 OPSK,Sukkur,27.721,68.791
-OPSR,Sargodha,32.05,72.666
 ORBB,Baghdad,33.233,44.233
 ORBM,Mosul,36.316,43.15
 ORBS,Saddam Irq-Afb / Civ,33.266,44.233
-ORMS,Shaibah / Basrah,30.416,47.65
 OSAP,Aleppo International Airport,36.183,37.2
 OSDI,Damascus Int. Airport,33.416,36.516
 OSDZ,Deir Ezzor,35.316,40.15
 OSKL,Kamishli,37.05,41.216
 OSLK,Lattakia,35.533,35.766
-OSPR,Palmyra,34.55,38.3
 OTBD,Doha International Airport,25.25,51.566
 OYAA,Aden,12.666,45.033
 OYAR,Riyan,14.65,49.383
 OYAT,Ataq,14.516,46.85
 OYHD,Hodeidah,14.75,42.983
 OYMB,Marib,15.433,45.333
-OYMC,Mokha,13.25,44.133
 OYMK,Mokha,13.25,43.283
 OYSH,Sa'Ada / Sadah,16.966,43.733
 OYSN,Sana'A,15.516,44.183
 OYSQ,Socotra,12.633,53.9
 OYSY,Sayun,15.966,48.8
 OYTZ,Taiz,13.683,44.133
-OYZM,Al-Hazm,16.2,44.783
 PAAK,"Atka, Atka Airport",52.220,-174.206
 PAAP,"Port Alexander, Port Alexander Seaplane Base",56.25,-134.65
 PAAQ,PALMER MUNICIPAL AIRPORT,61.6,-149.1
@@ -4351,9 +3174,7 @@ PABI,ALLEN ARMY AIRFIELD,64.0,-145.716
 PABN,"Nabesna, Devil Mountain Lodge",62.397,-142.995
 PABR,POST ROGERS MEMORIAL AIRPORT,71.283,-156.766
 PACD,COLD BAY AIRPORT,55.216,-162.733
-PACP,Cape Saint Elias,59.8,-144.6
 PACR,Circle City Airport,65.833,-144.066
-PACS,Cape Sarichef Airport,54.6,-164.933
 PACV,MERLE K. SMITH AIRPORT,60.5,-145.483
 PACZ,"Cape Romanzof, Cape Romanzof LRRS Airport",61.783,-166.033
 PADE,DEERING AIRPORT,66.066,-162.766
@@ -4372,18 +3193,15 @@ PAFB,FT. WAINWRIGHT AAF,64.833,-147.583
 PAFK,"Farewell Lake, Farewell Lake Seaplane Base",62.542,-153.622
 PAFM,"Ambler, Ambler Airport",67.1,-157.85
 PAFR,"Ft. Richardson / Bryant U. S. Army Heliport, Ak",61.266,-149.65
-PAFW,Farewell Lake,62.533,-153.616
 PAGA,"Galena, Edward G. Pitka Sr. Airport",64.733,-156.933
 PAGB,"Galbraith Lake, Galbraith Lake Airport",68.483,-149.483
 PAGK,GULKANA AIRPORT,62.15,-145.45
 PAGM,"Gambell, Gambell Airport",63.766,-171.733
 PAGN,Angoon,57.5,-134.583
 PAGS,"Gustavus, Gustavus Airport",58.416,-135.7
-PAGT,Nightmute,60.466,-164.7
 PAGY,SKAGWAY AIRPORT,59.466,-135.316
 PAHL,"Huslia, Huslia Airport",65.697,-156.351
 PAHN,HAINES AIRPORT,59.25,-135.516
-PAHS,"Huslia, Huslia Airport",65.7,-156.383
 PAHV,"Healy, Healy",63.877,-149.011
 PAHY,"Hydaburg, Hydaburg Seaplane Base",55.2,-132.833
 PAHZ,"Hayes River, Hayes River Airport",61.983,-152.083
@@ -4392,7 +3210,6 @@ PAIK,Kiana Kinana/Bob Baker Mem,66.983,-160.433
 PAIL,ILIAMNA AIRPORT,59.75,-154.916
 PAIN,"McKinley Park, McKinley National Park Airport",63.733,-148.916
 PAIW,Wales,65.616,-168.1
-PAJB,Biorka Island Supplementary Aviation Weather Reporting Station,56.85,-135.533
 PAJC,"Chignik, Chignik Airport",56.311,-158.373
 PAJN,JUNEAU INTERNATIONAL AIRPORT,58.35,-134.566
 PAJV,Sutton,61.716,-148.883
@@ -4430,7 +3247,6 @@ PARD,"Red Dog, Red Dog Airport",68.031,-162.903
 PARL,"Central, Central Airport",65.573,-144.783
 PASA,Savoonga Airport,63.683,-170.5
 PASC,DEADHORSE AIRPORT,70.2,-148.483
-PASG,"Skagway, Skagway Airport",59.455,-136.323
 PASH,"Shishmaref, Shishmaref Airport",66.266,-166.083
 PASI,SITKA AIRPORT,57.05,-135.366
 PASL,Sleetmute,61.716,-157.15
@@ -4441,7 +3257,6 @@ PASW,Skwentna,61.977,-151.217
 PASX,Soldotna,60.483,-151.033
 PASY,SHEMYA EARECKSON AS,52.716,174.116
 PATE,Teller,65.233,-166.333
-PATJ,Tok,63.316,-142.716
 PATK,TALKEETNA AIRPORT,62.316,-150.1
 PATO,PORTAGE GLACIER,60.783,-148.85
 PAUM,Umiat,69.366,-152.133
@@ -4456,67 +3271,42 @@ PAWR,Whittier,60.772,-148.685
 PAWS,"Wasilla, Wasilla Airport",61.571,-149.540
 PAXK,Paxson,63.032,-145.498
 PAYA,YAKUTAT AIRPORT,59.5,-139.666
-PBTI,Barter Island Distant Early Warning,70.133,-143.583
 PFYU,"Fort Yukon, Fort Yukon Airport",66.566,-145.266
-PGAC,"Guam, Mariana Island",13.916,144.833
-PGNT,Sabanettan / Tinian Island,14.6,145.1
 PGRO,"Rota Island, N. Mariana Is, Rota International Airport",14.183,145.25
 PGSN,"Saipan Island, Saipan International Airport",15.116,145.733
 PGUA,"Andersen, Mariana Is, Andersen Air Force Base",13.583,144.933
 PGUM,"Agana, Guam International Airport",13.483,144.8
 PGWT,"Tinian Island, N. Mariana Is, West Tinian Airport",14.983,145.616
 PHBK,PMRF BARKING SANDS,22.033,-159.783
-PHHN,"Hana, Hana Airport",20.795,-156.014
 PHIK,Hickam Air Force Base / Oahu,21.316,-157.916
 PHJH,Lahaina / West Maui,21.016,-156.633
 PHJR,KALAELOA AIRPORT,21.316,-158.066
-PHMO,KAUNAKAKAI MOLOKAI AIRPORT,21.15,-157.1
 PHNG,MCBH KANEOHE BAY HAWAII,21.45,-157.75
 PHOG,KAHULUI AIRPORT,20.9,-156.433
 PHTO,HILO INTERNATIONAL AIRPORT,19.716,-155.05
-PJON,"Johnston Island, Johnston Atoll Airport",16.733,-169.533
 PKMJ,"Majuro Atoll, Marshall Islands Int. Airp.",7.066,171.283
 PKMR,"Majuro Atoll, NWS Office",7.083,171.2
 PKWA,"Kwajalein, Bucholz AAF, Kwajalein KMR ATOL Airport",8.716,167.733
 PLCH,Christmas / Cassidy,1.983,-157.483
-PLFA,Fanning Island,3.85,-159.366
 PMDY,"Sand Island, Henderson Field Airport",28.216,-177.366
-POLI,Oliktok Distant Early Warning,70.5,-149.883
 PPIZ,"Point Lay, Point Lay LRRS Airport",69.716,-163.0
 PTKK,"Weno Island, Chuuk Int. Airp.",7.466,151.85
 PTKR,"Koror, Palau, NWS Office",7.333,134.483
 PTPN,"Pohnpei Island, Pohnpei Int. Airp.",6.983,158.2
 PTRO,"Babelthuap Island, Babelthuap/Koror Airport",7.366,134.533
 PTSA,"Kosrae Island, Kosrae Airport",5.35,162.95
-PTTK,Kosrae Carolines / V,5.35,162.95
 PTTP,"Pohnpei, NWS Office",6.966,158.216
 PTYA,"Yap Island, Yap Int. Airp.",9.483,138.083
 PWAK,"Wake Island, Wake Island Army Airfield Airport",19.283,166.65
 RCAY,Kangshan Tw-Afb,22.783,120.266
-RCBS,Chinmem / Shatou Air Force Base,24.433,118.366
 RCDC,Pingtung South Air Force Base,22.683,120.466
-RCFG,Mazu,26.166,119.933
-RCFN,Feng Nin Tw-Afb,22.766,121.083
-RCFS,Chia Tung,22.416,120.55
-RCGM,Taoyuan Ab = 589650,25.066,121.233
 RCKH,Kaohsiung International Airport,22.583,120.35
 RCKU,Chiayi Tw-Afb,23.466,120.383
-RCKW,Hengchun,21.933,120.833
-RCLG,Taichung Tw-Afb,24.183,120.65
-RCLM,Dongsha,20.666,116.716
-RCLY,Lan Yu,22.033,121.55
-RCMJ,Donggang,22.466,120.433
 RCMQ,Wuchia Observatory,24.266,120.616
-RCMS,Ilan,24.75,121.766
 RCNN,Tainan Tw-Afb,22.95,120.2
-RCNO,Dongshi,23.266,119.666
-RCPO,Hsinchu Tw-Afb,24.816,120.933
 RCQC,Makung Ab,23.583,119.616
-RCQS,Chihhang Tw-Afb,22.8,121.183
-RCSQ,Pingtung North Air Force Base,22.7,120.483
 RCSS,Sungshan / Taipei,25.066,121.55
 RCTP,Chiang Kai Shek,25.083,121.216
-RCUK,Pa Kuei / Bakuai,24.933,121.3
 RCYU,Hulien Ab,24.033,121.616
 RJAA,New Tokyo Inter-National Airport,35.766,140.383
 RJAF,Matsumoto Airport,36.166,137.933
@@ -4540,21 +3330,13 @@ RJCK,Kushiro Airport,43.033,144.2
 RJCM,Memambetsu Airport,43.883,144.166
 RJCN,Nakashibetsu Airport,43.566,144.966
 RJCO,Sapporo Ab,43.116,141.383
-RJCR,Rebun Island,45.45,141.033
-RJCS,Kushiro,42.983,144.4
 RJCT,Tokachi Japanese Ground Self Defense Force,42.9,143.166
 RJCW,Wakkanai Airport,45.4,141.8
-RJCY,Muroran,42.316,140.983
-RJDB,Iki Airport,33.75,129.783
 RJDC,Yamaguchi Ube Airport,33.933,131.283
-RJDK,Kamigoto,33.016,129.183
 RJDM,Metabaru Ab,33.316,130.416
-RJDO,Ojika Island,33.216,129.05
 RJDT,Tsushima Airport,34.283,129.333
 RJEB,Mombetsu Airport,44.25,143.533
 RJEC,Asahikawa Airport,43.666,142.45
-RJEO,Okushiri Island,42.066,139.45
-RJER,Rishiri Island,45.25,141.183
 RJFA,Ashiya Ab,33.883,130.65
 RJFC,Yakushima,30.383,130.666
 RJFE,Fukue Airport,32.666,128.833
@@ -4574,14 +3356,9 @@ RJFZ,Tsuiki Ab,33.683,131.05
 RJGG,Nagoya Airport,35.25,136.933
 RJKA,Amami Airport,28.433,129.716
 RJKB,Okinoerabu,27.433,128.7
-RJKI,Kikai Island,28.316,129.933
-RJKN,Tokunoshima Island,27.833,128.883
-RJNF,Fukui Airport,36.133,136.233
 RJNG,Gifu Ab,35.383,136.866
 RJNH,Hamamatsu Ab,34.75,137.7
 RJNK,Komatsu Ab,36.383,136.416
-RJNN,Nagoya Airport,35.25,136.933
-RJNO,Oki Airport,36.183,133.333
 RJNT,Toyama Airport,36.65,137.183
 RJNY,Shizuhama Ab,34.816,138.3
 RJOA,Hiroshima Airport,34.433,132.916
@@ -4602,7 +3379,6 @@ RJOY,Yao Airport,34.6,135.6
 RJOZ,Ozuki Ab,34.05,131.05
 RJSA,Aomori Airport,40.733,140.7
 RJSC,Yamagata Airport,38.416,140.366
-RJSD,Sado Airport,38.05,138.416
 RJSF,Fukushima Airport,37.233,140.433
 RJSH,Hachinohe Ab,40.55,141.466
 RJSI,Hanamaki Airport,39.433,141.133
@@ -4617,7 +3393,6 @@ RJSU,Kasuminome Ab,38.233,140.916
 RJSY,Shonai,38.816,139.783
 RJTA,Atsugi United States Naval Air Station,35.45,139.45
 RJTC,Tachikawa Ab,35.7,139.4
-RJTD,Tokyo,35.683,139.766
 RJTE,Tateyama Ab,34.983,139.833
 RJTF,Chofu Airport,35.666,139.533
 RJTH,Hachijojima Airport,33.116,139.783
@@ -4626,7 +3401,6 @@ RJTJ,Iruma Ab,35.833,139.416
 RJTK,Kisarazu Ab,35.4,139.916
 RJTL,Shimofusa Ab,35.8,140.016
 RJTO,Oshima Airport,34.783,139.366
-RJTQ,Miyakejima Airport,34.066,139.566
 RJTR,Zama Airfield,35.516,139.4
 RJTT,Tokyo International Airport,35.55,139.783
 RJTU,Utsunomiya Ab,36.516,139.866
@@ -4635,9 +3409,7 @@ RJTY,Yokota Ab,35.75,139.35
 RKJJ,Kwangju Ab,35.116,126.816
 RKJK,Kunsan Ab,35.916,126.616
 RKJY,Yosu Airport,34.833,127.616
-RKNC,Chunchon Ab,37.866,127.716
 RKNF,Whang Ryeong,37.75,128.666
-RKNH,Hoengsong Ab,37.433,127.95
 RKNN,Kangnung Ab,37.75,128.95
 RKNO,Keo Jin,38.466,128.466
 RKNR,Kotar Range,37.1,128.9
@@ -4652,25 +3424,17 @@ RKSC,Sv Ri San,37.35,126.916
 RKSD,Maesanri,37.35,127.266
 RKSF,Seoul / Yongdungp'O Rokaf Wc,37.5,126.933
 RKSG,Pyongtaek Ab,36.933,127.0
-RKSH,Command Post Tango,37.516,126.983
 RKSI,Incheon International Airport,37.466,126.45
 RKSJ,Taesong-San,38.2,127.55
-RKSL,Seoul,37.566,126.966
 RKSM,Seoul E Ab,37.433,127.116
-RKSN,Koon-Ni Range,37.033,126.75
 RKSO,Osan Ab,37.1,127.033
 RKSP,Paengnyongdo Ab,37.966,124.666
 RKSQ,Yeonpyeungdo,37.7,125.7
 RKSS,Seoul / Kimp'O International Airport,37.55,126.8
-RKST,Camp Casey / Tongduch,37.916,127.05
 RKSU,Yeoju Range,37.433,127.633
 RKSV,Pyoripsan,37.783,126.366
 RKSW,Suwon Ab,37.25,127.0
-RKSX,Camp Stanley / H-207,37.716,127.1
-RKSY,Yongsan / H-208 Hp,37.516,126.983
-RKTA,Andong,36.55,128.716
 RKTB,Paekado,37.016,126.05
-RKTD,Taejon Kor-Afb,36.333,127.383
 RKTE,Songmu Ab,36.4,127.5
 RKTF,Taejon,36.3,127.4
 RKTG,Camp Walker H-805,35.85,128.583
@@ -4678,109 +3442,49 @@ RKTH,Pohang Ab,35.983,129.416
 RKTI,Jung Won Rok-Ab,37.033,127.883
 RKTM,Mangilsan Ab,36.933,126.45
 RKTN,Taegu Ab,35.9,128.65
-RKTP,Hae Mi,36.4,126.35
 RKTS,Sangju,36.416,128.166
-RKTT,Taegu,35.883,128.616
 RKTU,Chongju Ab,36.7,127.5
-RKTV,Chungju,37.066,127.883
 RKTW,Woong Cheon,36.2,126.55
 RKTY,Yechon Ab,36.633,128.35
-RKXX,Nightmare Range,38.066,127.35
 ROAH,Naha Airport,26.183,127.65
-RODE,Iejima Auxiliary Ab,26.716,127.783
 RODN,Kadena Ab,26.35,127.766
-ROHF,Hamby U. S. Army Airfield,26.3,127.766
 ROIG,Ishigakijima,24.333,124.166
 ROKJ,Kumejima,26.333,126.8
-ROMD,Minamidaitojima,25.833,131.233
 ROMY,Miyakojima,24.783,125.283
-RORA,Aguni Island,26.6,127.233
-RORH,Hateruma,24.066,123.8
-RORK,Kitadaito Island,25.916,131.333
 RORS,Shimoji-Shima Island,24.833,125.15
-RORT,Tarama Island,24.65,124.7
-RORY,Yoron Island,27.05,128.4
 ROTM,Futenma Marine Corps Air Facility,26.266,127.75
-ROYN,Yonaguni Airport,24.466,122.983
 RPLB,Subic Bay Weather Station,14.8,120.266
 RPLC,Clarkfield Pampanga International Airport,15.183,120.55
 RPLI,Laoag,18.183,120.533
 RPLL,Ninoy Aquino Inter-National Airport,14.516,121.0
 RPMD,Davao Airport,7.116,125.65
-RPMK,Clark Ab,15.166,120.566
-RPMP,Legaspi,13.133,123.733
 RPMR,Romblon,12.583,122.266
-RPMS,Sangley Point,14.5,120.916
-RPMT,Mactan,10.3,123.966
 RPMZ,Zamboanga,6.9,122.066
-RPUA,Aparri,18.366,121.633
-RPUB,Baguio,16.416,120.6
-RPUD,Daet,14.133,122.983
-RPUH,San Jose,12.35,121.033
-RPUI,Iba,15.333,119.966
-RPUK,Calapan,13.416,121.183
-RPUN,Naga / Luzon Island,13.583,123.266
-RPUO,Basco,20.45,121.966
-RPUQ,Vigan,17.566,120.383
-RPUR,Baler,15.766,121.566
-RPUT,Tuguegarao,17.616,121.733
-RPUV,Virac,13.583,124.233
-RPUW,Marinduque Island,13.366,121.833
 RPVA,Tacloban,11.25,125.0
-RPVD,Dumaguete,9.3,123.3
-RPVF,Catarman,12.483,124.633
-RPVG,Guiuan,11.033,126.733
-RPVI,Iloilo,10.7,122.566
 RPVM,Masbate,12.366,123.616
 RPVP,Puerto Princesa,9.75,118.733
-RPVR,Roxas,11.583,122.75
-RPVT,Tagbilaran,9.6,123.85
-RPWB,Gen. Santos,6.116,125.183
 RPWC,Cotobato,7.166,124.216
-RPWE,Butuan,9.933,125.516
-RPWG,Dipolog,8.6,123.35
-RPWL,Cagayan De Oro,8.483,124.633
-RPWS,Surigao,9.8,125.5
-RPWY,Malaybalay,8.15,125.083
-RPXT,Alabat,14.083,122.016
 SAAC,Concordia Aerodrome,-31.3,-58.016
 SAAG,Gualeguaychu Aerodrome,-33.0,-58.616
 SAAJ,Junin Aerodrome,-34.55,-60.916
 SAAP,Parana Aerodrome,-31.783,-60.483
 SAAR,Rosario Aerodrome,-32.916,-60.783
-SAAU,Villaguay Aerodrome,-31.85,-59.083
 SAAV,Sauce Viejo Aerodrome,-31.7,-60.816
-SABA,Buenos Aires Observatorio,-34.583,-58.483
 SABE,Aeroparque Bs. As. Aerodrome,-34.566,-58.416
-SACI,Pilar Observatorio,-31.666,-63.883
 SACO,Cordoba Aerodrome,-31.316,-64.216
-SACP,Chepes,-31.333,-66.6
-SACT,Gobernador Gordillo,-30.366,-66.3
-SACV,Villa De Maria Del Rio Seco,-29.9,-63.683
-SADD,Don Torcuato Aerodrome,-34.483,-58.616
 SADF,"San Fernando, BA",-34.453,-58.589
-SADL,La Plata Aerodrome,-34.966,-57.9
 SADP,El Palomar Aerodrome,-34.6,-58.6
 SAEZ,Ezeiza Aerodrome,-34.816,-58.533
 SAME,Mendoza Aerodrome,-32.833,-68.783
-SAMI,San Martin,-33.083,-68.416
-SAMJ,Jachal,-30.25,-68.75
 SAMM,Malargue Aerodrome,-35.5,-69.583
 SAMR,San Rafael Aerodrome,-34.583,-68.4
-SAMS,San Carlos,-33.766,-69.033
-SAMU,Uspallata,-32.6,-69.333
 SANC,Catamarca Aero.,-28.6,-65.766
 SANE,Santiago Del Estero Aero.,-27.766,-64.3
-SANI,Tinogasta,-28.066,-67.566
 SANL,La Rioja Aero.,-29.383,-66.816
-SANO,Chilecito,-29.216,-67.433
 SANT,Tucuman Aerodrome,-26.85,-65.1
 SANU,San Juan Aerodrome,-31.566,-68.866
 SANW,Ceres Aerodrome,-29.883,-61.95
 SAOC,Rio Cuarto Aerodrome,-33.116,-64.233
-SAOD,Villa Dolores Aerodrome,-31.95,-65.133
-SAOL,Laboulaye,-34.133,-63.366
-SAOM,Marcos Juarez Aerodrome,-32.7,-62.15
 SAOR,Villa Reynolds Aerodrome,-33.733,-65.383
 SAOU,San Luis Aerodrome,-33.266,-66.35
 SARC,Corrientes Aero.,-27.45,-58.766
@@ -4794,50 +3498,34 @@ SARS,Presidencia Roque Saenz Pena Aerodrome,-26.816,-60.45
 SASA,Salta Aerodrome,-24.85,-65.483
 SASJ,Jujuy Aerodrome,-24.383,-65.083
 SASO,Oran Aerodrome,-23.15,-64.316
-SASQ,La Quiaca Observatorio,-22.1,-65.6
-SASR,Rivadavia,-24.166,-62.9
 SAST,Tartagal Aerodrome,-22.65,-63.816
-SATK,Las Lomitas,-24.7,-60.583
 SATR,"Reconquista, SF",-29.210,-59.690
-SATU,Curuzu Cuatia Aerodrome,-29.783,-57.983
 SAVB,El Bolson Aerodrome,-41.966,-71.516
 SAVC,Comodoro Rivadavia Aerodrome,-45.783,-67.5
 SAVE,Esquel Aerodrome,-42.933,-71.15
-SAVO,San Antonio Oeste Aerodrome,-40.783,-65.1
-SAVP,Paso De Indios,-43.816,-68.883
 SAVT,Trelew Aerodrome,-43.2,-65.266
 SAVV,Viedma Aerodrome,-40.85,-63.016
 SAVY,"Puerto Madryn, CHT",-42.759,-65.102
-SAWA,Lago Argentino Aerodrome,-50.333,-72.3
 SAWD,Puerto Deseado Aerodrome,-47.733,-65.916
 SAWE,Rio Grande B. A.,-53.8,-67.75
 SAWG,Rio Gallegos Aerodrome,-51.616,-69.283
 SAWH,Ushuaia Aerodrome,-54.8,-68.316
 SAWJ,San Julian Aerodrome,-49.316,-67.75
 SAWP,Perito Moreno Aerodrome,-46.516,-71.016
-SAWR,Gobernador Gregores Aerodrome,-48.783,-70.166
-SAWU,Santa Cruz Aerodrome,-50.016,-68.566
 SAZA,Azul Airport,-36.75,-59.833
 SAZB,Bahia Blanca Aerodrome,-38.733,-62.166
-SAZD,Dolores Aerodrome,-36.35,-57.733
-SAZE,Pigue Aerodrome,-37.6,-62.383
 SAZG,General Pico Aerodrome,-35.7,-63.75
-SAZH,Tres Arroyos,-38.333,-60.25
 SAZM,Mar Del Plata Aerodrome,-37.933,-57.583
 SAZN,Neuquen Aerodrome,-38.95,-68.133
-SAZP,Pehuajo Aerodrome,-35.866,-61.9
-SAZQ,Rio Colorado,-39.016,-64.083
 SAZR,Santa Rosa Aerodrome,-36.566,-64.266
 SAZS,Bariloche Aerodrome,-41.15,-71.166
 SAZT,Tandil Aerodrome,-37.233,-59.25
-SAZV,Villa Gesell,-37.233,-57.033
 SAZY,Chapelco,-40.083,-71.133
 SBAA,Conceicao Do Araguaia,-8.25,-49.283
 SBAF,Afonsos Aeroporto,-22.866,-43.366
 SBAN,Anapolis Braz-Afb,-16.233,-48.966
 SBAR,Aracaju Aeroporto,-10.983,-37.066
 SBAT,Alta Floresta Aeroporto,-9.866,-56.1
-SBBC,Benjamin Constant,-4.383,-70.033
 SBBE,Belem Aeroporto,-1.383,-48.483
 SBBG,Bage Aeroporto,-31.35,-54.116
 SBBH,Belo Horizonte Aeroporto,-19.85,-43.95
@@ -4867,7 +3555,6 @@ SBFI,Foz Do Iguacu Aeroporto,-25.516,-54.583
 SBFL,Florianopolis Aeroporto,-27.666,-48.55
 SBFN,Fernando De Noronha,-3.85,-32.416
 SBFZ,Fortaleza / pinto Martins,-3.783,-38.533
-SBGA,Gama,-16.05,-48.05
 SBGL,Galeao,-22.816,-43.25
 SBGO,Goiania Aeroporto,-16.633,-49.216
 SBGR,Guarulhos Civ / Mil,-23.433,-46.466
@@ -4899,7 +3586,6 @@ SBPA,Porto Alegre Aero-Porto,-30.0,-51.183
 SBPB,Parnaiba Aeroporto,-2.916,-41.75
 SBPC,Pocos De Caldas,-21.85,-46.566
 SBPF,Passo Fundo,-28.25,-52.4
-SBPG,Paranagua,-25.516,-48.516
 SBPK,Pelotas,-31.866,-52.35
 SBPL,Petrolina,-9.35,-40.55
 SBPN,Porto Nacional Aeroporto,-10.7,-48.4
@@ -4911,8 +3597,6 @@ SBRB,Rio Branco,-10.0,-67.8
 SBRF,Recife Aeroporto,-8.066,-34.85
 SBRJ,Rio De Janeiro Aeroporto,-22.9,-43.166
 SBRP,Leite Lopes / Ribeir,-21.133,-47.783
-SBRS,Resende,-22.483,-44.466
-SBSA,Sao Carlos,-22.016,-47.883
 SBSC,Rio De Janeiro-Santa Cruz Ab,-22.933,-43.716
 SBSJ,Sao Jose Dos Campo,-23.233,-45.866
 SBSL,Sao Luiz Aeroporto,-2.6,-44.233
@@ -4933,7 +3617,6 @@ SBUL,Uberlandia,-18.883,-48.233
 SBUR,Uberaba,-19.783,-47.966
 SBVH,Vilhena Aeroporto,-12.7,-60.1
 SBVT,Vitoria Aeroporto,-20.266,-40.283
-SBXV,Xavantina,-14.7,-52.35
 SBYA,Iauarete,0.616,-69.2
 SBYS,Pirassununga,-21.983,-47.333
 SCAR,Arica,-18.333,-70.333
@@ -4946,33 +3629,22 @@ SCDA,Iquique / Diego Arac,-20.533,-70.183
 SCEL,Pudahuel,-33.383,-70.783
 SCER,Quintero Santiago,-32.783,-71.516
 SCFA,Antofagasta,-23.433,-70.433
-SCHA,Copiapo,-27.3,-70.416
 SCHR,Cochrane,-47.233,-72.55
 SCIC,Curico,-34.966,-71.233
 SCIE,Concepcion,-36.766,-73.05
 SCIP,Isla De Pascua,-27.15,-109.416
 SCLL,Vallenar,-28.6,-70.766
-SCRA,Chanaral,-26.316,-70.616
 SCSE,La Serena,-29.9,-71.2
 SCTC,Temuco,-38.75,-72.633
 SCTE,Puerto Montt,-41.416,-73.083
 SCVD,Valdivia,-39.616,-73.083
-SEAM,Ambato / Chachoan,-1.2,-78.566
-SEBC,Bahia De Caraquez,-0.583,-80.4
 SECU,Cuenca / Mariscal Lamar,-2.883,-78.983
-SEES,Esmeraldas-Tachina,0.966,-79.633
 SEGU,Guayaquil / Simon Bolivar,-2.15,-79.883
-SEIB,Ibarra / Atahualpa,0.35,-78.133
-SELO,Catamayo / Camilo Ponce Enriquez,-4.0,-79.366
 SELT,Latacunga,-0.916,-78.616
-SEMA,Macara / J. M. Velasco I.,-4.366,-79.933
-SEMH,Machala / General M. Serrano,-3.25,-79.966
 SEMT,Manta,-0.95,-80.683
-SEPA,Pastaza / Rio Amazonas,-1.5,-78.05
 SEQU,Quito / Mariscal Sucre,-0.15,-78.483
 SESA,Salinas / General Ulpiano Paez,-2.2,-80.983
 SEST,San Cristobal Galapagos,-0.9,-89.6
-SETI,Tiputini,-0.783,-75.516
 SETU,Tulcan / El Rosal,0.816,-77.7
 SFAL,Stanley Airport,-51.683,-57.766
 SGAS,Asuncion / Aeropuerto,-25.266,-57.633
@@ -4980,7 +3652,6 @@ SGCO,Concepcion,-23.416,-57.3
 SGEN,Encarnacion,-27.316,-55.833
 SGES,Aeropuerto Guarany,-25.45,-54.85
 SGME,Mariscal Estigarribia,-22.016,-60.6
-SGNA,Nueva Asuncion,-20.716,-61.916
 SKAR,Armenia / El Eden,4.5,-75.716
 SKAS,Puerto Asis,0.5,-76.5
 SKBG,Bucaramanga / Palonegro,7.1,-73.2
@@ -5045,9 +3716,7 @@ SLVM,Villamontes,-21.25,-63.45
 SLVR,Viru-Viru,-17.633,-63.133
 SLYA,Yacuiba,-21.95,-63.65
 SMJP,Johan A. Pengel,5.45,-55.183
-SMZY,Zanderij,5.45,-55.2
 SOCA,Cayenne / Rochambeau,4.833,-52.366
-SOOM,Saint-Laurent-Du-Maroni,5.5,-54.033
 SPAY,Atalaya,-10.733,-73.783
 SPCL,Pucallpa,-8.416,-74.6
 SPEO,Chimbote,-9.166,-78.516
@@ -5057,10 +3726,8 @@ SPHO,Ayacucho,-13.133,-74.216
 SPHY,Andahuayla,-13.716,-73.35
 SPHZ,Anta Huaraz,-9.35,-77.6
 SPIM,Lima-Callao / Aerop. Internacional Jorgechavez,-12.0,-77.116
-SPJA,Rioja,-6.05,-77.15
 SPJI,Juanjui,-7.216,-76.716
 SPJL,Juliaca,-15.483,-70.15
-SPJN,San Juan,-15.383,-75.166
 SPJR,Cajamarca,-7.133,-78.466
 SPME,Tumbes,-3.55,-80.4
 SPMS,Yurimaguas,-5.9,-76.083
@@ -5084,12 +3751,10 @@ SULS,Capitan Corbeta,-34.866,-55.1
 SUME,Mercedes,-33.25,-58.066
 SUMO,Melo,-32.366,-54.216
 SUMU,Carrasco,-34.833,-56.0
-SUPE,Maldonado / Punta Est,-34.916,-54.916
 SUPU,Paysandu,-32.333,-58.033
 SURV,Rivera,-30.883,-55.533
 SUSO,Salto,-31.383,-57.95
 SUTB,Tacuarembo,-31.7,-55.983
-SUTR,Treinta Y Tres,-33.216,-54.383
 SVAC,Acarigua,9.55,-69.233
 SVBC,Barcelona,10.116,-64.683
 SVBI,Barinas,8.616,-70.216
@@ -5129,24 +3794,16 @@ SVSR,San Fernando De Apure,7.9,-67.416
 SVST,San Tome Private,8.95,-64.15
 SVSZ,Santa Barbara Zulia,8.983,-71.95
 SVTM,Tumeremo,7.3,-61.45
-SVTR,Temblador,9.016,-62.616
 SVVA,Valencia,10.166,-67.933
 SVVG,El Vigia / Perez Alph,8.633,-71.666
 SVVL,Valera,9.35,-70.616
 SVVP,Valle De La Pascua,9.216,-66.016
-SWBC,Barcelos,-0.983,-62.583
 SYCJ,Georgetown/Cheddi Jagan International Airport,6.483,-58.25
-SYGT,Georgetown,6.8,-58.15
-SYTM,Timehri Airport,6.5,-58.25
-TAKA,Takao Radar Site,35.566,133.233
 TAPA,Vc Bird International Airport Antigua,17.116,-61.783
 TBPB,Grantley Adams,13.066,-59.483
-TBPO,Bridgetown City,13.1,-59.616
 TDCF,Canefield Airport,15.533,-61.4
 TDPD,Melville Hall Airport,15.533,-61.3
-TDPR,Roseau,15.3,-61.4
 TFFF,Le Lamentin,14.6,-61.0
-TFFJ,"Gustavia, Saint Barthelemy",17.9,-62.85
 TFFR,"Le Raizet, Guadeloupe",16.266,-61.516
 TGPY,Point Salines Airport,12.0,-61.783
 TIST,"Charlotte Amalie St. Thomas, Cyril E. King Airport",18.333,-64.983
@@ -5165,10 +3822,8 @@ TNCC,"Hato Airport, Curacao",12.2,-68.966
 TNCE,Roosevelt Airport Saint Eustatius,17.483,-62.983
 TNCM,"Juliana Airport, Saint Maarten",18.05,-63.116
 TQPF,Wallblake,18.204,-63.055
-TRPM,Blackburne / Plymouth,16.75,-62.166
 TTCP,Crown Pt./ Scarborou,11.15,-60.85
 TTPP,"Piarco International Airport, Trinidad",10.616,-61.35
-TTPT,"Crown Point Airport, Tobago",11.15,-60.833
 TUPJ,"Beef Island, Tortola",18.45,-64.533
 TVSV,Arnos Vale,13.133,-61.2
 TXKF,Bermuda,32.366,-64.683
@@ -5179,7 +3834,6 @@ UAII,Shymkent,42.316,69.7
 UAKK,Karaganda,49.8,73.15
 UAOO,Kzyl-Orda,44.85,65.5
 UARR,Uralsk,51.25,51.283
-UATA,Aralskoe More,46.783,61.65
 UATE,Aktau,43.87,51.1
 UATT,Aktjubinsk,50.283,57.15
 UAUU,Kostanay,53.206,63.550
@@ -5190,15 +3844,10 @@ UELL,Cul'Man,56.833,124.866
 UERP,Polyarny,66.400,112.030
 UERR,Mirny,62.53,114.03
 UEST,Tiksi,71.7,128.9
-UGEE,Yerevan,40.133,44.466
 UGGG,Tbilisi,41.683,44.95
-UGMM,Muhrani,41.933,44.583
-UHBP,Ekimchan,53.066,132.983
 UHHH,Habarovsk,48.516,135.166
-UHHO,Troickoe,49.45,136.566
 UHMA,Anadyr,64.783,177.566
 UHMD,Buhta Providenja,64.416,-173.233
-UHMG,Chaybukha,61.95,160.416
 UHMM,Magadan,59.55,150.783
 UHPP,Petropavlovsk-Kamchatskij,53.083,158.583
 UHSS,Yuzhno-Sakhalinsk,46.95,142.716
@@ -5206,11 +3855,6 @@ UHWW,Vladivostok,43.116,131.933
 UIAA,Chita,52.083,113.483
 UIBB,Bratsk / Irkutsk,56.370,101.698
 UIII,Irkutsk,52.266,104.316
-UIIO,Ust'Ordynskij,52.816,104.766
-UIKB,Bodajbo,57.85,114.233
-UIKK,Kirensk,57.766,108.066
-UINN,Nizhneudinsk,54.883,99.033
-UIUH,Horinsk,52.166,109.783
 UIUU,Ulan-Ude,51.833,107.6
 UKBB,Boryspil,50.333,30.966
 UKCC,Donetsk,48.083,37.75
@@ -5219,7 +3863,6 @@ UKDE,Zaporizhzhia / Mokraya,47.867,35.316
 UKDR,Krivyy Rih / Dnipropetrovs'k,48.05,33.22
 UKFF,Simferopol,44.683,34.133
 UKHH,Kharkiv,49.966,36.133
-UKII,Kisinev,47.016,28.983
 UKKE,Cherkasy,49.416,31.996
 UKKK,Kyiv,50.4,30.566
 UKKM,Hostomel,50.600,30.193
@@ -5235,7 +3878,6 @@ ULAK,Kotlas,61.233,46.716
 ULLI,St. Peterburg,59.966,30.3
 ULMM,Murmansk,68.966,33.05
 ULOL,Velikie Luki,56.35,30.616
-ULWT,Tot'Ma,59.883,42.75
 ULWW,Vologda,59.316,39.916
 UMBB,Brest,52.108,23.896
 UMGG,Gomel',52.526,31.018
@@ -5244,13 +3886,9 @@ UMKK,Kaliningrad/Khrabrovo Airport,54.72,20.5
 UMMG,Grodno,53.601,24.055
 UMMM,Loshitsa / Minsk International 1,53.865,27.541
 UMMS,Minsk,53.933,27.633
-UMRR,Riga,56.966,24.05
-UMRW,Ventspils,57.4,21.533
 UNAA,Abakan,53.75,91.4
 UNBB,Barnaul,53.433,83.516
 UNEE,Kemerovo,55.329,86.08
-UNII,Enisejsk,58.45,92.15
-UNNN,Novosibirsk,55.083,82.9
 UNOO,Omsk,54.966,73.3
 UNWW,Novokuznetsk,53.733,87.183
 URKA,Anapa / Vitiazevo,44.9,37.316
@@ -5271,10 +3909,8 @@ USRR,Surgut,61.25,73.5
 USSS,Ekaterinburg,56.833,60.633
 UTAA,Ashgabat,37.983,58.366
 UTDD,Dushanbe,38.55,68.783
-UTED,Dzizak,40.116,67.833
 UTNN,Nukus / Karakalpakstan,42.48,59.63
 UTNU,Urgench,41.583,60.645
-UTSM,Tamdy,41.733,64.616
 UTSS,Samarkand,39.566,66.95
 UTST,Termez,37.233,67.266
 UTTT,Tashkent,41.266,69.266
@@ -5284,7 +3920,6 @@ UUEE,Moscow / Sheremet'Ye,55.983,37.5
 UUEM,Tver,56.9,35.883
 UUOO,Voronez,51.65,39.25
 UUWW,Moscow / Vnukovo,55.65,37.266
-UUYT,Ust'- Kulom,61.683,53.683
 UUYY,Syktyvkar,61.716,50.833
 UWGG,Nizhny Novgorod/Strigino,56.329,44.0
 UWKD,Kazan',55.783,49.2
@@ -5295,129 +3930,58 @@ UWSS,Saratov / Tsentralny,51.57,46.069
 UWUU,Ufa,54.73,55.929
 UWWW,Samara,53.2,50.15
 VAAH,Ahmadabad,23.066,72.633
-VAAK,Akola,20.7,77.066
-VAAU,Aurangabad Chikalthan Aerodrome,19.85,75.4
 VABB,Bombay / Santacruz,19.116,72.85
-VABI,Bilaspur,31.25,76.666
 VABJ,Bhuj-Rudramata,23.25,69.666
 VABM,Belgaum / Sambra,15.85,74.616
 VABP,Bhopal / Bairagarh,23.283,77.35
 VABV,Bhaunagar,21.75,72.2
-VAGO,Goa / Dabolim Airport,15.383,73.816
 VAID,Indore,22.716,75.8
 VAJB,Jabalpur,23.2,79.95
-VAKD,Khandwa,21.833,76.366
-VAKP,Kolhapur,16.7,74.233
 VANP,Nagpur Sonegaon,21.1,79.05
-VARK,Rajkot,22.3,70.783
-VASL,Sholapur,17.666,75.9
-VBBM,Bhamo,24.266,97.2
-VBBS,Pathein,16.766,94.766
-VBCI,Coco Island,14.116,93.366
-VBHL,Homalin,24.866,94.916
-VBKG,Kengtung,21.3,99.616
-VBKP,Kyaukpyu,19.416,93.55
-VBLS,Lashio,22.933,97.75
-VBMK,Myitkyina,25.366,97.4
-VBML,Meiktila,20.833,95.833
-VBMM,Moulmein,16.5,97.616
-VBPA,Hpa-An,16.75,97.666
-VBPR,Prome,18.8,95.216
-VBPT,Putao,27.333,97.416
-VBRM,Mandalay,21.983,96.1
-VBRN,Mergui,12.433,98.6
-VBRR,Mingaladon,16.9,96.183
-VBSY,Sandoway,18.466,94.35
-VBTV,Dawei,14.1,98.216
 VCBI,Katunayake,7.166,79.883
-VCCA,Anuradhapura,8.333,80.416
-VCCB,Batticaloa,7.716,81.7
-VCCC,Ratmalana,6.816,79.883
-VCCT,Trincomalee,8.583,81.25
-VDKC,Kompong-Cham,12.0,105.45
 VDPP,Phnom-Penh / Pochentong,11.55,104.85
 VDSR,Siemreap,13.366,103.85
 VEAT,Agartala,23.883,91.25
 VEBD,Siliguri,26.633,88.316
 VEBS,Bhubaneswar,20.25,85.833
 VECC,Calcutta / Dum Dum,22.65,88.45
-VECX,Car Nicobar,9.15,92.816
 VEGK,Gorakhpur,26.75,83.366
 VEGT,Gauhati,26.1,91.583
 VEGY,Gaya,24.75,84.95
 VEIM,Imphal Tulihal,24.766,93.9
-VEJH,Jharsuguda,21.916,84.083
 VEJS,Jamshedpur,22.816,86.183
-VELR,North Lakhimpur,27.233,94.116
 VEMN,Dibrugarh / Mohanbari,27.483,95.016
-VEPB,Port Blair,11.666,92.716
 VEPT,Patna,25.6,85.1
 VERC,M. O. Ranchi,23.316,85.316
-VGCB,Cox's Bazar,21.433,91.966
 VGEG,Chittagong Patenga,22.266,91.816
-VGIS,Ishurdi,24.133,89.05
-VGJR,Jessore,23.183,89.166
-VGRJ,Rajshahi,24.366,88.7
-VGSY,Sylhet,24.9,91.883
-VGTJ,Dhaka,23.766,90.383
 VGZR,"Kurmitola, Dia",23.85,90.4
-VHCH,Cheung Chau,22.2,114.016
 VHHH,Hong Kong Inter-National Airport,22.333,114.183
 VIAG,Agra,27.15,77.966
 VIAL,Allahabad / Bamhrauli,25.45,81.733
 VIAR,Amritsar,31.633,74.866
 VIBN,Varanasi / Babatpur,25.45,82.866
-VIBY,Bareilly,28.366,79.4
-VICX,Kanpur / Chakeri,26.4,80.4
 VIDD,New Delhi / Safdarjung,28.583,77.2
 VIDP,New Delhi / Palam,28.566,77.116
 VIGR,Gwalior,26.233,78.25
-VIHR,Hissar,29.166,75.733
-VIJN,Jhansi,25.45,78.583
 VIJO,Jodhpur,26.3,73.016
 VIJP,Jaipur / Sanganer,26.816,75.8
-VIKO,Kota Aerodrome,25.15,75.85
 VILK,Lucknow / Amausi,26.75,80.883
-VIST,Satna,24.566,80.833
-VIUD,Udaipur Dabok,24.616,73.883
-VLAP,Attopeu,14.8,106.833
-VLIP,Pakse,15.116,105.166
 VLLB,Luang-Prabang,19.883,102.133
-VLSB,Sayaboury,19.233,101.733
 VLSK,Savannakhet,16.55,104.65
-VLSV,Saravane,15.683,106.433
-VLTK,Thakhek,17.383,104.65
 VLVT,Vientiane,17.95,102.566
 VMMC,Taipa,22.166,113.566
-VNBW,Bhairawa Airport,27.516,83.45
-VNJL,Jumla,29.283,82.166
 VNKT,Kathmandu Airport,27.7,85.366
-VNPK,Pokhara Airport,28.216,84.0
-VNSI,Simra Airport,27.166,84.983
-VNSK,Surkhet,28.6,81.616
-VNTJ,Taplejung,27.35,87.666
-VNVT,Biratnagar Airport,26.483,87.266
 VOBG,Bangalore / Hindustan,12.95,77.666
-VOBI,Bellary,15.15,76.85
 VOBZ,Vijayawada / Gannavaram,16.533,80.8
 VOCB,Coimbatore / Peelamedu,11.033,77.05
-VOCC,Cochin / Willingdon,9.95,76.266
-VOCP,Cuddapah,14.483,78.833
 VOHY,Hyderabad Airport,17.45,78.466
 VOMD,Madurai,9.833,78.083
 VOML,Mangalore / Bajpe,12.916,74.883
 VOMM,Madras / Minambakkam,13.0,80.183
 VOTR,Tiruchchirapalli,10.766,78.716
 VOTV,Thiruvananthapuram,8.466,76.95
-VOVR,Vellore,12.916,79.15
-VRGN,Gan,-0.683,73.15
 VRMM,Male,4.2,73.533
-VTBC,Chanthaburi,12.6,102.116
 VTBD,Don Muang,13.916,100.6
-VTBG,Kanchanaburi,14.016,99.533
-VTBI,Prachin Buri,14.05,101.366
-VTBJ,Phetchaburi,13.15,100.066
-VTBP,Prachuap Khirikhan,11.833,99.833
 VTBS,Chon Buri,13.366,100.983
 VTBU,Rayong,12.633,101.35
 VTCC,Chiang Mai,18.783,98.983
@@ -5425,78 +3989,32 @@ VTCH,Mae Hong Son,19.3,97.833
 VTCL,Lampang,18.283,99.516
 VTCN,Nan,18.766,100.766
 VTCP,Phrae,18.166,100.166
-VTCR,Chiang Rai,19.916,99.833
-VTCS,Mae Sariang,18.166,97.933
 VTPH,Hua Hin,12.583,99.95
 VTPM,Mae Sot,16.666,98.55
-VTPN,Nakhon Sawan,15.8,100.166
-VTPS,Phitsanulok,16.783,100.266
 VTPT,Tak,16.883,99.15
-VTPU,Uttaradit,17.616,100.1
-VTSA,Satun,6.65,100.083
 VTSB,Surat Thani,9.116,99.35
-VTSD,Chumphon,10.483,99.183
 VTSH,Songkhla,7.2,100.6
 VTSK,Pattani,6.783,101.15
-VTSN,Nakhon Si Thammarat,8.466,99.966
 VTSP,Phuket Airport,8.116,98.316
 VTSR,Ranong,9.983,98.616
 VTSS,Hat Yai,6.916,100.433
 VTST,Trang,7.516,99.616
-VTUB,Mukdahan,16.533,104.716
-VTUC,Chaiyaphum,15.8,102.033
 VTUD,Udon Thani,17.383,102.8
 VTUK,Khon Kaen,16.433,102.833
 VTUL,Loei,17.45,101.733
-VTUM,Nong Khai,17.866,102.716
-VTUN,Nakhon Ratchasima,14.966,102.083
-VTUP,Nakhon Phanom,17.416,104.783
-VTUR,Roi Et,16.05,103.683
-VTUS,Sakon Nakhon,17.15,104.133
 VTUU,Ubon Ratchathani,15.25,104.866
 VVDN,Da Nang,16.033,108.183
-VVGL,Hanoi / Gialam,21.033,105.85
 VVNB,Ha Noi,21.016,105.8
-VVNT,Nha Trang,12.25,109.2
 VVPB,Hue,16.4,107.683
-VVPK,Pleiku City,13.983,108.0
-VVQN,Quy Nhon,13.766,109.216
 VVTS,Ho Chi Minh,10.816,106.666
-VVVH,Vinh,18.7,105.666
-VYSW,Sittwe,20.133,92.883
 VYYY,Yangon,16.766,96.166
 WAAA,Ujung Pandang / Hasanuddin,-5.066,119.55
-WAAB,Bau-Bau / Beto Ambiri,-5.466,122.616
-WAAU,Kendari / Woltermon-Ginsidi,-4.1,122.433
 WABB,Biak / Mokmer,-1.183,136.116
-WABI,Nabire,-3.333,135.5
-WABN,Kokonao / Timuka,-4.716,136.433
-WABO,Serui / Yendosa,-1.866,136.233
-WABT,Enarotali,-3.916,136.366
-WAJI,Sarmi,-1.833,138.716
 WAJJ,Jayapura / Sentani,-2.566,140.483
-WAJW,Wamena / Wamena,-4.066,138.95
 WAKK,Merauke / Mopah,-8.466,140.383
-WAKT,Tanah Merah / Tanah Merah,-6.1,140.3
-WAMA,Galela / Gamarmalamu,1.816,127.833
-WAMG,Gorontalo / Jalaluddin,0.516,123.066
-WAMH,Tahuna,3.583,125.466
-WAMI,Toli-Toli / Lalos,1.016,120.8
 WAML,Palu / Mutiara,-0.683,119.733
 WAMM,Menado / Dr. Sam Ratulangi,1.533,124.916
-WAMP,Poso / Kasiguncu,-1.383,120.733
-WAMT,Ternate / Babullah,0.783,127.383
-WAMW,Luwuk / Bubung,-0.9,122.783
-WAPA,Amahai,-3.35,128.883
-WAPH,Labuha / Taliabu,-1.616,124.55
-WAPI,Saumlaki,-7.983,131.3
-WAPN,Sanana,-2.083,126.0
 WAPP,Ambon / Pattimura,-3.7,128.083
-WAPR,Namlea,-3.25,127.083
-WASF,Fak-Fak / Torea,-2.883,132.25
-WASK,Kaimana / Utarom,-3.666,133.75
-WASR,Manokwari / Rendani,-0.883,134.05
-WASS,Sorong / Jefman,-0.933,131.116
 WBGB,Bintulu,3.2,113.033
 WBGG,Kuching,1.483,110.333
 WBGR,Miri,4.333,113.983
@@ -5507,43 +4025,12 @@ WBKS,Sandakan,5.9,118.066
 WBKT,Kudat,6.916,116.833
 WBKW,Tawau,4.266,117.883
 WBSB,Brunei Airport,4.933,114.933
-WIAA,Sabang / Cut Bau,5.866,95.316
-WIAG,Menggala / Astra Ksetra,-4.45,105.183
-WIAM,Tasikmalaya / Cibeureum,-7.333,108.25
-WIAR,Madiun / Iswahyudi,-7.616,111.516
-WIAS,Malang / Abdul Rahkmansaleh,-7.966,112.7
 WIBB,Pakanbaru / Simpangtiga,0.466,101.45
-WIIA,Curug / Budiarto,-6.233,106.65
-WIIB,Bandung / Husein,-6.9,107.583
-WIIH,Jakarta Halim Perdanakusuma,-6.25,106.9
 WIII,Jakarta / Soekarno-Hatta,-6.116,106.65
-WIIJ,Jogyakarta / Adisucipto,-7.783,110.433
-WIIK,Kalijati,-6.55,107.666
-WIIL,Cilacap,-7.733,109.016
-WIIS,Semarang / Ahmadyani,-6.983,110.383
 WIIT,Telukbetung / Beranti,-5.266,105.183
-WIKB,"Batan, Sumatra",1.116,104.116
-WIKD,Tanjungpandan / Buluh Tumbang,-2.75,107.75
-WIKK,Pangkalpinang / Pangkalpinang,-2.166,106.133
-WIKN,Tanjungpinang / Kijang,0.916,104.533
-WIKS,Singkep / Dabo,-0.483,104.583
-WIMB,Gunung Sitoli / Binaka,1.5,97.633
-WIMG,Padang / Tabing,-0.883,100.35
 WIMM,Medan / Polonia,3.566,98.683
-WIMS,Sibolga / Pinangsori,1.55,98.883
-WIOI,Singkawang Ii,1.083,109.666
-WIOK,Ketapang / Rahadi Usmaman,-1.85,109.966
-WION,Ranai / Ranai,3.95,108.383
 WIOO,Pontianak / Supadio,-0.15,109.4
-WIOS,Sintang,0.116,111.533
-WIPA,Jambi / Sultan Taha,-1.633,103.65
-WIPH,Kerinci / Depati Parbo,-2.766,101.366
-WIPL,Bengkulu / Padangkemiling,-3.883,102.333
 WIPP,Palembang / Talangbetutu,-2.9,104.7
-WIPR,Rengat / Japura,0.466,102.316
-WITC,Meulaboh / Cut Nyak Dhien,4.25,96.116
-WITM,Lhokseumawe / Malikussaleh,5.233,97.2
-WITT,Banda Aceh / Blangbintang,5.516,95.416
 WMBA,Sitiawan,4.216,100.7
 WMKC,Kota Bharu,6.166,102.283
 WMKD,Kuantan,3.616,103.216
@@ -5553,47 +4040,14 @@ WMKL,Langkawi,6.333,99.733
 WMKM,Malacca,2.266,102.25
 WMKP,Penang / Bayan Lepas,5.3,100.266
 WMSA,Subang/Sultan Abdul Aziz Shah Airport,3.116,101.533
-WPDL,Dilli / Dilli Airport,-8.566,125.566
-WPEC,Baucau,-8.5,126.4
-WPOC,Oe-Cusse / Oe Cusse,-9.2,124.366
-WRBB,Banjarmasin / Syamsuddin Noor,-3.433,114.75
-WRBI,Pangkalan Bun / Iskandar,-2.7,110.7
-WRBK,Kotabaru,-3.4,116.216
-WRBM,Muaratewe / Beringin,-0.95,114.9
-WRBP,Palangkaraya / Panarung,-1.0,114.0
-WRKC,Maumere / Wai Oti,-8.633,122.25
-WRKK,Kupang / El Tari,-10.166,123.666
-WRKL,Larantuka,-8.266,122.966
-WRKM,Alor / Mali,-8.216,124.566
-WRKR,Rote / Baa,-10.733,123.066
-WRKS,Sabu / Tardamu,-10.5,121.833
-WRLB,Longbawan / Juvai Semaring,3.733,115.683
-WRLG,Tanjung Selor,2.85,117.333
-WRLK,Tanjung Redep / Berau,2.116,117.45
-WRLL,Balikpapan / Sepinggan,-1.266,116.9
-WRLR,Tarakan / Juwata,3.333,117.566
-WRLS,Samarinda / Temindung,-0.616,117.15
-WRRA,Ampenan / Selaparang,-8.533,116.066
-WRRB,Bima,-8.55,118.7
-WRRR,Denpasar / Ngurah-Rai,-8.75,115.166
-WRRS,Sumbawa Besar / Sumbawa Besar,-8.433,117.416
-WRRW,Waingapu / Mau Hau,-9.666,120.333
-WRSJ,Surabaya / Juanda,-7.366,112.766
-WRSP,Surabaya / Perak,-7.216,112.716
-WRSQ,Surakarta / Adisumarmo,-7.866,110.916
-WRSS,Surabaya,-7.216,113.716
 WSAP,Singapore / Paya Lebar,1.366,103.916
 WSSS,Singapore / Changi Airport,1.366,103.983
 YAYE,Ayers Rock,-25.183,130.966
-YBAF,Archerfield Aerodrome,-27.566,153.0
-YBAM,Amberley Aerodrome,-27.633,152.716
 YBAS,Alice Springs Aerodrome,-23.8,133.883
 YBBN,Brisbane Airport M. O,-27.383,153.1
 YBCG,Coolangatta Airport Aws,-28.166,153.5
 YBCS,Cairns Airport,-16.883,145.75
 YBCV,Charleville Airport,-26.4,146.266
-YBGL,Gladstone,-23.85,151.25
-YBLR,Longreach Airport,-23.433,144.266
 YBMA,Mount Isa Amo,-20.666,139.466
 YBMK,Mackay Mo,-21.116,149.2
 YBOK,Oakey Aerodrome,-27.416,151.733
@@ -5602,50 +4056,25 @@ YBRK,Rockhampton Airport,-23.383,150.466
 YBRM,Broome Airport,-17.95,122.216
 YBTL,Townsville Amo,-19.25,146.75
 YBWP,Weipa City,-12.633,141.883
-YDGV,Gove Airport,-12.266,136.816
-YDTC,Tennant Creek Airport,-19.633,134.166
-YDYL,Yulara Aws,-25.183,130.966
 YMAV,"Avalon, Avalon Airport",-38.033,144.483
 YMAY,Albury Airport,-36.066,146.95
-YMDV,Devonport East,-41.166,146.366
 YMEN,Goldstream Aws,-37.733,145.4
-YMES,East Sale Aerodrome,-38.1,147.133
 YMHB,Hobart Airport,-42.833,147.483
 YMLT,Launceston Airport,-41.533,147.2
-YMLV,Laverton Aerodrome,-37.85,144.733
-YMMB,Moorabbin Airport Aws,-37.966,145.1
-YMMG,Mount Gambier Aerodrome,-37.733,140.783
-YMMI,Mildura Airport,-34.216,142.083
 YMML,Melbourne Airport,-37.666,144.833
-YMMQ,Macquarie Island,-54.483,158.95
-YMWY,Wynyard West,-40.983,145.716
 YPAD,Adelaide Airport,-34.933,138.516
-YPAL,Albany Airport,-34.933,117.8
-YPBH,Broken Hill Patton Street,-31.966,141.466
 YPCC,Cocos Island Airport,-12.183,96.816
-YPCD,Ceduna Airport,-32.116,133.7
-YPDB,Derby,-17.3,123.616
 YPDN,Darwin Airport,-12.4,130.866
 YPEA,Bullsbrook Pearce Amo,-31.666,116.016
-YPED,Edinburgh M. O.,-34.7,138.616
-YPFT,Forrest Airport,-30.833,128.1
-YPGN,Geraldton Airport,-28.783,114.7
 YPKG,Kalgoorlie Boulder Amo,-30.783,121.45
 YPKU,Kununurra Kununurra Aws,-15.766,128.7
-YPLC,Leigh Creek Airport,-30.583,138.416
 YPLM,Learmonth Airport,-22.233,114.083
-YPMR,Meekatharra Airport,-26.6,118.533
 YPPD,Port Hedland Pardoo,-20.1,119.566
-YPPF,Parafield Airport,-34.783,138.633
 YPPH,Belmont Perth Airport,-31.933,115.95
 YPTN,Tindal / Katherine,-14.433,132.266
 YPWR,Woomera Aerodrome,-31.133,136.816
 YPXM,Christmas Island Aerodrome,-10.433,105.683
-YSBK,Bankstown Airport Aws,-33.916,150.983
 YSCB,Canberra,-35.3,149.183
-YSCH,Coffs Harbour Mo,-30.316,153.116
-YSCM,Cooma,-36.233,149.083
-YSCN,Camden Airport,-34.033,150.683
 YSDU,Dubbo,-32.2,148.566
 YSNF,Norfolk Island Airport,-29.033,167.933
 YSNW,Nowra Ran Air Station,-34.95,150.533
@@ -5653,15 +4082,12 @@ YSRI,Richmond Aus-Afb,-33.6,150.783
 YSSY,Sydney Airport,-33.95,151.183
 YSTW,Tamworth Airport,-31.083,150.833
 YSWG,Wagga Airport,-35.15,147.45
-YSWM,Williamtown Aerodrome,-32.783,151.816
 ZBAA,Beijing,39.933,116.283
 ZBHH,Hohhot,40.816,111.683
 ZBTJ,Tianjin / Zhangguizhu,39.183,117.35
 ZBYN,Taiyuan,37.783,112.55
-ZGCS,Changsha,28.2,113.083
 ZGGG,Guangzhou,23.166,113.333
 ZGHA,Changsha,28.233,112.866
-ZGHK,Haikou,20.033,110.35
 ZGKL,Guilin,25.333,110.3
 ZGNN,Nanning,22.816,108.35
 ZGOW,Shantou,23.4,116.683
@@ -5670,12 +4096,9 @@ ZGZJ,Zhanjiang,21.216,110.4
 ZHCC,Zhengzhou,34.716,113.65
 ZHHH,Wuhan,30.616,114.133
 ZJSY,Sanya/Fenghuang,18.3,109.4
-ZKKC,Kimchaek,40.666,129.2
 ZKPY,Pyongyang,39.033,125.783
 ZLIC,Yinchuan,38.483,106.216
-ZLJQ,Jiuquan,39.766,98.483
 ZLLL,Lanzhou / Zhongchuan,36.02,103.75
-ZLSN,Xi'An,34.3,108.933
 ZLXN,Xining,36.616,101.766
 ZLXY,Xian/Xianyang,34.433,108.75
 ZLYA,Yan An,36.6,109.5
@@ -5691,12 +4114,10 @@ ZSOF,Hefei,31.866,117.233
 ZSPD,Shanghai / Pudong,31.116,121.766
 ZSQD,Qingdao,36.066,120.333
 ZSSS,Shanghai / Hongqiao,31.166,121.433
-ZSTN,Jinan,36.683,116.983
 ZUCK,Chongqing,29.516,106.483
 ZUGY,Guiyang,26.583,106.716
 ZULS,Lhasa,29.666,91.133
 ZUUU,Chengdu,30.666,104.016
-ZWHM,Hami,42.816,93.516
 ZWSH,Kashi,39.466,75.983
 ZWTN,Hotan,37.133,79.933
 ZWWW,Urum-Qi / Diwopu,43.9,87.466
