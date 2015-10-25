@@ -1,5 +1,6 @@
 Name,Location,Latitude,Longitude
 AGGH,Honiara / Henderson,-9.416,160.05
+AGGM,Munda,-8.333,157.266
 ANAU,Nauru Airport,-0.533,166.916
 AYMO,Manus Island/Momote,-2.061,147.424
 AYPY,Moresby,-9.433,147.216
@@ -13,6 +14,7 @@ BGSF,Sdr Stroemfjord,67.016,-50.7
 BGTL,Thule A. B.,76.533,-68.75
 BIAR,Akureyri,65.683,-18.083
 BIEG,Egilsstadir,65.283,-14.4
+BIGR,Grimsey,66.533,-18.016
 BIHN,Akurnes,64.3,-15.216
 BIKF,Keflavikurflugvollur,63.966,-22.6
 BIRK,Reykjavik,64.133,-21.9
@@ -502,6 +504,7 @@ CYYQ,"Churchill, Man.",58.733,-94.066
 CYYR,"Goose, Nfld.",53.316,-60.416
 CYYT,"St. John's, Nfld",47.616,-52.733
 CYYU,"Kapuskasing, Ont.",49.416,-82.466
+CYYW,"Armstrong, Ont.",50.3,-89.033
 CYYY,"Mont Joli, Que.",48.6,-68.216
 CYYZ,Toronto Pearson Int'L. Ont.,43.666,-79.633
 CYZE,"Gore Bay, Ont.",45.883,-82.566
@@ -589,6 +592,7 @@ DIDL,Daloa,6.866,-6.466
 DIGA,Gagnoa,6.133,-5.95
 DIKO,Korhogo,9.416,-5.616
 DIMN,Man,7.383,-7.516
+DIOD,Odienne,9.5,-7.566
 DISP,San Pedro,4.75,-6.65
 DISS,Sassandra,4.95,-6.083
 DITB,Tabou,4.416,-7.366
@@ -1205,6 +1209,7 @@ FVWN,Hwange National Park,-18.633,27.0
 FWCL,Chileka,-15.683,34.966
 FWKA,Karonga,-9.95,33.883
 FWKI,Lilongwe International Airport,-13.783,33.766
+FWSM,Salima,-13.75,34.583
 FWUU,Mzuzu,-11.45,34.016
 FXMM,Maseru / Moshoeshoe,-29.45,27.55
 FYGF,Grootfontein,-19.6,18.116
@@ -1231,6 +1236,7 @@ GABS,Bamako / Senou,12.533,-7.95
 GAGO,Gao,16.266,-0.05
 GAHB,Hombori,15.333,-1.683
 GAKA,Kenieba,12.85,-11.233
+GAKL,Kidal,18.433,1.35
 GAKO,Koutiala,12.383,-5.466
 GAKT,Kita,13.066,-9.466
 GAKY,Kayes,14.433,-11.433
@@ -1319,6 +1325,7 @@ HEPS,Port Said,31.266,32.3
 HESH,Sharm El Sheikhintl,27.966,34.383
 HESN,Asswan,23.966,32.783
 HETB,Taba,29.599,34.776
+HETR,El Tor,28.233,32.616
 HFFF,Djibouti,11.55,43.15
 HHAS,Asmara,15.283,38.916
 HKEL,Eldoret,0.533,35.283
@@ -1366,6 +1373,7 @@ HTDA,Dar Es Salaam Airport,-6.866,39.2
 HTDO,Dodoma,-6.166,35.766
 HTIR,Iringa,-7.666,35.75
 HTKA,Kigoma,-4.883,29.633
+HTKI,Kilwa Masoko,-8.933,39.516
 HTKJ,Kilimanjaro Airport,-3.416,37.066
 HTMB,Mbeya,-8.933,33.466
 HTMG,Morogoro,-6.833,37.65
@@ -1984,6 +1992,7 @@ KFAT,FRESNO AIR TERMINAL,36.783,-119.716
 KFAY,FAYETTEVILLE REGIONAL AIRPORT,34.983,-78.883
 KFBG,Fort Bragg / Simmons Army Airfield,35.133,-78.933
 KFBL,"Faribault, Faribault Municipal Airport",44.333,-93.316
+KFCH,Fresno-Chandler,36.733,-119.816
 KFCM,"Minneapolis, Flying Cloud Airport",44.832,-93.470
 KFCS,Fort Carson,38.7,-104.766
 KFDK,"Frederick, Frederick Municipal Airport",39.417,-77.374
@@ -2227,6 +2236,7 @@ KHZE,Mercer County Regional Airport,47.29,-101.580
 KHZX,"Mc Gregor, Isedor Iverson Airport",46.618,-93.309
 KHZY,ASHTABULA COUNTY AIRPORT,41.783,-80.7
 KI16,"Pineville, Kee Field Airport",37.600,-81.559
+KI63,"Mount Sterling, Mount Sterling Municipal Airport",39.987,-90.804
 KIAB,McConnell Air Force Base,37.616,-97.266
 KIAD,DULLES INTERNATIONAL AIRPORT,38.933,-77.45
 KIAG,NIAGARA FALLS INTERNATIONAL  AIRPORT,43.116,-78.933
@@ -3085,6 +3095,7 @@ KTZR,"Columbus, Bolton Field Airport",39.900,-83.137
 KU16,Eagle Range,41.05,-113.066
 KU24,Delta,39.333,-112.583
 KU28,Green River Range,39.0,-110.166
+KU42,"Salt Lake City, Salt Lake City Municipal 2 Airport",40.619,-111.992
 KU78,Soda Springs / Tigert,42.65,-111.583
 KUAO,AURORA STATE AIRPORT,45.25,-122.766
 KUCP,"New Castle, New Castle Municipal Airport",41.025,-80.413
@@ -3736,6 +3747,7 @@ MMVR,Veracruz / Las Bajadas / General Heriberto Jara,19.15,-96.183
 MMZC,Zacatecas Airport,22.9,-102.683
 MMZH,Ixtapa-Zihuatanejo,17.6,-101.466
 MMZO,Manzanillo International,19.15,-104.566
+MMZP,Zapopan Military,20.75,-103.466
 MNBL,Bluefields,12.0,-86.766
 MNCH,Chinandega,12.633,-87.133
 MNJG,Jinotega,13.083,-85.983
@@ -4286,6 +4298,7 @@ RKTH,Pohang Ab,35.983,129.416
 RKTI,Jung Won Rok-Ab,37.033,127.883
 RKTM,Mangilsan Ab,36.933,126.45
 RKTN,Taegu Ab,35.9,128.65
+RKTP,Hae Mi,36.4,126.35
 RKTS,Sangju,36.416,128.166
 RKTU,Chongju Ab,36.7,127.5
 RKTW,Woong Cheon,36.2,126.55
